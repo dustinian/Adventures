@@ -26,6 +26,8 @@ __Fantasy Classes:__ Fantasy classes should be used "as-is." Though perhaps a bi
 	* _Note: A specific discussion on magic is below.
 * __Thieves:__ Burglars, Spies, Ninjas, etc.
 
+__Starting Gold:__ If you want your prices to feel more 1920s/1930s/1940s, cut starting gold and all equipment prices in half. If you want your prices to feel more 1980s/1990s/2000s, double starting gold and all equipment prices. But a characters' initial purchasing power should remain unchanged.
+
 __Fantasy Equipment:__ Try to find the closest piece of _Basic Fantasy Role-Playin Game_ equipment you can, and use that cost/weight/damage. For example, a "canteen" should cost $1 since a "Wineskin/Waterskin" costs $1. A "flashlight" should cost $5 because a "Lantern" costs $5. A "baseball bat" is a good stand in for a "mace." Etc. _Note: Specific discussions of armor and firearms are below._
 
 ###Armor Class (AC)
@@ -55,9 +57,9 @@ Rather than creating a lengthy firearms table, let's keep this simple: Light Cro
 |Light Crossbow|   1d6|60'/120'/180'|Any pistol.                                                           |
 |Heavy Crossbow|   1d8|80'/160'/240'|Anything bigger (rifles, shotguns, machine guns, and submachine guns).|
 
-__Reloading:__ Characters must spend a full round reloading every DEX &times; 2 attacks. This represents a higher-dexterity character's ability to "place" his or her shots and conserve ammunition.
+__Reloading:__ Characters empty their weapon every DEX &times; 2 attacks. This represents a higher-dexterity character's ability to "place" his or her shots and conserve ammunition. Once a weapon is empty, the character must spend a full round to reload it.
 
-__Ammunition:__ In these rules, an "attack" does not model the shot-for-shot operation of a firearm. A character using a pistol may squeeze off three quick rounds, but only makes one attack role that may deal 1d6 damage. Therefore, ammunition should be tracked by the number of times a character "empties" his or her weapon.
+__Ammunition:__ In these rules, an "attack" does not model the shot-for-shot operation of a firearm. A character using a pistol may squeeze off three quick rounds, but only makes one attack role that may deal 1d6 damage. Therefore, ammunition should be tracked by the number of times a character "empties" his or her weapon and reloads.
 
 __Customizing Firearm Mechanics:__ Players may wish to customize their character's firearm mechanics to fit the specific firearm they'd like to simulate. To customize a pistol modeled on the Light Crossbow, a player may remove one point of accuracy (-1 to Ranged Attack Bonus, -33% range) to gain a point of damage (1d6+1) or vice versa. To customize a weapon based on the Heavy Crossbow, a character may do the same, but with up to 2 points. Examples:
 
@@ -66,13 +68,19 @@ __Customizing Firearm Mechanics:__ Players may wish to customize their character
 |.44 Magnum       |             -1| 1d6+1|-33%: 40'/80'/120'  |
 |.22 Target Pistol|             +1| 1d6-1|+33%: 80'/160'/240' |
 |Sawed-Off Shotgun|             -2| 1d8+2|-66%: 25'/50'/75'   |
-|Sniper Rifle     |             +2| 1d8-2|+66%: 130'/260'/390'|
+|Hunting Rifle    |             +2| 1d8-2|+66%: 130'/260'/390'|
 
 __Bazookas, Dynamite, Grenades, etc.:__ The "Fireball" spell can be used to simulate explosives. Explosives should require a full round to reload (in the case of the bazooka) or prepare to throw (in the case of dynamite or a grenade). Don't forget the "Grenade-Like Missiles" and "Missiles that Miss" rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47.
 
 ###Magic
 
-###Starting Gold
+Magic should be used largely "as-is." GMs may opt to:
+
+* Keep magic, but it's rare (think "Indiana Jones" or "H.P. Lovecraft).
+* Keep magic, and it's common (think "Star Wars").
+* Remove magic entirely (think "Sam Spade").
+
+__No Magic:__ This doesn't mean you can't be a wizard or cast fireball. It just means you need to call your wizard something else (mad scientist? high-school chemistry teacher? explosives expert?) and it means you need to flavor your fireball differently (I throw a molotov cocktail!). Please DO stick to the spellbook limitations as written, but we can flavor it differently. Instead of saying "I only have two of these spell slots per day" you might say "I can only fit two of these babies in my backpack!." Instead of saying "I cast healing word," you might say: "I administer first aid."
 
 ##Background
 
