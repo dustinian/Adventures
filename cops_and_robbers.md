@@ -84,31 +84,31 @@ Game Masters who distribute this supplement to their players can use this sectio
 
 Decade
 
-	[] Western: 1860s-1890s
-	[] Industrial: 1900s-1910s
-	[] Gangster: 1920s
-	[] WWII: 1930s-1940s
-	[] Cold War: 1950s-1970s
-	[] Business Boom: 1980s-1990s
-	[] Modern: 2000s+
+- [ ] Western: 1860s-1890s
+- [ ] Industrial: 1900s-1910s
+- [ ] Gangster: 1920s
+- [ ] WWII: 1930s-1940s
+- [ ] Cold War: 1950s-1970s
+- [ ] Business Boom: 1980s-1990s
+- [ ] Modern: 2000s+
 
 Fantasy Races
 
-	[] Fantasy races allowed as they are.
-	[] Use the mechanics, but call it something else.
+- [ ] Fantasy races allowed as they are.
+- [ ] Use the mechanics, but call it something else.
 
 Currency Multiplier
 
-	[] Half: A dollar goes a long way.
-	[] No multiplier: A dollar is a dollar.
-	[] Double: Inflation's a pain.
+- [ ] Half: A dollar goes a long way.
+- [ ] No multiplier: A dollar is a dollar.
+- [ ] Double: Inflation's a pain.
 	
 Higher-Level Armor Class
 
-	[] Add one point every six levels.
-	[] Armor class is what it is.
+- [ ] Add one point every six levels.
+- [ ] Armor class is what it is.
 
 Magic
 
-	[] Magic is allowed as-is.
-	[] Use the mechanics, but call it something else.
+- [ ] Magic is allowed as-is.
+- [ ] Use the mechanics, but call it something else.
