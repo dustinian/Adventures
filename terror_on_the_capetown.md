@@ -12,6 +12,22 @@ Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfant
 
 The [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org) (BFRPG) is intended to run a high medieval fantasy game. So, naturally, it's going to take some customization to run a game in the 1920's. These customized rules assume some familiarity with the BFRPG rules as written. I strongly recommend running a few sessions of the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)&emdash;or at least building a few characters&emdash;before running this module.
 
+###Rolling Characters
+
+For the most part, players should roll characters according the rules in the _Basic Fantasy Role-Playing Game_.
+
+__Fantasy Races:__ Fantasy races should be used "as-is." In fact, the GM may opt to keep elves, dwarves, and halflings in his or her setting unchanged. But, if not, players can still enjoy the special abilities and saving throws of a race by giving their character a corresponding "origin." For example, a character that wants to play as a dwarf may be a "human" physically, but claim the "origin" of "coal miner" or "construction worker" to justify their Darkvision and passage/trap/construction detection. Note that characters that do this must adhere to the race's restrictions, and do not get the "Human" special abilities.
+
+__Fantasy Classes:__ Fantasy classes should be used "as-is." Though perhaps a bit of re-naming is in order:
+
+* __Clerics:__ Priests, Doctors (M.D.), Medics, etc.
+* __Fighters:__ Thugs, Boxers, Toughs, etc.
+* __Magic-Users:__  Scientists, Doctors (Ph.D.), Professors, etc.
+	* _Note: A specific discussion on magic is below.
+* __Thieves:__ Burglars, Spies, Ninjas, etc.
+
+__Fantasy Equipment:__ Try to find the closest piece of _Basic Fantasy Role-Playin Game_ equipment you can, and use that cost/weight/damage. For example, a "canteen" should cost $1 since a "Wineskin/Waterskin" costs $1. A "flashlight" should cost $5 because a "Lantern" costs $5. A "baseball bat" is a good stand in for a "mace." Etc. _Note: Specific discussions of armor and firearms are below._
+
 ###Armor Class (AC)
 
 __Calculation:__ Since it's impractical for a 1920's character to purchase and wear plate mail, AC should be calculated as: 11 + DEX + (.5 &times; CON). Round _down_.
@@ -50,9 +66,7 @@ __Customizing Firearm Mechanics:__ Players may wish to customize their character
 |.44 Magnum       |             -1| 1d6+1|-33%: 40'/80'/120'  |
 |.22 Target Pistol|             +1| 1d6-1|+33%: 80'/160'/240' |
 |Sawed-Off Shotgun|             -2| 1d8+2|-66%: 25'/50'/75'   |
-|Sniper Rifle     |             +2| 1d8-2|+66%: 100'/200'/300'|
-
-For example, a character might wield a "sawed-off shotgun" at -2 to attack, but that deals 1d8+2 damage.
+|Sniper Rifle     |             +2| 1d8-2|+66%: 130'/260'/390'|
 
 __Bazookas, Dynamite, Grenades, etc.:__ The "Fireball" spell can be used to simulate explosives. Explosives should require a full round to reload (in the case of the bazooka) or prepare to throw (in the case of dynamite or a grenade). Don't forget the "Grenade-Like Missiles" and "Missiles that Miss" rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47.
 
