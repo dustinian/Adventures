@@ -10,38 +10,51 @@ Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfant
 
 ##Setting Rules
 
-The [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org) rules-as-written are intended to run a high medieval fantasy game (think Tolkein). So, naturally, it's going to take some custom rules to run a game in the 1920's. These rules assume some familiarity with the rules as written. I strongly recommend running a few sessions of the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org), or at least building a few characters, before attempting this module.
+The [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org) (BFRPG) is intended to run a high medieval fantasy game. So, naturally, it's going to take some customization to run a game in the 1920's. These customized rules assume some familiarity with the BFRPG rules as written. I strongly recommend running a few sessions of the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)&emdash;or at least building a few characters&emdash;before running this module.
 
-###Armor Class
+###Armor Class (AC)
 
-__Calculation:__ Since it's impractical for a 1920's character to purchase and wear plate mail, Armour Class should be calculated as: 11 + DEX + (.5 &times; CON). Round _down_.
+__Calculation:__ Since it's impractical for a 1920's character to purchase and wear plate mail, AC should be calculated as: 11 + DEX + (.5 &times; CON). Round _down_.
 
-|     |Value                                     |Explanation                                      |Relevant Quote     |
-|:---:|:-----------------------------------------|:------------------------------------------------|:------------------|
-|     |11                                        |Base Armor Class for all characters.             |                   |
-|  +  |Character's Dexterity Modifier            |Character's ability to dodge, duck, and weave.   |Ha! Missed me!     |
-|  +  |Half the Character's Constitution Modifier|Character's ability to shrug off a "flesh wound."|'Tis but a scratch.|
+|     |Value                         |Explanation                                      |Relevant Quote     |
+|:---:|:-----------------------------|:------------------------------------------------|:------------------|
+|     |11                            |Base AC for all characters.                      |                   |
+|  +  |Dexterity Modifier            |Character's ability to dodge, duck, and weave.   |Ha! Missed me!     |
+|  +  |Half the Constitution Modifier|Character's ability to shrug off a "flesh wound."|'Tis but a scratch.|
 
-__Cover and Concealment:__ If you're worried that this relatively low AC score will make characters easy to hit, remember the _cover_ rules in the _Basic Fantasy Role-Playing Game_ on page 00. Even Phillip Marlow and Sam Spade kept their heads down during a shoot-out.
+__Cover and Concealment:__ If you're worried that this relatively low AC will make characters too easy to hit, remember the _cover_ rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47. Even Phillip Marlow and Sam Spade kept their heads down during a shoot-out!
 
-__Camoflage:__ Characters who take the time to wear camoflage or dark clothing should get a +2 bonus to Armor Class, but this bonus is _situational_. If the character gives away their position or the lights come on, the jig is up.
+__Camoflage:__ Characters who wear camoflage or dark clothing should get a +2 bonus to AC, but this bonus is _situational_. If the character gives away their position or the lights come on, the jig is up.
 
-__Higher-Level Play:__ This calculation may require house-ruling at higher-level play. A GM might allow his players to add one-third or one-half their level as the enemies' Hit Die and Ranged Attack Bonuse increases.
+__Higher-Level Play:__ Characters should add an extra point to AC every 6 levels. These extra points would stand in for the +1, +2, and +3 magical armor a character might collect throughout his/her career. This will help offset increases in enemies' Hit Die (and therefore their Attack Bonuses).
+
+__Bullet-Proof Vests:__ Characters who decide to wear modern body armor into a combat situation will recieve 1 Hit Die of additional hit points. Once these hit points are gone, the armor is useless and must be replaced. Modern body armor does not increase a character's AC.
 
 ###Firearms
 
-Rather than creating a lengthy firearms table, we're going to keep this simple: Light Crossbows stand in for pistols, and Heavy Crossbows stand in for anything bigger.
+Rather than creating a lengthy firearms table, let's keep this simple: Light Crossbows stand in for pistols, and Heavy Crossbows stand in for anything bigger.
 
-|Weapon        |Damage|Stands in for...                                                      |
-|:-------------|-----:|:---------------------------------------------------------------------|
-|Light Crossbow|   1d6|Any pistol.                                                           |
-|Heavy Crossbow|   1d8|Anything bigger (rifles, shotguns, machine guns, and submachine guns).|
+|Weapon        |Damage|Range        |Stands in for...                                                      |
+|:-------------|-----:|------------:|:---------------------------------------------------------------------|
+|Light Crossbow|   1d6|60'/120'/180'|Any pistol.                                                           |
+|Heavy Crossbow|   1d8|80'/160'/240'|Anything bigger (rifles, shotguns, machine guns, and submachine guns).|
 
-__Reloading:__ Depending on the firearm being modeled, one "attack" may take multiple "shots." This "burst" of fire still only does 1d6 or 1d8 damage by weapon type, but it makes tracking ammunition tricky. Therefore, the GM should assume that characters empty their weapons every DEX &times; 2 rounds. This represents a higher-dexterity character's ability to "place" his or her shots and conserve ammunition. Once a weapon is empty, it takes one full round for the character to reload.
+__Reloading:__ Characters must spend a full round reloading every DEX &times; 2 attacks. This represents a higher-dexterity character's ability to "place" his or her shots and conserve ammunition.
 
-__Customizing Firearms:__ 
+__Ammunition:__ In these rules, an "attack" does not model the shot-for-shot operation of a firearm. A character using a pistol may squeeze off three quick rounds, but only makes one attack role that may deal 1d6 damage. Therefore, ammunition should be tracked by the number of times a character "empties" his or her weapon.
 
-__Bazookas, Grenades, etc.:__
+__Customizing Firearm Mechanics:__ Players may wish to customize their character's firearm mechanics to fit the specific firearm they'd like to simulate. To customize a pistol modeled on the Light Crossbow, a player may remove one point of accuracy (-1 to Ranged Attack Bonus, -33% range) to gain a point of damage (1d6+1) or vice versa. To customize a weapon based on the Heavy Crossbow, a character may do the same, but with up to 2 points. Examples:
+
+|Weapon           |Attack Modifier|Damage|Range               |
+|:----------------|--------------:|-----:|:-------------------|
+|.44 Magnum       |             -1| 1d6+1|-33%: 40'/80'/120'  |
+|.22 Target Pistol|             +1| 1d6-1|+33%: 80'/160'/240' |
+|Sawed-Off Shotgun|             -2| 1d8+2|-66%: 25'/50'/75'   |
+|Sniper Rifle     |             +2| 1d8-2|+66%: 100'/200'/300'|
+
+For example, a character might wield a "sawed-off shotgun" at -2 to attack, but that deals 1d8+2 damage.
+
+__Bazookas, Dynamite, Grenades, etc.:__ The "Fireball" spell can be used to simulate explosives. Explosives should require a full round to reload (in the case of the bazooka) or prepare to throw (in the case of dynamite or a grenade). Don't forget the "Grenade-Like Missiles" and "Missiles that Miss" rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47.
 
 ###Magic
 
