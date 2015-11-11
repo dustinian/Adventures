@@ -82,7 +82,7 @@ __No Magic:__ Rmoving magic from the setting doesn't mean players can't roll wiz
 
 Game Masters who distribute this supplement to their players can use this section to mark the options above they're using:
 
-Decade
+###Decade
 
 - [ ] Western: 1860s-1890s
 - [ ] Industrial: 1900s-1910s
@@ -92,23 +92,23 @@ Decade
 - [ ] Business Boom: 1980s-1990s
 - [ ] Modern: 2000s+
 
-Fantasy Races
+###Fantasy Races
 
 - [ ] Fantasy races allowed as they are.
 - [ ] Use the mechanics, but call it something else.
 
-Currency Multiplier
+###Currency Multiplier
 
 - [ ] Half: A dollar goes a long way.
 - [ ] No multiplier: A dollar is a dollar.
 - [ ] Double: Inflation's a pain.
 	
-Higher-Level Armor Class
+###Higher-Level Armor Class
 
 - [ ] Add one point every six levels.
 - [ ] Armor class is what it is.
 
-Magic
+###Magic
 
 - [ ] Magic is allowed as-is.
 - [ ] Use the mechanics, but call it something else.
