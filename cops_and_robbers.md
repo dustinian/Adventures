@@ -6,7 +6,7 @@ By Dustinian Camburides
 
 ##Introduction
 
-The [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org) (BFRPG) is intended to run a high medieval fantasy game, so--naturally--it's going to take some customization to run a game with firearms and limited magic. This supplament assumes some familiarity with the BFRPG rules as written. I strongly recommend running a few sessions of the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)--or at least building a few characters--before using these rules.
+The [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org) (BFRPG) is intended to run a high medieval fantasy game, so--naturally--it's going to take some customization to run a game with firearms and limited magic. This supplement assumes some familiarity with the BFRPG rules as written. I strongly recommend running a few sessions of the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)--or at least building a few characters--before using these rules.
 
 ##Rolling Characters
 
@@ -24,7 +24,7 @@ __Fantasy Classes:__ Fantasy classes should be used "as-is." Though perhaps a bi
 
 __Currency:__ If you want your prices to feel more 1920s/1930s/1940s, cut starting gold and all equipment prices in half. If you want your prices to feel more 1980s/1990s/2000s, double starting gold and all equipment prices. But a characters' initial purchasing power should remain unchanged.
 
-__Equipment:__ Try to find the closest piece of _Basic Fantasy Role-Playin Game_ equipment you can, and use that cost/weight/damage. For example, a "canteen" should cost $1 since a "Wineskin/Waterskin" costs $1. A "flashlight" should cost $5 because a "Lantern" costs $5. A "baseball bat" is a good stand in for a "mace." Etc. _Note: Specific discussions of armor and firearms are below._
+__Equipment:__ Try to find the closest piece of _Basic Fantasy Role-Playing Game_ equipment you can, and use that cost/weight/damage. For example, a "canteen" should cost $1 since a "wineskin/waterskin" costs $1. A "Flashlight" should cost $5 because a "lantern" costs $5. A "baseball bat" is a good stand in for a "mace." Etc. _Note: Specific discussions of armor and firearms are below._
 
 ##Armor Class
 
@@ -36,13 +36,13 @@ __Calculation:__ Since it's impractical for a 1920's character to purchase and w
 |  +  |Dexterity Modifier            |Character's ability to dodge, duck, and weave.   |Ha! Missed me!     |
 |  +  |Half the Constitution Modifier|Character's ability to shrug off a "flesh wound."|'Tis but a scratch.|
 
-__Cover and Concealment:__ If you're worried that this relatively low Armor Class will make characters too easy to hit, remember the _cover_ rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47. Even Phillip Marlow and Sam Spade kept their heads down during a shoot-out!
+__Cover and Concealment:__ If you're worried that this relatively low Armor Class will make characters too easy to hit, remember the _cover_ rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47. Even Phillip Marlowe and Sam Spade kept their heads down during a shoot-out!
 
-__Camoflage:__ Characters who wear camoflage or dark clothing should get a +2 bonus to Armor Class, but this bonus is _situational_. If the character gives away their position or the lights come on, the jig is up.
+__Camouflage:__ Characters who wear camouflage or dark clothing should get a +2 bonus to Armor Class, but this bonus is _situational_. If the character gives away their position or the lights come on, the jig is up.
 
 __Higher-Level Play:__ Characters should add an extra point to Armor Class every 6 levels. These extra points would stand in for the +1, +2, and +3 magical armor a character might collect throughout his/her career. This will help offset increases in enemies' Hit Die (and therefore their Attack Bonuses).
 
-__Bullet-Proof Vests:__ Characters who decide to wear modern body armor into a combat situation will recieve 1 Hit Die of additional hit points to be rolled and tracked by the Game Master. Once these hit points are gone, the armor is useless and must be replaced. Modern body armor does not increase a character's Armor Class.
+__Bullet-Proof Vests:__ Characters who decide to wear modern body armor into a combat situation will receive 1 Hit Die of additional hit points to be rolled and tracked by the Game Master. Once these hit points are gone, the armor is useless and must be replaced. Modern body armor does not increase a character's Armor Class.
 
 ##Firearms
 
@@ -51,7 +51,7 @@ Rather than creating a lengthy firearms table, let's keep this simple: Light Cro
 |Weapon        |Damage|Range        |Stands in for...                                                      |
 |:-------------|-----:|------------:|:---------------------------------------------------------------------|
 |Light Crossbow|   1d6|60'/120'/180'|Any pistol.                                                           |
-|Heavy Crossbow|   1d8|80'/160'/240'|Anything bigger (rifles, shotguns, machine guns, and submachine guns).|
+|Heavy Crossbow|   1d8|80'/160'/240'|Anything bigger (rifles, shotguns, machine guns, and sub-machine guns).|
 
 __Reloading:__ Characters empty their weapon every DEX &times; 2 attacks, where DEX is the character's Dexterity Modifier. This represents a higher-dexterity character's ability to "place" his or her shots and conserve ammunition. Once a weapon is empty, the character must spend a full round to reload it.
 
@@ -76,7 +76,7 @@ Magic should be used largely "as-is." Game Masters may opt to:
 * Keep magic, and it's common (think "Star Wars").
 * Remove magic entirely (think "Sam Spade").
 
-__No Magic:__ Rmoving magic from the setting doesn't mean players can't roll wizards and cast fireballs. But call that wizard a "rogue chemistry teacher" and have him throw a "molotov cocktail." Characers should adhere to spellbook limitations, but instead of saying "I only have two of these spell slots per day," characters might say "I can only fit two of these babies in my backpack!" Instead of saying "I cast healing word," characers might say: "I administer first aid."
+__No Magic:__ Removing magic from the setting doesn't mean players can't roll wizards and cast fireballs. But call that wizard a "rogue chemistry teacher" and have him throw a "Molotov cocktail." Characters should adhere to spellbook limitations, but instead of saying "I only have two of these spell slots per day," characters might say "I can only fit two of these babies in my backpack!" Instead of saying "I cast healing word," characters might say: "I administer first aid."
 
 ##Game Master Decisions
 
