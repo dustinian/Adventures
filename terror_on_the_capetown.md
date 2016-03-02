@@ -1,4 +1,4 @@
-#Terror on the Capetown
+#Terror on the Cattaro
 
 There's been a murder at sea... and whatever committed it was no man.
 
@@ -21,6 +21,18 @@ A summary of the adventure.
 ###Game Master Information
 
 Notes on running the game, any plot twists, etc.
+
+###Additional Information
+
+__1923:__ Information about the era... [The 1920s](https://en.wikipedia.org/wiki/1920s)
+
+__The Cattaro:__ Information about the ship [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))
+
+__Popular Male Names:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry
+
+__Popular Female Names:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, emma, Marie
+
+__Popular Surnames:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor
 
 ##Area 1
 
