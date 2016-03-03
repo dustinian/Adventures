@@ -66,35 +66,41 @@ __Map:__ No map of Valil is included in this supplement. Buildings, businesses, 
 
 * __Mundane Tasks:__ Men and women in Valil are as men and women today... their capabilities vary greatly, and some are better fighters, talkers, thinkers than others. But no one is truly "superhuman."
 
-* __Magic:__ There is magic in Valil, but it's limited. Magic users are formidible, though not unbeatable opponents. Magic can consume different amounts of energy at differnt, unpredictable times. Magic users can cast a number of spells per day equal to an Intellect check they must make upon waking from a restful sleep (Intellect Die + Intellect Priority). Unused spells do not carry over from day to day.
+* __Magic:__ There is magic in Valil, but it's limited. Magic users are formidible, though not unbeatable opponents. Magic can consume different amounts of energy at differnt, unpredictable times. Magic users can cast a number of spells per day equal to an Intellect or Extraordinary check they must make upon waking from a restful sleep (Intellect Die + Intellect Priority). Unused spells do not carry over from day to day.
 
 ##Characters
 
 ###Archetypes
 
-* __Soldier/Warrior/Guard:__ 
-* __Spy/Thief/Rogue:__ 
-* __Wizard/Warlock/Sorcerer:__ 
-* __Cleric/Monk/Paladin:__ 
+Players should feel welcome to either customize these archetypes or invent entirely new archetypes with approval from his/her Game Master.
+
+* __Warrior/Barbarian:__ Physicality. Defend their friends and attack their enemies with their physical abilities and weapons.
+* __Thief/Rogue:__ Personality. Sneak past enemies and win new friends by reading and manipulating people and crowds.
+* __Wizard/Magician:__ Intellect. Maniupate elemental, illusory, and arcane forces with diligent study and mental discipline.
+* __Cleric/Warlock:__ Extraordinary. Call upon mystical forces to help and heal friends... or hurt enemies.
 
 ###Narrative Abilities
 
+Players should choose primary narrative abilities that derive from their archetype, and secondary narrative abilities that derive from their background.
+
 ####Number
 
-* __Major:__ 2
+* __Major:__ 1
 * __Minor:__ 3
 
 ####Sources
 
-* __Mundane:__ 
-* __Arcane:__ 
-* __Divine:__ 
-* __Infernal:__ 
+* __Mundane:__ Trained. Relatively common abilities... archery, fencing, riding... learned from relatively common mentors.
+* __Arcane:__ Discovered. Very uncommon abilities... spells, curses, rituals... learned from very uncommon mentors.
+* __Divine:__ God-given. Granted by a deity... who nearly always demands something in return: fealty, loyalty, sacrifice, etc.
+* __Infernal:__ Harnessed. Dark or unnatural forces twisted or bent to serve their user... but these usually leave their mark.
 
 ###Health and Dying
 
-* __Damage Instances:__ 
-* __Recovery:__
+The first two damage instances a character receives may be superficial: bumps, bruises, strains, etc. Only the third damage instance should be considered a "wound." Thus, any duels "to first blood" would actually be "to the third damage instance."
+
+* __Damage Instances:__ 4
+* __Recovery:__ Recover 2 instances after first long, restful sleep. Remaining instances recovered one-per-rest.
 
 ##Adventures
 
