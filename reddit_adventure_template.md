@@ -28,6 +28,11 @@ This is a role-playing experiment, and the only independent variable is the syst
   * Haunted Dungeons
   * Merchant's Guild
 * __Owning It__
+* __Pre-Generated Characters__
+  * Bobby the Barbarian
+  * William the Wizard
+  * Thaddeus the Thief
+  * Clarence the Cleric
 
 ##Setting
 
@@ -65,8 +70,8 @@ This is a role-playing experiment, and the only independent variable is the syst
 ###Archetypes
 
 * __Warrior/Barbarian:__ Physicality. Defend friends and attack enemies with physical abilities and weapons.
-* __Thief/Rogue:__ Personality. Sneak past enemies and win new friends by reading and manipulating people and crowds.
 * __Wizard/Magician:__ Intellect. Maniupate elemental, illusory, and arcane forces with diligent study and mental discipline.
+* __Thief/Rogue:__ Personality. Sneak past enemies and win new friends by reading and manipulating people and crowds.
 * __Cleric/Warlock:__ Extraordinary. Call upon mystical forces to heal friends... or hurt enemies.
 
 ###Narrative Abilities
@@ -100,12 +105,14 @@ The first two damage instances a character receives may be superficial:  bruises
 
 Description
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+* __Damage Instances:__ 1
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -117,12 +124,14 @@ Description
 
 Description
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+* __Damage Instances:__ 2
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -130,18 +139,18 @@ Description
 
 #####Flaws
 
-#####Wererat
+####Wererat
 
 Description
 
-#####Abilities
+* __Damage Instances:__ 3
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -157,14 +166,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ 1
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -176,14 +185,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ 2
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -195,14 +204,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ 3
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -218,14 +227,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -243,14 +252,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -262,14 +271,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -281,14 +290,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -300,14 +309,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -321,19 +330,18 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 
 * __Haunted Dungeons:__ I've done a spot of time in the dungeons under the Sherriff's keep, and I tell you them's 'aunted! Ain't no floor _lower_ than the duneon, but a cellmate got 'isself taken! And we 'eard 'im screaming under the floor as summat carried 'im away!
 
-
 ####Skeleton
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -345,14 +353,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -364,14 +372,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -383,14 +391,14 @@ Description
 
 Description
 
-#####Abilities
+* __Damage Instances:__ #
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -406,12 +414,14 @@ Description
 
 Description
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+* __Damage Instances:__ #
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -423,12 +433,14 @@ Description
 
 Description
 
-|Ability       | Die| Priority|
-|--------------|----|---------|
-|Physicality   | #d#|       +#|
-|Intellect     | #d#|       +#|
-|Personality   | #d#|       +#|
-|Extraordinary | #d#|       +#|
+* __Damage Instances:__ #
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
 
 #####Narrative Abilities
 
@@ -441,4 +453,126 @@ Description
 Customizing this supplement for your group...
 
 * __Name NPCs:__ No non-player characters are named in this supplement; they are referred to by only by occupation or role. This makes it easy to drop any adventure into an existing campaign with existing NPCs. You already know the Innkeeper in your campaing is Audric, so when you read "Inkeeper" you say "Audric." You don't have to remember that "Garett" in this supplement is actually "Audric" in your campaign.
+* __Keep NPCs:__ Once players latch onto an NPC as a beloved friend or hated enemy, keep bringing that NPC back for the next adventure. Make them the villain. Give them a cameo. Let a Player catch sight of them in a crowd. But use them, because player love/hate is hard to create, and it's so vital to a good, fun experience at the table.
 * __Draw Maps:__ Maps aren't necessary for this campaign, and I often run without them. But if you want to commit to a geography, there's no geography like your own. It ensures a proper fit into a larger campaign, and no map's easier to remember than the one you drew yourself.
+
+##Pre-Generated Characters
+
+Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players.
+
+###Bobby the Barbarian
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +4|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+#####Flaws
+
+###Thaddeus the Thief
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +4|
+|Extraordinary | d#  |       +#|
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+#####Flaws
+
+###William the Wizard
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +4|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +#|
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+#####Flaws
+
+###Clarence the Cleric
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|
+|:-------------|:---:|:-------:|
+|Physicality   | d#  |       +#|
+|Intellect     | d#  |       +#|
+|Personality   | d#  |       +#|
+|Extraordinary | d#  |       +4|
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+#####Flaws
+
