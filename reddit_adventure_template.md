@@ -124,17 +124,17 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 #####Wererat
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -143,11 +143,11 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ###Goblin Invasion
 
@@ -155,9 +155,9 @@ Description
 
 ####Goblin
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -166,17 +166,17 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Hobgoblin
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -185,17 +185,17 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Bugbear
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -204,20 +204,21 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ###Kobald Corruption/Corundrum (introduce puzzles)
 
 * __Digging Sounds:__ My husband guards one of the gates to the city. When he's on duty, he has to sleep there. In the night, they hear digging sounds, deep under the gatehouse. Somebody is digging a tunnel somewhere. They've told the captain, but he thinks they're hearing things!
 
 ####Kobald
-######Description 
 
-######Abilities
+Description
+
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -226,11 +227,11 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Traps
 
@@ -240,9 +241,9 @@ Description
 
 ####Guard
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -251,17 +252,17 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Noble
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -270,17 +271,17 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Assassin
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -289,17 +290,17 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Champion
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -308,11 +309,11 @@ Description
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ###Undead Affliction
 
@@ -323,9 +324,9 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 
 ####Skeleton
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -334,17 +335,17 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Zombie
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -353,17 +354,17 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Death Knight
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -372,17 +373,17 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ####Lich
 
-######Description 
+Description
 
-######Abilities
+#####Abilities
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -391,11 +392,11 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 |Personality   | #d#|       +#|
 |Extraordinary | #d#|       +#|
 
-######Narrative Abilities
+#####Narrative Abilities
 
-######Goals
+#####Goals
 
-######Flaws
+#####Flaws
 
 ###Demon Damnation
 
@@ -403,7 +404,7 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 
 ####Cultist
 
-Description 
+Description
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
@@ -420,7 +421,7 @@ Description
 
 ####Demon
 
-Description 
+Description
 
 |Ability       | Die| Priority|
 |--------------|----|---------|
