@@ -1,10 +1,10 @@
 #Valil
 
-__Fantasy setting and adventures for NGS, the [Narrative Game System](http://www.venturelandgames.com).__
+__Fantasy setting and adventures for the [Narrative Game System](http://www.venturelandgames.com).__
 
-_Valil_ does its best to explore the most common tropes of fantasy role-playing, from rats in a basement to a dungeon filled with undead. I hope this series of clichéd adventures will demonstrate to you and your players the flexibility of NGS, and the very non-cliché approaches you're free to immediately take, with no flipping through a rulebook.
+Explore the most common clichés in fantasy role-playing, from rats in a basement to skeletons in a dungeon; use these tropes to explore the flexibility of NGS, and the very non-cliché approaches you're free to take.
 
-This is a role-playing experiment, and the only independent variable is the system. My hypothesis is that you'll appreciate NGS's simplicity, and your group will love getting right to the fun part: playing. I look forward to your conclusions!
+This is a role-playing experiment, and the independent variable is the system. My hypothesis is that you'll appreciate NGS's simplicity, and your group will love getting right to the fun part: playing. I look forward to your conclusions!
 
 ##Outline
 
@@ -45,11 +45,11 @@ This is a role-playing experiment, and the only independent variable is the syst
 
 ###Big Events
 
-* __Tyranny, 100 years ago:__ The thirteenth sherriff of Valil ruled with an iron fist while his son toyed with dark forces. Many peasants died. The Tyrant was assinated; his son was imprisoned. His regime is remembered with shivers and ghost stories to this day.
-* __Prosperity, 25 years ago:__ The sixteenth sherriff of Valil raised taxes on the nobility and gentry, earning much emnity. But he used these funds to improve roads, fortify Valil, and double the standing guard to 100. Banditry all but stopped, and the security improved peasants' lives. After a few years, the sixteenth sherriff was beloved like a tough, but caring, father.
-* __Abdication, 5 years ago:__ The beloved sixteenth sherriff stepped down after an abnormally long rule, sparing Valil from his mounting senility. He sequestered himself in a monestary, selecting the head of the merchant's guild as the seventeenth sherriff.
-* __Assassination, last year:__ The seventeenth sherriff reversed the taxation... merchants and nobles grew wealthier, but Valil could no longer afford 100 full-time guardsmen. Banditry rose. Peasants protested. Some nobles advocated for the return of the taxes, but most nobles refused. The seventeenth sherriff was assasinated in his bed.
-* __Coronation, last month:__ The distant King appointed a new sherriff of Valil. The eighteenth sheriff, the first non-native sheriff of Valil in 400 years, arrived last month. Is he or she a good ruler in need of strong right hands to help set Valil right? A weak ruler to be manipulated? Another tyrant that must be overthrown? One of these masquerading as another? It's up to you!
+* __Tyranny, _100 years ago_:__ The thirteenth sherriff of Valil ruled with an iron fist while his son toyed with dark forces. Many peasants died. The Tyrant was assinated; his son was imprisoned. His regime is remembered with shivers and ghost stories to this day.
+* __Prosperity, _25 years ago_:__ The sixteenth sherriff of Valil raised taxes on the nobility and gentry, earning much emnity. But he used these funds to improve roads, fortify Valil, and double the standing guard to 100. Banditry all but stopped, and the security improved peasants' lives. After a few years, the sixteenth sherriff was beloved like a tough, but caring, father.
+* __Abdication, _5 years ago_:__ The beloved sixteenth sherriff stepped down after an abnormally long rule, sparing Valil from his mounting senility. He sequestered himself in a monestary, selecting the head of the merchant's guild as the seventeenth sherriff.
+* __Assassination, _last year_:__ The seventeenth sherriff reversed the taxation... merchants and nobles grew wealthier, but Valil could no longer afford 100 full-time guardsmen. Banditry rose. Peasants protested. Some nobles advocated for the return of the taxes, but most nobles refused. The seventeenth sherriff was assasinated in his bed.
+* __Coronation, _last month_:__ The distant King appointed a new sherriff of Valil. The eighteenth sheriff, the first non-native sheriff of Valil in 400 years, arrived last month. Is he or she a good ruler in need of strong right hands to help set Valil right? A weak ruler to be manipulated? Another tyrant that must be overthrown? One of these masquerading as another? It's up to you!
 
 ###Rumors
 
@@ -62,8 +62,8 @@ This is a role-playing experiment, and the only independent variable is the syst
 
 ###DC 21
 
-* __Mundane Tasks:__ Men and women in Valil are just men and women... their capabilities vary greatly. Some are better fighters, talkers, thinkers than others, but no one is "superhuman."
-* __Magic:__ There is magic in Valil, but it's limited. Magic users are formidible, but not invincible. Magic users can cast a number of spells per day equal to the Intellect or Extraordinary check they make upon waking from a restful sleep. Unused spells do not carry over from day to day.
+* __Mundane Tasks:__ Men and women are just men and women... their capabilities vary greatly. Some are better fighters, talkers, thinkers than others, but no one is "superhuman."
+* __Magic:__ Magic users are formidible, but not invincible. Magic users can cast a number of spells per day equal to the Intellect or Extraordinary check they make upon waking from a restful sleep. Unused spells do not carry over from day to day.
 
 ##Characters
 
@@ -71,7 +71,7 @@ This is a role-playing experiment, and the only independent variable is the syst
 
 * __Warrior/Barbarian:__ Physicality. Defend friends and attack enemies with physical abilities and weapons.
 * __Wizard/Magician:__ Intellect. Maniupate elemental, illusory, and arcane forces with diligent study and mental discipline.
-* __Thief/Rogue:__ Personality. Sneak past enemies and win new friends by reading and manipulating people and crowds.
+* __Thief/Rogue:__ Personality. Blend in, strike, and fade away by reading and manipulating people and crowds.
 * __Cleric/Warlock:__ Extraordinary. Call upon mystical forces to heal friends... or hurt enemies.
 
 ###Narrative Abilities
@@ -97,11 +97,28 @@ The first two damage instances a character receives may be superficial:  bruises
 
 ##Adventures
 
+These "adventures" are short outlines, with a few bullets on:
+
+* __Hooks:__ Engage your players' characters.
+* __Investigation:__ Facts for them to uncover.
+* __Monsters:__ Information on the "bad guys."
+
 ###Rat Infestation
 
-* __Foul Beasts:__ Don't eat or drink anything from any Inn or Tavern near the river! The ships have brought in rats lately, and the riverside businesses are overrun!
+A rat problem has gotten out of hand in the waterfront district.
 
-####Rat
+####Hooks
+
+* __Hired:__ An inkeeper or bartender hires the players to clear the rats out of his/her basement.
+* __Attacked:__ Rats swarm the players one evening in their room(s).
+
+####Investigaton
+
+* __Word on the Street:__ The rats down by the waterfront have become unusually aggressive and organized in the last six weeks.
+* __Casebreaker:__ One particular business seems unaffected.
+* __Revealed:__ A wererat runs that business, and has recruited rats and giant rats to wreak havoc amongst his/her competitors.
+
+####Rat Swarm
 
 Description
 
@@ -109,10 +126,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d4  |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -128,10 +145,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d6  |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -147,10 +164,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d6  |       +#|
+|Intellect     | d6  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -160,7 +177,19 @@ Description
 
 ###Goblin Invasion
 
-* __Green Men:__ It's little green men what done it! Caravans outside the city, going or coming, makes no difference! My cousin saw it from a distance, but he's sure: small green men burst out of the bushes and killed everyone in one of them caravans. All the coins, food, and weapons gone in a flash.
+Caravans are being waylaid just outside town with frightening regularity.
+
+####Hooks
+
+* __Hired:__ A merchant hires the players to guard a caravan.
+* __Hired:__ The town guard hires the players to stamp out the mystery attacks.
+* __Investigate:__ Players look into the soaring prices of local goods.
+
+####Investigaton
+
+* "Green Men" have been seen attacking the caravans.
+* These little men are goblins! A whole tribe of them!
+* The goblins have two camps: Young, healthy fighters; and the very young and very old who need guarding.
 
 ####Goblin
 
@@ -170,10 +199,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d6  |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -189,10 +218,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d8  |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -208,10 +237,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d10 |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -231,10 +260,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d4  |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -256,10 +285,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d6  |       +#|
+|Intellect     | d6  |       +#|
+|Personality   | d6  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -275,10 +304,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d4  |       +#|
+|Intellect     | d6  |       +#|
+|Personality   | d8  |       +#|
+|Extraordinary | d6  |       +#|
 
 #####Narrative Abilities
 
@@ -294,10 +323,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d8  |       +#|
+|Intellect     | d8  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -313,10 +342,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d10 |       +#|
+|Intellect     | d6  |       +#|
+|Personality   | d6  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -338,10 +367,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d4  |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -357,10 +386,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d8  |       +#|
+|Intellect     | d4  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d4  |       +#|
 
 #####Narrative Abilities
 
@@ -376,10 +405,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d10 |       +#|
+|Intellect     | d6  |       +#|
+|Personality   | d4  |       +#|
+|Extraordinary | d8  |       +#|
 
 #####Narrative Abilities
 
@@ -395,10 +424,10 @@ Description
 
 |   Ability    | Die | Priority|
 |:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|Physicality   | d8  |       +3|
+|Intellect     | d12 |       +4|
+|Personality   | d4  |       +1|
+|Extraordinary | d10 |       +2|
 
 #####Narrative Abilities
 
