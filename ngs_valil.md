@@ -1,6 +1,6 @@
 #Valil
 
-__Fantasy setting and adventures for the [Narrative Game System](http://www.venturelandgames.com).__
+__Fantasy setting and adventures for the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) by [Venture Land Games](http://www.venturelandgames.com).__
 
 Explore the most common clichés in fantasy role-playing, from rats in a basement to skeletons in a dungeon; use these tropes to explore the flexibility of NGS, and the very non-cliché approaches you're free to take.
 
@@ -11,7 +11,8 @@ This is a role-playing experiment, and the independent variable is the system. M
 * __Setting__
   * Introduction
   * Big Events
-  * Rumors  * DC 21
+  * Rumors
+  * DC 21
 * __Characters__
   * Archetypes
   * Narrative Abilities
@@ -90,10 +91,14 @@ These abilities can be acquired from several sources:
 
 ###Health and Dying
 
-The first two damage instances a character receives may be superficial:  bruises, strains, fatigue, etc. Only the third damage instance should be considered a "wound." Thus, any duels "to first blood" would actually be "to the third damage instance."
-
 * __Damage Instances:__ 4
+  * __1-2:__ The first two damage instances a character receives are superficial:  bruises, strains, fatigue, etc.
+  * __3:__ Only the third damage instance should be considered a "wound." Thus, any duels "to first blood" would actually be "to the third damage instance."
+  * __4:__ 
 * __Recovery:__ Recover 2 instances after first long, restful sleep. Recover remaining instances one-per-rest.
+* __Healing:__ Characters who take appropriate narrative abilities can heal themselves or other charactes.
+  * __Major:__ Restore 2 instances.
+  * __Minor:__ Restore 1 instance.
 
 ##Adventures
 
@@ -124,9 +129,9 @@ Description
 
 * __Damage Instances:__ 1
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d4  |       +4|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d4  |   +4    |
 |Intellect     | d4  |       +3|
 |Personality   | d4  |       +1|
 |Extraordinary | d4  |       +2|
