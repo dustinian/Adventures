@@ -21,7 +21,7 @@ Abbreviations
 
 |Abbreviation|Term                 |Definition|
 |:-----------|:--------------------|:---------|
-|GM          |Game Master          |The game's referee. Controls the antagonists.
+|GM          |Game Master          |The game's referee. Controls the antagonists.|
 |NGS         |Narrative Game System|This game system.|
 |NPC         |Non-Player Character |Character controlled by the GM.|
 |PC          |Player Character     |Character controlled by a player, a protagonist.|
@@ -90,10 +90,11 @@ Starting characters have a total rating of 14.
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |   +1    |  2   |
-|Intellect     | d6  |   +2    |  3   |
-|Personality   | d6  |   +3    |  4   |
-|Extraordinary | d6  |   +4    |  5   |
+|Physicality   | d6  |   +1    |   2  |
+|Intellect     | d6  |   +2    |   3  |
+|Personality   | d6  |   +3    |   4  |
+|Extraordinary | d6  |   +4    |   5  |
+|Rating        |  4  |   10    |  14  |
 
 
 Narrative Abilities

@@ -106,6 +106,7 @@ These "adventures" are short outlines, with a few bullets on:
 
 * __Hooks:__ Engage your players' characters.
 * __Investigation:__ Facts for them to uncover.
+* __Twists:__ Ideas to inspire fresh takes on old tropes.
 * __Monsters:__ Information on the "bad guys."
 
 ###Rat Infestation
@@ -196,6 +197,10 @@ Caravans are being waylaid just outside town with frightening regularity.
 * These little men are goblins! A whole tribe of them!
 * The goblins have two camps: Young, healthy fighters; and the very young and very old who need guarding.
 
+####Twists
+
+* The "Green Men" are actually Halflings masquerading as Goblins.
+
 ####Goblin
 
 Description
@@ -210,6 +215,8 @@ Description
 |Extraordinary | d4  |       +3|
 
 #####Narrative Abilities
+
+* __Scrappy:__ Goblins have no formal training, but they learn to fight right away: for their "share" of loot, for mates, even for food.
 
 #####Goals
 
