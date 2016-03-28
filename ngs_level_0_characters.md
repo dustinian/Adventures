@@ -72,29 +72,34 @@ This method is a "hack." While it's great for getting a concept off the ground, 
 |          Flaw           | Explanation                                                                                                                                                                                                                                         | Mitigation                                                                                                                                                                                                          |
 |:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | __Requires vigilence.__ | Round-after-round, you have to remember to apply the penalty, and you have to remember to say "2" even when you get a -1, 0, 1, etc.                                                                                                                | Temporalize. If a penalized NPC rarely appears, rarely "rolls," this is no problem. If a penalized PC is going to level up quickly, perhaps you're only running "Level 0" as the first session, this is no problem. |
-| __Scales poorly.__      | Impossible situations can arise... 1d6+4 (minimum roll: 5) will always beat a 1d6-1 (maximum roll: 5).                                                                                                                                              |
-| __Advances rapidly.__   | Advancing a character from a penalty of -3 to -2, or even -1 to -0, is a big jump in power... it's a +1 gain in every _Mechanical Ability_ accross the board, while dvancing a single die is an _average_ +1 gain to only one _Mechanical Ability_. |
+| __Scales poorly.__      | Impossible situations can arise... 1d6+4 (minimum roll: 5) will always beat a 1d6-1 (maximum roll: 5).                                                                                                                                              | Acceptance. If you penalized this character for a reason, is it OK that he or she won't have a fighting chance in some situations? If not, you'll want to choose one of the integrated approaches below.            |
+| __Advances rapidly.__   | Advancing a character from a penalty of -3 to -2, or even -1 to -0, is a big jump in power... it's a +1 gain in every _Mechanical Ability_ accross the board, while dvancing a single die is an _average_ +1 gain to only one _Mechanical Ability_. | Ration. Make this character earn his or her experience points. Or don't ration. If your aim is to be penalized for only a session or two, this flaw works in your favor!                                            |
 
-* Requires vigilence. 
-* Scales poorly. Impossible situations can arise... 1d6+4 (minimum roll: 5) will always beat a 1d6-1 (maximum roll: 5).
-* Advances rapidly. Advancing a character from a penalty of -3 to -2, or even -1 to -0, is a big jump in power... it's a +1 gain in every _Mechanical Ability_ accross the board. This is a much larger gain than advancing a single die, which is an _average_ +1 gain to only one _Mechanical Ability_.
-
-But each of these flaws can be okay.
 
 
 ##Integrated Approaches
 
 In NGS, there are two components to every roll: the die and the priority. This gives us three "integrated" approaches for "Level 0" house rules:
 
-|          |                |    Priority    |        Priority         |
-|:--------:|:--------------:|:--------------:|:-----------------------:|
-|          |                | __No change.__ |       __Change.__       |
-| __Die__  | __No change.__ |      N/A       |     Lower priority.     |
-| __Die__  |  __Change.__   |   Lower die.   | Lower die and priority. |
+|          |                |    Priority    |        Priority          |
+|:--------:|:--------------:|:--------------:|:------------------------:|
+|          |                | __No change.__ |       __Change.__        |
+| __Die__  | __No change.__ |      N/A       |     Reduce priority.     |
+| __Die__  |  __Change.__   |  Reduce die.   | Reduce die and priority. |
 
 
 
-##Lower Die
+##Reduce Die
 
-##Lower Priority
+
+
+##Reduce Priority
+
+
+
+##Reduce Die and Priority
+
+
+
+##Narrative Abilities
 
