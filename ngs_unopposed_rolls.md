@@ -33,28 +33,10 @@ _Die_ + _Priority_ plotted against _DC_.
 |__d12+3__|100%|100%|100%| 92%| 83%| 75%| 67%| 58%| 50%| 42%| 33%| 25%| 17%|  8%|  0%|
 |__d12+4__|100%|100%|100%|100%| 92%| 83%| 75%| 67%| 58%| 50%| 42%| 33%| 25%| 17%|  8%|
 
-Guidance from the Core Rulebook
--------------------------------
-
-Here is some context on DCs from the core rulebook.
-
-| Roll | Physicality                     | Intellect                          | Personality                                          |
-|:----:|:--------------------------------|:-----------------------------------|:-----------------------------------------------------|
-|   2  | Climb a Ladder.                 | Maze on a restaurant child menu.   | Lying to a child about Santa.                        |
-|   3  | Climb a Knotted Rope on a wall. |                                    |                                                      |
-|   4  |                                 | Average Sudoku.                    | Lying to your boss about being sick.                 |
-|   5  | Climb a Knotted Rope.           |                                    |                                                      |
-|   6  |                                 |                                    |                                                      |
-|   7  |                                 | Average NY Times crossword puzzle. | Lying to your spouse about an affair.                |
-|   8  | Climb a wall with hand-holds.   |                                    |                                                      |
-|   9  |                                 |                                    |                                                      |
-|  10  |                                 |                                    |                                                      |
-|  11  | Climb a smooth wall.            | NSC Puzzle test.                   | Lying to a professional investigator about a murder. |
-
 Extrapolated Rolls
 ------------------
 
-Here is some context on DCs, extrapolated from the table above and the guidance from the Core Rulebook (p.34).
+Here is some context on _DC_s, extrapolated from the table above and the guidance from the Core Rulebook (p.34).
 
 | Roll | Minimal Success | 50% Success | Description                                                               |
 |:----:|:---------------:|:-----------:|:--------------------------------------------------------------------------|
@@ -76,7 +58,7 @@ Here is some context on DCs, extrapolated from the table above and the guidance 
 
 ##Methodology
 
-I wrote the following custom function in Excel to calculate the results of all possible rolls in an opposed roll:
+I wrote the following custom function in Excel to calculate the results of all possible rolls against a _DC_:
 
     Function AverageUnopposedDiePercent(Die As Byte, Modifier As Byte, Difficulty As Byte) As Double
         'PURPOSE:
