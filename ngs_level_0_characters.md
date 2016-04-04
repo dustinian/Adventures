@@ -1,41 +1,123 @@
-﻿#Level 0 Characters
+﻿Level 0 Characters
+==================
 
 This essay considers approaches for rolling "Level 0" characters in the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) (NGS) by [Venture Land Games](http://www.venturelandgames.com). This essay focuses on _Mechanical Abilities_.
 
 
 
-##Contents
+Contents
+--------
 
 * Purpose
 * History
+* Summary
+* Reduce Die
+* Reduce Priority
+* Reduce Die and Priority
 * Hack
-* Integrated Approaches
-* Lower Die
-* Lower Priority
-* Lower Die and Priority
-* Narrative Abilities
 * Conclusion
 
 
 
-##Purpose
+Purpose
+-------
+
+This option allows:
+
+* __GMs__ to roll NPCs that are weaker than even starting-level characters; this is useful if the GM wants the players to feel "powerful" immediately--a "superhero" game, for example.
+* __Players__ to roll weaker PCs that can "grow into" a full-fledged PC.--an "origin story" one-shot or flashback, for example.
 
 
 
-##History
+History
+-------
 
-* __Advanced Dungeons & Dragons:__ 
-* __Dungeons & Dragons, 3.5e:__ 
-* __Fate:__ 
-* __Savage Worlds:__ 
-* __Apocalypse World:__ 
-* __Cortex Plus:__ 
+* __1978, Advanced Dungeons & Dragons:__ "Unearthed Arcana"  discussed Level 0 magic users, and "Greyhawk Adventures" offered rules for Level 0 characters.
+* __1980, Rolemaster:__ Level 0 characters are one of several character creation options.
+* __1989, Advanced Dungeons & Dragons, Second Edition:__ Statistics Level 0 characters, such as saving throws, are included.
 
 
 
-##Hack
+Summary
+-------
+
+In NGS, there are two components to every roll: the die and the priority. This gives us three approaches for "Level 0" house rules:
+
+|          |                |    Priority    |        Priority          |
+|:--------:|:--------------:|:--------------:|:------------------------:|
+|          |                | __No change.__ |       __Change.__        |
+| __Die__  | __No change.__ |      N/A       |     Reduce priority.     |
+| __Die__  |  __Change.__   |  Reduce die.   | Reduce die and priority. |
+
+
+
+Reduce Die
+----------
+
+Reducing the die is an easy way to build a Level 0 character, and the die is a good, tactile reminder of the character's level.
+
+###Roll
+
+Keep thie _Priority_ distribution of +1, +2, +3, and +4, but roll d4s, rather than d6s.
+
+###Run
+
+Review the updated accuracy table for a breakdown of opposed rolls. 
+
+|          |      |   d4   |  d4   |  d4   |  d4   |  d6   |  d6   |  d6   |  d6   |  d8   |  d8   |  d8   |  d8   |  d10  |  d10  |  d10  |  d10  |  d12  |  d12  |  d12  |  d12  |
+|---------:|-----:|-------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|
+|          |      | __+1__ |__+2__ |__+3__ |__+4__ |__+1__ |__+2__ |__+3__ |__+4__ |__+1__ |__+2__ |__+3__ |__+4__ |__+1__ |__+2__ |__+3__ |__+4__ |__+1__ |__+2__ |__+3__ |__+4__ |
+|  __d4__  |__+1__|   50%  |  19%  |   6%  |   0%  |  33%  |  13%  |   4%  |   0%  |  25%  |   9%  |   3%  |   0%  |  20%  |   8%  |   3%  |   0%  |  17%  |   6%  |   2%  |   0%  |
+|  __d4__  |__+2__|   81%  |  50%  |  19%  |   6%  |  58%  |  33%  |  13%  |   4%  |  44%  |  25%  |   9%  |   3%  |  35%  |  20%  |   8%  |   3%  |  29%  |  17%  |   6%  |   2%  |
+|  __d4__  |__+3__|   94%  |  81%  |  50%  |  19%  |  75%  |  58%  |  33%  |  13%  |  56%  |  44%  |  25%  |   9%  |  45%  |  35%  |  20%  |   8%  |  38%  |  29%  |  17%  |   6%  |
+|  __d4__  |__+4__|  100%  |  94%  |  81%  |  50%  |  88%  |  75%  |  58%  |  33%  |  69%  |  56%  |  44%  |  25%  |  55%  |  45%  |  35%  |  20%  |  46%  |  38%  |  29%  |  17%  |
+
+###Advance
+
+Advance using the out-of-the-box NGS rules; it costs six XP to advance any _Mechanical Ability_ to a d6.
+
+###Caution
+
+d4s are underpowered. A d4+1 cannot beat any other die +4. For example: the _maxium_ roll of a d4+1 is 5; the _minimum_ roll of a d4+4 is 5; even if both roll 5, the tie-breaker is the priority. Review the accuracy table above and note the 0%. This is why d4s aren't used in NGS out-of-the-box; a d4 has a hard time offsetting the _Priority_ bonus.
+
+
+
+Reduce Priority
+---------------
+
+Reducing _Priority_ is a little less underpowered than reducing die, but it also requires more rules massaging, especially since there are no out-of-the-box rules for advancing _Priority_.
+
+###Roll
+
+Keep the d6, but reduce all _Priority_ bonuses to +1.
+
+###Run
+
+Review the updated accuracy table for a breakdown of opposed rolls. 
+
+|          |      |  d6   |  d6   |  d6   |  d6   |  d8   |  d8   |  d8   |  d8   |  d10  |  d10  |  d10  |  d10  |  d12  |  d12  |  d12  |  d12  |
+|---------:|-----:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|
+|          |      |__+1__ |__+2__ |__+3__ |__+4__ |__+1__ |__+2__ |__+3__ |__+4__ |__+1__ |__+2__ |__+3__ |__+4__ |__+1__ |__+2__ |__+3__ |__+4__ |
+|  __d6__  |__+1__|  50%  |  28%  |  17%  |   8%  |  38%  |  21%  |  13%  |   6%  |  30%  |  17%  |  10%  |   5%  |  25%  |  14%  |   8%  |   4%  |
+
+###Advance
+
+Upgrade _Priority_ bonuses by spending 1 XP per bonus point. Only upgrade priority until you have a +1, +2, +3, and +4. Characters should not, for example, advance to all +4s. Breaking the _Priority_ distribution of +1, +2, +3, and +4 will break the game in later levels. Once a character has the usual distribution of _Priority_, then the character should advance die normally.
+
+
+
+Reduce Die and Priority
+-----------------------
+
+Reducing the _Die_ and the _Priority_ is pretty extreme. I'd recommend against this approach for a PC, and only for the weakest of NPCs... like a rat. Not a giant rat, just... a rat. Or a kitten. Or a duck. Heh: Duck Swarm.
+
+
+
+Hack
+----
 
 If you're in the middle of a game, and you need an under-powered character on the double, apply a penalty to a "normal" character.
+
 ###Roll
 
 1. Roll a "normal" character:
@@ -65,9 +147,9 @@ _Note: The minimum roll in NGS is 2. The penalty should never reduce a roll to l
 
 When a character advances, remove the penalty one whole number at a time. Once the penalty is at zero, the character is "Level 1." Advance normally from here.
 
-###Flaws
+###Caution
 
-This method is a "hack." While it's great for getting a concept off the ground, it's not perfect. If you intend to use this hack for more than one character or more than one session, consider the flaws, explanations, and mitigations below...
+This method is a "hack." It's great for getting a concept off the ground, but it's not perfect. If you intend to use this hack for more than one character or more than one session, consider the flaws, explanations, and mitigations below...
 
 |          Flaw           | Explanation                                                                                                                                                                                                                                         | Mitigation                                                                                                                                                                                                          |
 |:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -77,29 +159,7 @@ This method is a "hack." While it's great for getting a concept off the ground, 
 
 
 
-##Integrated Approaches
+Conclusion
+----------
 
-In NGS, there are two components to every roll: the die and the priority. This gives us three "integrated" approaches for "Level 0" house rules:
-
-|          |                |    Priority    |        Priority          |
-|:--------:|:--------------:|:--------------:|:------------------------:|
-|          |                | __No change.__ |       __Change.__        |
-| __Die__  | __No change.__ |      N/A       |     Reduce priority.     |
-| __Die__  |  __Change.__   |  Reduce die.   | Reduce die and priority. |
-
-
-
-##Reduce Die
-
-
-
-##Reduce Priority
-
-
-
-##Reduce Die and Priority
-
-
-
-##Narrative Abilities
-
+Hopefully this will allow you to create some underpowered PCs or NPCs for your NGS game.
