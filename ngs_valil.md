@@ -6,6 +6,11 @@ Explore the most common clichés in fantasy role-playing, from rats in a basement
 
 This is a role-playing experiment, and the independent variable is the system. My hypothesis is that you'll appreciate NGS's simplicity, and your group will love getting right to the fun part: playing. I look forward to your conclusions!
 
+
+
+
+
+
 ##Outline
 
 * __Setting__
@@ -17,10 +22,11 @@ This is a role-playing experiment, and the independent variable is the system. M
   * Archetypes
   * Narrative Abilities
   * Health and Dying
-* __Dramatis Personae__
-  * Nobility
-  * Gentry
-  * Rabble
+* __Pre-Generated Characters__
+  * Brett the Barbarian
+  * Casey the Cleric
+  * Sydney the Sorcerer
+  * Taylor the Thief
 * __Adventures__
   * Rat Infestation
   * Green Men
@@ -29,11 +35,11 @@ This is a role-playing experiment, and the independent variable is the system. M
   * Haunted Dungeons
   * Merchant's Guild
 * __Owning It__
-* __Pre-Generated Characters__
-  * Bobby the Barbarian
-  * William the Wizard
-  * Thaddeus the Thief
-  * Clarence the Cleric
+
+
+
+
+
 
 ##Setting
 
@@ -65,6 +71,11 @@ This is a role-playing experiment, and the independent variable is the system. M
 
 * __Mundane Tasks:__ Men and women are just men and women... their capabilities vary greatly. Some are better fighters, talkers, thinkers than others, but no one is "superhuman."
 * __Magic:__ Magic users are formidible, but not invincible. Magic users can cast a number of spells per day equal to the Intellect or Extraordinary check they make upon waking from a restful sleep. Unused spells do not carry over from day to day.
+
+
+
+
+
 
 ##Characters
 
@@ -100,6 +111,168 @@ These abilities can be acquired from several sources:
   * __Major:__ Restore 2 instances.
   * __Minor:__ Restore 1 instance.
 
+
+
+
+
+
+##Pre-Generated Characters
+
+Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players. I named the characters from a list of [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and avoided gendered pronouns, so feel free to play any character as either gender.
+
+
+
+###Brett the Barbarian
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +4|   5  |
+|Intellect     | d6  |       +1|   2  |
+|Personality   | d6  |       +3|   4  |
+|Extraordinary | d6  |       +2|   3  |
+
+#####Narrative Abilities
+
+######Major
+
+* __Rage:__ When triggered, Brett enters a _rage_, an altered state of mind where physical limitations are meaningless. While raging, Brett may ignore damage, and re-roll any unmodified _Physicality_ die roll less than 4 (must take the second result). The Player and GM should agree on when rage ends under the circumstances, but once Rage ends, Brett is exhausted. Exhausted can mean anything, but I suggest: Brett loses one damage instance, or Brett takes a penalty on _Physicality_ checks (roll one die lower; if already rolling a d6 then reduce priority to 3, and so on). A rest or magical healing ends the penalty.
+
+######Minor
+
+* __Overwhelm:__ In the wild ecastacy of battle, Brett can overpower almost any adversary; spend a Narrative Accolade to deal damage to a foe despite a missed attack roll.
+* __By This Axe:__ Recognizing that social "power" is an illusion, Brett may substitude _Physicality_ for _Personality_ on rolls to intimidate or negotiate.
+* __Untamed:__ Brett's naturist, honest outlook cause some "civilized" people to romanticize him as a "noble savage." Brett can use this to win new friends and lovers.
+
+#####Goals
+
+* __Clan:__ Brett longs for a home, but "home" isn't a "place." Brett was raised as a member of an extended clan. Brett wants to belong to a group of people that are active, and alive, and always moving forward. That's "home" to Brett.
+* __Revenge:__ Brett's clan disappeared while Brett was on an extended hunting expedition. It's been years, and Brett fears the worst; Brett longs to discover who's to blame.
+
+#####Flaws
+
+* __Restless:__ Brett is restless, even for a Barbarian. Fortunately for the other adventurers, there's much in Valil that Brett's never seen, so they aren't in danger of Brett leaving Valil any time soon. But Brett is prone to distraction: What's that over there? How are these made? Where does that go?
+* __Show, Don't Tell:__ Brett has no use for words or lengthy explanations. "Save your words and _show_ me!"
+
+
+
+###Taylor the Thief
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +3|   2  |
+|Intellect     | d6  |       +2|   2  |
+|Personality   | d6  |       +4|   2  |
+|Extraordinary | d6  |       +1|   2  |
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+* __:__
+* __:__
+
+#####Flaws
+
+* __:__
+* __:__
+
+
+
+###Sydney the Sorcerer
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +1|   2  |
+|Intellect     | d6  |       +4|   2  |
+|Personality   | d6  |       +2|   2  |
+|Extraordinary | d6  |       +3|   2  |
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+* __:__
+* __:__
+
+#####Flaws
+
+* __:__
+* __:__
+
+
+
+###Casey the Cleric
+
+Description
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +3|   2  |
+|Intellect     | d6  |       +1|   2  |
+|Personality   | d6  |       +2|   2  |
+|Extraordinary | d6  |       +4|   2  |
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+* __:__
+* __:__
+
+#####Flaws
+
+* __:__
+* __:__
+
+
+
+
+
+
 ##Adventures
 
 These "adventures" are short outlines, with a few bullets on:
@@ -108,6 +281,10 @@ These "adventures" are short outlines, with a few bullets on:
 * __Investigation:__ Facts for them to uncover.
 * __Twists:__ Ideas to inspire fresh takes on old tropes.
 * __Monsters:__ Information on the "bad guys."
+* __Encounters:__ Sample encounters built and balanced using the monsters.
+* __Rewards:__ Recommended XP and Treasure.
+
+
 
 ###Rat Infestation
 
@@ -124,7 +301,11 @@ A rat problem has gotten out of hand in the waterfront district.
 * __Casebreaker:__ One particular business seems unaffected.
 * __Revealed:__ A wererat runs that business, and has recruited rats and giant rats to wreak havoc amongst his/her competitors.
 
-####Rat Swarm
+####Twists
+
+####Monsters
+
+#####Rat
 
 Description
 
@@ -132,54 +313,62 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |   +4    |
-|Intellect     | d4  |       +3|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +2|
+|Physicality   | d4  |   +4    |   4  |
+|Intellect     | d4  |   +3    |   3  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +2    |   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Giant Rat
+#####Giant Rat
 
 Description
 
 * __Damage Instances:__ 2
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d6  |       +4|
-|Intellect     | d4  |       +3|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +2|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +4|   2  |
+|Intellect     | d4  |       +3|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d4  |       +2|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Wererat
+#####Wererat
 
 Description
 
 * __Damage Instances:__ 3
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d6  |       +4|
-|Intellect     | d6  |       +3|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +2|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +4|   2  |
+|Intellect     | d6  |       +3|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d4  |       +2|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
+
+####Encounters
+
+####Rewards
+
+* 8 XP per PC.
+
+
 
 ###Goblin Invasion
 
@@ -207,12 +396,12 @@ Description
 
 * __Damage Instances:__ 1
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d6  |       +4|
-|Intellect     | d4  |       +2|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +3|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +4|   2  |
+|Intellect     | d4  |       +2|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d4  |       +3|   2  |
 
 #####Narrative Abilities
 
@@ -228,12 +417,12 @@ Description
 
 * __Damage Instances:__ 2
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d8  |       +4|
-|Intellect     | d4  |       +2|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +3|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d8  |       +4|   2  |
+|Intellect     | d4  |       +2|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d4  |       +3|   2  |
 
 #####Narrative Abilities
 
@@ -247,18 +436,26 @@ Description
 
 * __Damage Instances:__ 3
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d10 |       +4|
-|Intellect     | d4  |       +3|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +2|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d10 |       +4|   2  |
+|Intellect     | d4  |       +3|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d4  |       +2|   2  |
 
 #####Narrative Abilities
 
 #####Goals
 
 #####Flaws
+
+####Encounters
+
+####Rewards
+
+* 10 XP per PC.
+
+
 
 ###Kobald Corruption/Corundrum (introduce puzzles)
 
@@ -270,12 +467,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d4  |       +3|
-|Intellect     | d6  |       +4|
-|Personality   | d4  |       +2|
-|Extraordinary | d4  |       +1|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d4  |       +3|   2  |
+|Intellect     | d6  |       +4|   2  |
+|Personality   | d4  |       +2|   2  |
+|Extraordinary | d4  |       +1|   2  |
 
 #####Narrative Abilities
 
@@ -287,6 +484,14 @@ Description
 
 ####Puzzles
 
+####Encounters
+
+####Rewards
+
+* 12 XP per PC.
+
+
+
 ###Royal Taxation
 
 ####Guard
@@ -295,12 +500,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d6  |       +4|
-|Intellect     | d6  |       +3|
-|Personality   | d6  |       +2|
-|Extraordinary | d4  |       +1|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +4|   2  |
+|Intellect     | d6  |       +3|   2  |
+|Personality   | d6  |       +2|   2  |
+|Extraordinary | d4  |       +1|   2  |
 
 #####Narrative Abilities
 
@@ -314,12 +519,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d4  |       +1|
-|Intellect     | d6  |       +4|
-|Personality   | d8  |       +3|
-|Extraordinary | d6  |       +2|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d4  |       +1|   2  |
+|Intellect     | d6  |       +4|   2  |
+|Personality   | d8  |       +3|   2  |
+|Extraordinary | d6  |       +2|   2  |
 
 #####Narrative Abilities
 
@@ -333,12 +538,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d8  |       +4|
-|Intellect     | d8  |       +3|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +2|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d8  |       +4|   2  |
+|Intellect     | d8  |       +3|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d4  |       +2|   2  |
 
 #####Narrative Abilities
 
@@ -352,18 +557,26 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d10 |       +4|
-|Intellect     | d6  |       +2|
-|Personality   | d6  |       +3|
-|Extraordinary | d4  |       +1|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d10 |       +4|   2  |
+|Intellect     | d6  |       +2|   2  |
+|Personality   | d6  |       +3|   2  |
+|Extraordinary | d4  |       +1|   2  |
 
 #####Narrative Abilities
 
 #####Goals
 
 #####Flaws
+
+####Encounters
+
+####Rewards
+
+* 16 XP per PC.
+
+
 
 ###Undead Affliction
 
@@ -377,12 +590,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d4  |       +4|
-|Intellect     | d4  |       +1|
-|Personality   | d4  |       +2|
-|Extraordinary | d4  |       +3|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d4  |       +4|   2  |
+|Intellect     | d4  |       +1|   2  |
+|Personality   | d4  |       +2|   2  |
+|Extraordinary | d4  |       +3|   2  |
 
 #####Narrative Abilities
 
@@ -396,12 +609,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d8  |       +4|
-|Intellect     | d4  |       +1|
-|Personality   | d4  |       +1|
-|Extraordinary | d4  |       +1|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d8  |       +4|   2  |
+|Intellect     | d4  |       +1|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d4  |       +1|   2  |
 
 #####Narrative Abilities
 
@@ -415,12 +628,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d10 |       +#|
-|Intellect     | d6  |       +#|
-|Personality   | d4  |       +#|
-|Extraordinary | d8  |       +#|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d10 |       +#|   2  |
+|Intellect     | d6  |       +#|   2  |
+|Personality   | d4  |       +#|   2  |
+|Extraordinary | d8  |       +#|   2  |
 
 #####Narrative Abilities
 
@@ -434,18 +647,26 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d8  |       +3|
-|Intellect     | d12 |       +4|
-|Personality   | d4  |       +1|
-|Extraordinary | d10 |       +2|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d8  |       +3|   2  |
+|Intellect     | d12 |       +4|   2  |
+|Personality   | d4  |       +1|   2  |
+|Extraordinary | d10 |       +2|   2  |
 
 #####Narrative Abilities
 
 #####Goals
 
 #####Flaws
+
+####Encounters
+
+####Rewards
+
+* 18 XP per PC.
+
+
 
 ###Demon Damnation
 
@@ -457,12 +678,12 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d#  |       +#|   2  |
+|Intellect     | d#  |       +#|   2  |
+|Personality   | d#  |       +#|   2  |
+|Extraordinary | d#  |       +#|   2  |
 
 #####Narrative Abilities
 
@@ -476,18 +697,26 @@ Description
 
 * __Damage Instances:__ #
 
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d#  |       +#|   2  |
+|Intellect     | d#  |       +#|   2  |
+|Personality   | d#  |       +#|   2  |
+|Extraordinary | d#  |       +#|   2  |
 
 #####Narrative Abilities
 
 #####Goals
 
 #####Flaws
+
+####Encounters
+
+####Rewards
+
+* 20 XP per PC.
+
+
 
 ##Owning It
 
@@ -496,124 +725,3 @@ Customizing this supplement for your group...
 * __Name NPCs:__ No non-player characters are named in this supplement; they are referred to by only by occupation or role. This makes it easy to drop any adventure into an existing campaign with existing NPCs. You already know the Innkeeper in your campaing is Audric, so when you read "Inkeeper" you say "Audric." You don't have to remember that "Garett" in this supplement is actually "Audric" in your campaign.
 * __Keep NPCs:__ Once players latch onto an NPC as a beloved friend or hated enemy, keep bringing that NPC back for the next adventure. Make them the villain. Give them a cameo. Let a Player catch sight of them in a crowd. But use them, because player love/hate is hard to create, and it's so vital to a good, fun experience at the table.
 * __Draw Maps:__ Maps aren't necessary for this campaign, and I often run without them. But if you want to commit to a geography, there's no geography like your own. It ensures a proper fit into a larger campaign, and no map's easier to remember than the one you drew yourself.
-
-##Pre-Generated Characters
-
-Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players.
-
-###Bobby the Barbarian
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d#  |       +4|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
-
-#####Narrative Abilities
-
-######Major
-
-* __XX:__ 
-
-######Minor
-
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
-
-#####Goals
-
-#####Flaws
-
-###Thaddeus the Thief
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +4|
-|Extraordinary | d#  |       +#|
-
-#####Narrative Abilities
-
-######Major
-
-* __XX:__ 
-
-######Minor
-
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
-
-#####Goals
-
-#####Flaws
-
-###William the Wizard
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +4|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +#|
-
-#####Narrative Abilities
-
-######Major
-
-* __XX:__ 
-
-######Minor
-
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
-
-#####Goals
-
-#####Flaws
-
-###Clarence the Cleric
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|
-|:-------------|:---:|:-------:|
-|Physicality   | d#  |       +#|
-|Intellect     | d#  |       +#|
-|Personality   | d#  |       +#|
-|Extraordinary | d#  |       +4|
-
-#####Narrative Abilities
-
-######Major
-
-* __XX:__ 
-
-######Minor
-
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
-
-#####Goals
-
-#####Flaws
-
