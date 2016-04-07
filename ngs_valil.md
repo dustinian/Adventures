@@ -1,4 +1,5 @@
-#Valil
+Valil
+=====
 
 __Fantasy setting and adventures for the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) by [Venture Land Games](http://www.venturelandgames.com).__
 
@@ -11,7 +12,8 @@ This is a role-playing experiment, and the independent variable is the system. M
 
 
 
-##Outline
+Outline
+-------
 
 * __Setting__
   * Introduction
@@ -41,7 +43,8 @@ This is a role-playing experiment, and the independent variable is the system. M
 
 
 
-##Setting
+Setting
+-------
 
 ###Introduction
 * __Structure:__ Valil is a medium-sized, town of about 5,000 people. Surrounded by a low outer wall, it's relatively well-defended against beasts and monsters, but it would fall in less than a week to an organized "army."
@@ -77,7 +80,8 @@ This is a role-playing experiment, and the independent variable is the system. M
 
 
 
-##Characters
+Characters
+----------
 
 ###Archetypes
 
@@ -116,7 +120,8 @@ These abilities can be acquired from several sources:
 
 
 
-##Pre-Generated Characters
+Pre-Generated Characters
+------------------------
 
 Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players. I named the characters from a list of [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and avoided gendered pronouns, so feel free to play any character as either gender.
 
@@ -273,7 +278,8 @@ Description
 
 
 
-##Adventures
+Adventures
+----------
 
 These "adventures" are short outlines, with a few bullets on:
 
@@ -718,7 +724,11 @@ Description
 
 
 
-##Owning It
+
+
+
+Owning It
+---------
 
 Customizing this supplement for your group...
 
