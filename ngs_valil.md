@@ -24,11 +24,6 @@ Outline
   * Archetypes
   * Narrative Abilities
   * Health and Dying
-* __Pre-Generated Characters__
-  * Brett the Barbarian
-  * Casey the Cleric
-  * Sydney the Sorcerer
-  * Taylor the Thief
 * __Adventures__
   * Rat Infestation
   * Green Men
@@ -36,6 +31,11 @@ Outline
   * Tax Collector
   * Haunted Dungeons
   * Merchant's Guild
+* __Pre-Generated Characters__
+  * Brett the Barbarian
+  * Casey the Cleric
+  * Sydney the Sorcerer
+  * Taylor the Thief
 * __Owning It__
 
 
@@ -47,6 +47,7 @@ Setting
 -------
 
 ###Introduction
+
 * __Structure:__ Valil is a medium-sized, town of about 5,000 people. Surrounded by a low outer wall, it's relatively well-defended against beasts and monsters, but it would fall in less than a week to an organized "army."
 * __Guards:__ Valil is protected by 50 overworked guards, and 500 regularly-trained reserves. Many of the reserves only show up monthly training for their silver piece, but morale is high enough in Valil that a solid majority of the reserves see this training as their civic duty.
 * __Government:__ Valil is a feudal society. The guard regularly patrol the city and haphazardly dispense justice to the rabble, but most disputes between peasants are resolved by an appeal to the gentry (their employers). Gentry appeal to nobility (their lords). The highest authority in Valil is the Sherrif, who rules on behalf of a distant King.
@@ -109,169 +110,12 @@ These abilities can be acquired from several sources:
 * __Damage Instances:__ 4
   * __1-2:__ The first two damage instances a character receives are superficial:  bruises, strains, fatigue, etc.
   * __3:__ Only the third damage instance should be considered a "wound." Thus, any duels "to first blood" would actually be "to the third damage instance."
-  * __4:__ 
+  * __4:__ The fourth damage instance renders a PC unconscious. The GM should rule when death occurs based on the narrative and the type of wounds inflicted.
+    * _Note:_ When a PC is knocked unconscious in mortal combat, I like to ask the player to make a physicality roll... The character will die in that many "rounds" without treatment or healing.
 * __Recovery:__ Recover 2 instances after first long, restful sleep. Recover remaining instances one-per-rest.
 * __Healing:__ Characters who take appropriate narrative abilities can heal themselves or other charactes.
   * __Major:__ Restore 2 instances.
   * __Minor:__ Restore 1 instance.
-
-
-
-
-
-
-Pre-Generated Characters
-------------------------
-
-Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players. I named the characters from a list of [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and avoided gendered pronouns, so feel free to play any character as either gender.
-
-
-
-###Brett the Barbarian
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|Rating|
-|:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   5  |
-|Intellect     | d6  |       +1|   2  |
-|Personality   | d6  |       +3|   4  |
-|Extraordinary | d6  |       +2|   3  |
-
-#####Narrative Abilities
-
-######Major
-
-* __Rage:__ When triggered, Brett enters a _rage_, an altered state of mind where physical limitations are meaningless. While raging, Brett may ignore damage, and re-roll any unmodified _Physicality_ die roll less than 4 (must take the second result). The Player and GM should agree on when rage ends under the circumstances, but once Rage ends, Brett is exhausted. Exhausted can mean anything, but I suggest: Brett loses one damage instance, or Brett takes a penalty on _Physicality_ checks (roll one die lower; if already rolling a d6 then reduce priority to 3, and so on). A rest or magical healing ends the penalty.
-
-######Minor
-
-* __Overwhelm:__ In the wild ecastacy of battle, Brett can overpower almost any adversary; spend a Narrative Accolade to deal damage to a foe despite a missed attack roll.
-* __By This Axe:__ Recognizing that social "power" is an illusion, Brett may substitude _Physicality_ for _Personality_ on rolls to intimidate or negotiate.
-* __Untamed:__ Brett's naturist, honest outlook cause some "civilized" people to romanticize him as a "noble savage." Brett can use this to win new friends and lovers.
-
-#####Goals
-
-* __Clan:__ Brett longs for a home, but "home" isn't a "place." Brett was raised as a member of an extended clan. Brett wants to belong to a group of people that are active, and alive, and always moving forward. That's "home" to Brett.
-* __Revenge:__ Brett's clan disappeared while Brett was on an extended hunting expedition. It's been years, and Brett fears the worst; Brett longs to discover who's to blame.
-
-#####Flaws
-
-* __Restless:__ Brett is restless, even for a Barbarian. Fortunately for the other adventurers, there's much in Valil that Brett's never seen, so they aren't in danger of Brett leaving Valil any time soon. But Brett is prone to distraction: What's that over there? How are these made? Where does that go?
-* __Show, Don't Tell:__ Brett has no use for words or lengthy explanations. "Save your words and _show_ me!"
-
-
-
-###Taylor the Thief
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|Rating|
-|:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +3|   2  |
-|Intellect     | d6  |       +2|   2  |
-|Personality   | d6  |       +4|   2  |
-|Extraordinary | d6  |       +1|   2  |
-
-#####Narrative Abilities
-
-######Major
-
-* __XX:__ 
-
-######Minor
-
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
-
-#####Goals
-
-* __:__
-* __:__
-
-#####Flaws
-
-* __:__
-* __:__
-
-
-
-###Sydney the Sorcerer
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|Rating|
-|:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +1|   2  |
-|Intellect     | d6  |       +4|   2  |
-|Personality   | d6  |       +2|   2  |
-|Extraordinary | d6  |       +3|   2  |
-
-#####Narrative Abilities
-
-######Major
-
-* __XX:__ 
-
-######Minor
-
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
-
-#####Goals
-
-* __:__
-* __:__
-
-#####Flaws
-
-* __:__
-* __:__
-
-
-
-###Casey the Cleric
-
-Description
-
-* __Damage Instances:__ 4
-
-|   Ability    | Die | Priority|Rating|
-|:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +3|   2  |
-|Intellect     | d6  |       +1|   2  |
-|Personality   | d6  |       +2|   2  |
-|Extraordinary | d6  |       +4|   2  |
-
-#####Narrative Abilities
-
-######Major
-
-* __XX:__ 
-
-######Minor
-
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
-
-#####Goals
-
-* __:__
-* __:__
-
-#####Flaws
-
-* __:__
-* __:__
 
 
 
@@ -396,7 +240,9 @@ Caravans are being waylaid just outside town with frightening regularity.
 
 * The "Green Men" are actually Halflings masquerading as Goblins.
 
-####Goblin
+####Monsters
+
+#####Goblin
 
 Description
 
@@ -409,15 +255,15 @@ Description
 |Personality   | d4  |       +1|   2  |
 |Extraordinary | d4  |       +3|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
 * __Scrappy:__ Goblins have no formal training, but they learn to fight right away: for their "share" of loot, for mates, even for food.
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Hobgoblin
+#####Hobgoblin
 
 Description
 
@@ -430,13 +276,13 @@ Description
 |Personality   | d4  |       +1|   2  |
 |Extraordinary | d4  |       +3|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Bugbear
+#####Bugbear
 
 Description
 
@@ -449,11 +295,11 @@ Description
 |Personality   | d4  |       +1|   2  |
 |Extraordinary | d4  |       +2|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
 ####Encounters
 
@@ -467,7 +313,9 @@ Description
 
 * __Digging Sounds:__ My husband guards one of the gates to the city. When he's on duty, he has to sleep there. In the night, they hear digging sounds, deep under the gatehouse. Somebody is digging a tunnel somewhere. They've told the captain, but he thinks they're hearing things!
 
-####Kobald
+####Monsters
+
+#####Kobald
 
 Description
 
@@ -480,11 +328,11 @@ Description
 |Personality   | d4  |       +2|   2  |
 |Extraordinary | d4  |       +1|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
 ####Traps
 
@@ -500,7 +348,9 @@ Description
 
 ###Royal Taxation
 
-####Guard
+####Monsters
+
+#####Guard
 
 Description
 
@@ -513,13 +363,13 @@ Description
 |Personality   | d6  |       +2|   2  |
 |Extraordinary | d4  |       +1|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Noble
+#####Noble
 
 Description
 
@@ -532,13 +382,13 @@ Description
 |Personality   | d8  |       +3|   2  |
 |Extraordinary | d6  |       +2|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Assassin
+#####Assassin
 
 Description
 
@@ -551,13 +401,13 @@ Description
 |Personality   | d4  |       +1|   2  |
 |Extraordinary | d4  |       +2|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Champion
+#####Champion
 
 Description
 
@@ -570,11 +420,11 @@ Description
 |Personality   | d6  |       +3|   2  |
 |Extraordinary | d4  |       +1|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
 ####Encounters
 
@@ -590,7 +440,9 @@ dungeon underneath the castle, generations ago a prince dabbled in necromancy, a
 
 * __Haunted Dungeons:__ I've done a spot of time in the dungeons under the Sherriff's keep, and I tell you them's 'aunted! Ain't no floor _lower_ than the duneon, but a cellmate got 'isself taken! And we 'eard 'im screaming under the floor as summat carried 'im away!
 
-####Skeleton
+####Monsters
+
+#####Skeleton
 
 Description
 
@@ -603,13 +455,13 @@ Description
 |Personality   | d4  |       +2|   2  |
 |Extraordinary | d4  |       +3|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Zombie
+#####Zombie
 
 Description
 
@@ -622,13 +474,13 @@ Description
 |Personality   | d4  |       +1|   2  |
 |Extraordinary | d4  |       +1|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Death Knight
+#####Death Knight
 
 Description
 
@@ -641,13 +493,13 @@ Description
 |Personality   | d4  |       +#|   2  |
 |Extraordinary | d8  |       +#|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Lich
+#####Lich
 
 Description
 
@@ -660,11 +512,11 @@ Description
 |Personality   | d4  |       +1|   2  |
 |Extraordinary | d10 |       +2|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
 ####Encounters
 
@@ -678,7 +530,9 @@ Description
 
 * __Merchant's Guild:__ Men go missing working for the Merchant's guild, and they're as secretive as a foxes. They're up to no good, mark my words.
 
-####Cultist
+####Monsters
+
+#####Cultist
 
 Description
 
@@ -691,13 +545,13 @@ Description
 |Personality   | d#  |       +#|   2  |
 |Extraordinary | d#  |       +#|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
-####Demon
+#####Demon
 
 Description
 
@@ -710,17 +564,175 @@ Description
 |Personality   | d#  |       +#|   2  |
 |Extraordinary | d#  |       +#|   2  |
 
-#####Narrative Abilities
+######Narrative Abilities
 
-#####Goals
+######Goals
 
-#####Flaws
+######Flaws
 
 ####Encounters
 
 ####Rewards
 
 * 20 XP per PC.
+
+
+
+
+
+
+Pre-Generated Characters
+------------------------
+
+Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players. I named the characters from a list of [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and avoided gendered pronouns, so feel free to play any character as either gender.
+
+
+
+###Brett the Barbarian
+
+Strong, but slow--Brett values actions over words.
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +4|   5  |
+|Intellect     | d6  |       +1|   2  |
+|Personality   | d6  |       +3|   4  |
+|Extraordinary | d6  |       +2|   3  |
+
+#####Narrative Abilities
+
+######Major
+
+* __Rage:__ When triggered, Brett enters a _rage_, an altered state of mind where physical limitations are meaningless. While raging, Brett may ignore damage, and re-roll any unmodified _Physicality_ die roll less than 4 (must take the second result). The Player and GM should agree on when rage ends under the circumstances, but once Rage ends, Brett is exhausted. Exhausted can mean anything, but I suggest: Brett loses one damage instance, or Brett takes a penalty on _Physicality_ checks (roll one die lower; if already rolling a d6 then reduce priority to 3, and so on). A rest or magical healing ends the penalty.
+
+######Minor
+
+* __Overwhelm:__ In the wild ecastacy of battle, Brett can overpower almost any adversary; spend a Narrative Accolade to deal damage to a foe despite a missed attack roll.
+* __By This Axe:__ Recognizing that social "power" is an illusion, Brett may substitude _Physicality_ for _Personality_ on rolls to intimidate or negotiate.
+* __Untamed:__ Brett's naturist, honest outlook cause some "civilized" people to romanticize him as a "noble savage." Brett can use this to win new friends and lovers.
+
+#####Goals
+
+* __Clan:__ Brett longs for a home, but "home" isn't a "place." Brett was raised as a member of an extended clan. Brett wants to belong to a group of people that are active, and alive, and always moving forward. That's "home" to Brett.
+* __Revenge:__ Brett's clan disappeared while Brett was on an extended hunting expedition. It's been years, and Brett fears the worst; Brett longs to discover who's to blame.
+
+#####Flaws
+
+* __Restless:__ Brett is restless, even for a Barbarian. Fortunately for the other adventurers, there's much in Valil that Brett's never seen, so they aren't in danger of Brett leaving Valil any time soon. But Brett is prone to distraction: What's that over there? How are these made? Where does that go?
+* __Show, Don't Tell:__ Brett has no use for words or lengthy explanations. "Save your words and _show_ me!"
+
+
+
+###Casey the Cleric
+
+Devout, but abrasive--Casey values conviction over temperament.
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +3|   4  |
+|Intellect     | d6  |       +2|   3  |
+|Personality   | d6  |       +1|   2  |
+|Extraordinary | d6  |       +4|   5  |
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+* __:__
+* __:__
+
+#####Flaws
+
+* __:__
+* __:__
+
+
+
+###Sydney the Sorcerer
+
+Brainy, but weak--Sydney values knowledge over strength.
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +1|   2  |
+|Intellect     | d6  |       +4|   5  |
+|Personality   | d6  |       +2|   3  |
+|Extraordinary | d6  |       +3|   4  |
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+* __:__
+* __:__
+
+#####Flaws
+
+* __:__
+* __:__
+
+
+
+###Taylor the Thief
+
+Persuasive, but skeptical--Taylor values subtlety over devotion.
+
+* __Damage Instances:__ 4
+
+|   Ability    | Die | Priority|Rating|
+|:-------------|:---:|:-------:|:----:|
+|Physicality   | d6  |       +3|   4  |
+|Intellect     | d6  |       +2|   3  |
+|Personality   | d6  |       +4|   5  |
+|Extraordinary | d6  |       +1|   2  |
+
+#####Narrative Abilities
+
+######Major
+
+* __XX:__ 
+
+######Minor
+
+* __XX:__ 
+* __XX:__ 
+* __XX:__ 
+
+#####Goals
+
+* __:__
+* __:__
+
+#####Flaws
+
+* __:__
+* __:__
 
 
 
