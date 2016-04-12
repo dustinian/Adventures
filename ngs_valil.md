@@ -747,3 +747,20 @@ Customizing this supplement for your group...
 * __Name NPCs:__ No non-player characters are named in this supplement; they are referred to by only by occupation or role. This makes it easy to drop any adventure into an existing campaign with existing NPCs. You already know the Innkeeper in your campaing is Audric, so when you read "Inkeeper" you say "Audric." You don't have to remember that "Garett" in this supplement is actually "Audric" in your campaign.
 * __Keep NPCs:__ Once players latch onto an NPC as a beloved friend or hated enemy, keep bringing that NPC back for the next adventure. Make them the villain. Give them a cameo. Let a Player catch sight of them in a crowd. But use them, because player love/hate is hard to create, and it's so vital to a good, fun experience at the table.
 * __Draw Maps:__ Maps aren't necessary for this campaign, and I often run without them. But if you want to commit to a geography, there's no geography like your own. It ensures a proper fit into a larger campaign, and no map's easier to remember than the one you drew yourself.
+
+
+
+
+
+
+License
+-------
+
+###Notice of Copyrights
+
+* [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System), Copyright 2014, [Venture Land Games](http://www.venturelandgames.com)
+* Valil, Copyright 2016, Dustinian Camburides
+
+###Ownership
+
+Dustinian Camburides reserves all rights over _Valil_. However, I would be delighted to offer _Valil_ to _Venture Land Games_ with no compensation whatsoever should they choose to reproduce _Valil_ in whole or in part in any official document or supplament.
