@@ -182,9 +182,9 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   2  |
-|Intellect     | d4  |       +3|   2  |
-|Personality   | d4  |       +1|   2  |
+|Physicality   | d6  |       +4|   5  |
+|Intellect     | d4  |       +3|   3  |
+|Personality   | d4  |       +1|   1  |
 |Extraordinary | d4  |       +2|   2  |
 
 ######Narrative Abilities
@@ -201,9 +201,9 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   2  |
-|Intellect     | d6  |       +3|   2  |
-|Personality   | d4  |       +1|   2  |
+|Physicality   | d6  |       +4|   5  |
+|Intellect     | d6  |       +3|   4  |
+|Personality   | d4  |       +1|   1  |
 |Extraordinary | d4  |       +2|   2  |
 
 ######Narrative Abilities
@@ -250,10 +250,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   2  |
+|Physicality   | d6  |       +4|   5  |
 |Intellect     | d4  |       +2|   2  |
-|Personality   | d4  |       +1|   2  |
-|Extraordinary | d4  |       +3|   2  |
+|Personality   | d4  |       +1|   1  |
+|Extraordinary | d4  |       +3|   3  |
 
 ######Narrative Abilities
 
@@ -271,10 +271,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +4|   2  |
+|Physicality   | d8  |       +4|   6  |
 |Intellect     | d4  |       +2|   2  |
-|Personality   | d4  |       +1|   2  |
-|Extraordinary | d4  |       +3|   2  |
+|Personality   | d4  |       +1|   1  |
+|Extraordinary | d4  |       +3|   3  |
 
 ######Narrative Abilities
 
@@ -290,9 +290,9 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d10 |       +4|   2  |
-|Intellect     | d4  |       +3|   2  |
-|Personality   | d4  |       +1|   2  |
+|Physicality   | d10 |       +4|   7  |
+|Intellect     | d4  |       +3|   3  |
+|Personality   | d4  |       +1|   1  |
 |Extraordinary | d4  |       +2|   2  |
 
 ######Narrative Abilities
@@ -323,10 +323,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |       +3|   2  |
-|Intellect     | d6  |       +4|   2  |
+|Physicality   | d4  |       +3|   3  |
+|Intellect     | d6  |       +4|   5  |
 |Personality   | d4  |       +2|   2  |
-|Extraordinary | d4  |       +1|   2  |
+|Extraordinary | d4  |       +1|   1  |
 
 ######Narrative Abilities
 
@@ -358,10 +358,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   2  |
-|Intellect     | d6  |       +3|   2  |
-|Personality   | d6  |       +2|   2  |
-|Extraordinary | d4  |       +1|   2  |
+|Physicality   | d6  |       +4|   5  |
+|Intellect     | d6  |       +3|   4  |
+|Personality   | d6  |       +2|   3  |
+|Extraordinary | d4  |       +1|   1  |
 
 ######Narrative Abilities
 
@@ -377,10 +377,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |       +1|   2  |
-|Intellect     | d6  |       +4|   2  |
-|Personality   | d8  |       +3|   2  |
-|Extraordinary | d6  |       +2|   2  |
+|Physicality   | d4  |       +1|   1  |
+|Intellect     | d6  |       +4|   5  |
+|Personality   | d8  |       +3|   5  |
+|Extraordinary | d6  |       +2|   3  |
 
 ######Narrative Abilities
 
@@ -396,9 +396,9 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +4|   2  |
-|Intellect     | d8  |       +3|   2  |
-|Personality   | d4  |       +1|   2  |
+|Physicality   | d8  |       +4|   6  |
+|Intellect     | d8  |       +3|   5  |
+|Personality   | d4  |       +1|   1  |
 |Extraordinary | d4  |       +2|   2  |
 
 ######Narrative Abilities
@@ -415,10 +415,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d10 |       +4|   2  |
-|Intellect     | d6  |       +2|   2  |
-|Personality   | d6  |       +3|   2  |
-|Extraordinary | d4  |       +1|   2  |
+|Physicality   | d10 |       +4|   7  |
+|Intellect     | d6  |       +2|   3  |
+|Personality   | d6  |       +3|   4  |
+|Extraordinary | d4  |       +1|   1  |
 
 ######Narrative Abilities
 
@@ -450,10 +450,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |       +4|   2  |
-|Intellect     | d4  |       +1|   2  |
+|Physicality   | d4  |       +4|   4  |
+|Intellect     | d4  |       +1|   1  |
 |Personality   | d4  |       +2|   2  |
-|Extraordinary | d4  |       +3|   2  |
+|Extraordinary | d4  |       +3|   3  |
 
 ######Narrative Abilities
 
@@ -469,10 +469,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +4|   2  |
-|Intellect     | d4  |       +1|   2  |
-|Personality   | d4  |       +1|   2  |
-|Extraordinary | d4  |       +1|   2  |
+|Physicality   | d8  |       +4|   6  |
+|Intellect     | d4  |       +1|   1  |
+|Personality   | d4  |       +1|   1  |
+|Extraordinary | d4  |       +1|   1  |
 
 ######Narrative Abilities
 
@@ -488,10 +488,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d10 |       +#|   2  |
-|Intellect     | d6  |       +#|   2  |
-|Personality   | d4  |       +#|   2  |
-|Extraordinary | d8  |       +#|   2  |
+|Physicality   | d10 |       +4|   7  |
+|Intellect     | d6  |       +2|   3  |
+|Personality   | d4  |       +1|   1  |
+|Extraordinary | d8  |       +3|   5  |
 
 ######Narrative Abilities
 
@@ -507,10 +507,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +3|   2  |
-|Intellect     | d12 |       +4|   2  |
-|Personality   | d4  |       +1|   2  |
-|Extraordinary | d10 |       +2|   2  |
+|Physicality   | d8  |       +3|   5  |
+|Intellect     | d12 |       +4|   8  |
+|Personality   | d4  |       +1|   1  |
+|Extraordinary | d10 |       +2|   5  |
 
 ######Narrative Abilities
 
