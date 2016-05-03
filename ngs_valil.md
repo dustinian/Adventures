@@ -86,10 +86,10 @@ Characters
 
 ###Archetypes
 
-* __Warrior/Barbarian:__ Physicality. Defend friends and attack enemies with physical abilities and weapons.
-* __Wizard/Magician:__ Intellect. Maniupate elemental, illusory, and arcane forces with diligent study and mental discipline.
-* __Thief/Rogue:__ Personality. Blend in, strike, and fade away by reading and manipulating people and crowds.
-* __Cleric/Warlock:__ Extraordinary. Call upon mystical forces to heal friends... or hurt enemies.
+* __Warrior/Barbarian:__ _Physicality._ Defend friends and attack enemies with physical abilities and weapons.
+* __Wizard/Magician:__ _Intellect._ Maniupate elemental, illusory, and arcane forces with diligent study and mental discipline.
+* __Thief/Rogue:__ _Personality._ Blend in, strike, and fade away by reading and manipulating people and crowds.
+* __Cleric/Warlock:__ _Extraordinary._ Call upon mystical forces to heal friends... or hurt enemies.
 
 ###Narrative Abilities
 
@@ -100,10 +100,10 @@ Characters should have:
 
 These abilities can be acquired from several sources:
 
-* __Mundane:__ Physicality. Trained. Relatively common abilities... archery, fencing, riding... learned from relatively common mentors.
-* __Urbane:__ Personality. Cultivated. Uncommon abilities... passion, drama, manipulation... acquired through experience.
-* __Arcane:__ Intellect. Discovered. Very uncommon abilities... spells, curses, rituals... learned from very uncommon mentors.
-* __Divine:__ Extraordinary. God-given. Granted by a deity... who nearly always demands something in return: fealty, loyalty, sacrifice, etc.
+* __Mundane:__ _Physicality._ Trained. Relatively common abilities... archery, fencing, riding... learned from relatively common mentors.
+* __Urbane:__ _Personality._ Cultivated. Uncommon abilities... passion, drama, manipulation... acquired through experience.
+* __Arcane:__ _Intellect._ Discovered. Very uncommon abilities... spells, curses, rituals... learned from very uncommon mentors.
+* __Divine:__ _Extraordinary._ God-given. Granted by a deity... who nearly always demands something in return: fealty, loyalty, sacrifice, etc.
 
 ###Health and Dying
 
@@ -111,7 +111,7 @@ These abilities can be acquired from several sources:
   * __1-2:__ The first two damage instances a character receives are superficial:  bruises, strains, fatigue, etc.
   * __3:__ Only the third damage instance should be considered a "wound." Thus, any duels "to first blood" would actually be "to the third damage instance."
   * __4:__ The fourth damage instance renders a PC unconscious. The GM should rule when death occurs based on the narrative and the type of wounds inflicted.
-    * _Note:_ When a PC is knocked unconscious in mortal combat, I like to ask the player to make a physicality roll... The character will die in that many "rounds" without treatment or healing.
+    * _Note:_ When a PC is knocked unconscious in mortal combat, I like to ask the player to make a physicality roll... The character will die in that many "rounds" without treatment or healing (a character with a Physicality of d6+4 will die in d6+4 rounds).
 * __Recovery:__ Recover 2 instances after first long, restful sleep. Recover remaining instances one-per-rest.
 * __Healing:__ Characters who take appropriate narrative abilities can heal themselves or other charactes.
   * __Major:__ Restore 2 instances.
@@ -182,10 +182,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   5  |
-|Intellect     | d4  |       +3|   3  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d4  |       +2|   2  |
+|Physicality   | d6  |   +4    |   5  |
+|Intellect     | d4  |   +3    |   3  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +2    |   2  |
 
 ######Narrative Abilities
 
@@ -201,10 +201,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   5  |
-|Intellect     | d6  |       +3|   4  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d4  |       +2|   2  |
+|Physicality   | d6  |   +4    |   5  |
+|Intellect     | d6  |   +3    |   4  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +2    |   2  |
 
 ######Narrative Abilities
 
@@ -250,10 +250,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   5  |
-|Intellect     | d4  |       +2|   2  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d4  |       +3|   3  |
+|Physicality   | d6  |   +4    |   5  |
+|Intellect     | d4  |   +2    |   2  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +3    |   3  |
 
 ######Narrative Abilities
 
@@ -271,10 +271,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +4|   6  |
-|Intellect     | d4  |       +2|   2  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d4  |       +3|   3  |
+|Physicality   | d8  |   +4    |   6  |
+|Intellect     | d4  |   +2    |   2  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +3    |   3  |
 
 ######Narrative Abilities
 
@@ -290,10 +290,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d10 |       +4|   7  |
-|Intellect     | d4  |       +3|   3  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d4  |       +2|   2  |
+|Physicality   | d10 |   +4    |   7  |
+|Intellect     | d4  |   +3    |   3  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +2    |   2  |
 
 ######Narrative Abilities
 
@@ -323,10 +323,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |       +3|   3  |
-|Intellect     | d6  |       +4|   5  |
-|Personality   | d4  |       +2|   2  |
-|Extraordinary | d4  |       +1|   1  |
+|Physicality   | d4  |   +3    |   3  |
+|Intellect     | d6  |   +4    |   5  |
+|Personality   | d4  |   +2    |   2  |
+|Extraordinary | d4  |   +1    |   1  |
 
 ######Narrative Abilities
 
@@ -358,10 +358,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   5  |
-|Intellect     | d6  |       +3|   4  |
-|Personality   | d6  |       +2|   3  |
-|Extraordinary | d4  |       +1|   1  |
+|Physicality   | d6  |   +4    |   5  |
+|Intellect     | d6  |   +3    |   4  |
+|Personality   | d6  |   +2    |   3  |
+|Extraordinary | d4  |   +1    |   1  |
 
 ######Narrative Abilities
 
@@ -377,10 +377,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |       +1|   1  |
-|Intellect     | d6  |       +4|   5  |
-|Personality   | d8  |       +3|   5  |
-|Extraordinary | d6  |       +2|   3  |
+|Physicality   | d4  |   +1    |   1  |
+|Intellect     | d6  |   +4    |   5  |
+|Personality   | d8  |   +3    |   5  |
+|Extraordinary | d6  |   +2    |   3  |
 
 ######Narrative Abilities
 
@@ -396,10 +396,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +4|   6  |
-|Intellect     | d8  |       +3|   5  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d4  |       +2|   2  |
+|Physicality   | d8  |   +4    |   6  |
+|Intellect     | d8  |   +3    |   5  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +2    |   2  |
 
 ######Narrative Abilities
 
@@ -415,10 +415,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d10 |       +4|   7  |
-|Intellect     | d6  |       +2|   3  |
-|Personality   | d6  |       +3|   4  |
-|Extraordinary | d4  |       +1|   1  |
+|Physicality   | d10 |   +4    |   7  |
+|Intellect     | d6  |   +2    |   3  |
+|Personality   | d6  |   +3    |   4  |
+|Extraordinary | d4  |   +1    |   1  |
 
 ######Narrative Abilities
 
@@ -450,10 +450,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |       +4|   4  |
-|Intellect     | d4  |       +1|   1  |
-|Personality   | d4  |       +2|   2  |
-|Extraordinary | d4  |       +3|   3  |
+|Physicality   | d4  |   +4    |   4  |
+|Intellect     | d4  |   +1    |   1  |
+|Personality   | d4  |   +2    |   2  |
+|Extraordinary | d4  |   +3    |   3  |
 
 ######Narrative Abilities
 
@@ -469,10 +469,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +4|   6  |
-|Intellect     | d4  |       +1|   1  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d4  |       +1|   1  |
+|Physicality   | d8  |   +4    |   6  |
+|Intellect     | d4  |   +1    |   1  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d4  |   +1    |   1  |
 
 ######Narrative Abilities
 
@@ -488,10 +488,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d10 |       +4|   7  |
-|Intellect     | d6  |       +2|   3  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d8  |       +3|   5  |
+|Physicality   | d10 |   +4    |   7  |
+|Intellect     | d6  |   +2    |   3  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d8  |   +3    |   5  |
 
 ######Narrative Abilities
 
@@ -507,10 +507,10 @@ Description
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d8  |       +3|   5  |
-|Intellect     | d12 |       +4|   8  |
-|Personality   | d4  |       +1|   1  |
-|Extraordinary | d10 |       +2|   5  |
+|Physicality   | d8  |   +3    |   5  |
+|Intellect     | d12 |   +4    |   8  |
+|Personality   | d4  |   +1    |   1  |
+|Extraordinary | d10 |   +2    |   5  |
 
 ######Narrative Abilities
 
@@ -596,10 +596,10 @@ Strong, but slow--Brett values actions over words.
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +4|   5  |
-|Intellect     | d6  |       +1|   2  |
-|Personality   | d6  |       +3|   4  |
-|Extraordinary | d6  |       +2|   3  |
+|Physicality   | d6  |   +4    |   5  |
+|Intellect     | d6  |   +1    |   2  |
+|Personality   | d6  |   +3    |   4  |
+|Extraordinary | d6  |   +2    |   3  |
 
 #####Narrative Abilities
 
@@ -633,10 +633,10 @@ Devout, but abrasive--Casey values conviction over temperament.
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +3|   4  |
-|Intellect     | d6  |       +2|   3  |
-|Personality   | d6  |       +1|   2  |
-|Extraordinary | d6  |       +4|   5  |
+|Physicality   | d6  |   +3    |   4  |
+|Intellect     | d6  |   +2    |   3  |
+|Personality   | d6  |   +1    |   2  |
+|Extraordinary | d6  |   +4    |   5  |
 
 #####Narrative Abilities
 
@@ -670,10 +670,10 @@ Brainy, but weak--Sydney values knowledge over strength.
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +1|   2  |
-|Intellect     | d6  |       +4|   5  |
-|Personality   | d6  |       +2|   3  |
-|Extraordinary | d6  |       +3|   4  |
+|Physicality   | d6  |   +1    |   2  |
+|Intellect     | d6  |   +4    |   5  |
+|Personality   | d6  |   +2    |   3  |
+|Extraordinary | d6  |   +3    |   4  |
 
 #####Narrative Abilities
 
@@ -707,21 +707,21 @@ Persuasive, but skeptical--Taylor values subtlety over devotion.
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d6  |       +3|   4  |
-|Intellect     | d6  |       +2|   3  |
-|Personality   | d6  |       +4|   5  |
-|Extraordinary | d6  |       +1|   2  |
+|Physicality   | d6  |   +3    |   4  |
+|Intellect     | d6  |   +2    |   3  |
+|Personality   | d6  |   +4    |   5  |
+|Extraordinary | d6  |   +1    |   2  |
 
 #####Narrative Abilities
 
 ######Major
 
-* __XX:__ 
+* __Face in the crowd:__ Taylor can disappear in a crowd, effortlessly blending in with noble and commoner alike.
 
 ######Minor
 
-* __XX:__ 
-* __XX:__ 
+* __Flattery:__ Taylor knows that a few well-chosen words and the right body language can win many instant allies.
+* __Marksman:__ Taylor's always had a way with ranged weapons&mdash;
 * __XX:__ 
 
 #####Goals
