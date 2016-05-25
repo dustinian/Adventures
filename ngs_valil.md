@@ -49,7 +49,7 @@ Setting
 ###Introduction
 
 * __Structure:__ Valil is a medium-sized, town of about 5,000 people. Surrounded by a low outer wall, it's relatively well-defended against beasts and monsters, but it would fall in less than a week to an organized "army."
-* __Guards:__ Valil is protected by 50 overworked guards, and 500 regularly-trained reserves. Many of the reserves only show up monthly training for their silver piece, but morale is high enough in Valil that a solid majority of the reserves see this training as their civic duty.
+* __Guards:__ Valil is protected by 50 overworked "regular" guards, and 500 reserves. Many of the reserves only show up monthly training for their silver piece, but morale is high enough in Valil that a solid majority of the reserves see this training as their civic duty.
 * __Government:__ Valil is a feudal society. The guard regularly patrol the city and haphazardly dispense justice to the rabble, but most disputes between peasants are resolved by an appeal to the gentry (their employers). Gentry appeal to nobility (their lords). The highest authority in Valil is the Sherrif, who rules on behalf of a distant King.
 * __History:__ Valil sprang up alongside a river 400 years ago, so the structures by the river (docks, mills, warehouses) are the oldest. Moving away from the river, there are interspersed homes, merchants, and skilled laborers. Farthest away from the river are the silos, barns, corrals, and charnels that support the farms around Valil.
 * __Map:__ No map of Valil is included in this supplement. Buildings, businesses, and residences are located where dramatically appropriate. You can improv geography with confidence, because this supplement will not contradict you.
@@ -721,18 +721,18 @@ Persuasive, but skeptical--Taylor values subtlety over devotion.
 ######Minor
 
 * __Flattery:__ Taylor knows that a few well-chosen words and the right body language can win many instant allies.
-* __Marksman:__ Taylor's always had a way with ranged weapons&mdash;
-* __XX:__ 
+* __Marksman:__ Taylor's always had a way with ranged weapons&emdash;throwing daggers, darts, crossbows... you name it.
+* __Actor:__ Taylor has mastered storytelling... spinning intricate yarns that people can't help but believe.
 
 #####Goals
 
-* __:__
+* __Retirement:__ Taylor has always envied nobles for their carefree lives of indolence, and longs to achieve the wealth to do the same.
 * __:__
 
 #####Flaws
 
-* __:__
-* __:__
+* __Fortune:__ Almost nothing is as important to Taylor as money.
+* __Glory:__ There are good thieves, and there are famous thieves, but there are no good, famous thieves. Taylor knows this, but wants the fame anyway.
 
 
 
@@ -763,4 +763,4 @@ License
 
 ###Ownership
 
-Dustinian Camburides reserves all rights over _Valil_. However, I would be delighted to offer _Valil_ to _Venture Land Games_ with no compensation whatsoever should they choose to reproduce _Valil_ in whole or in part in any official document or supplament.
+Dustinian Camburides reserves all rights for _Valil_. However, I would be delighted to offer _Valil_ to _Venture Land Games_ for no compensation whatsoever should they choose to reproduce _Valil_ in whole or in part in any official document or supplement.
