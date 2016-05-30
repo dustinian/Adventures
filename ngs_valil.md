@@ -652,13 +652,13 @@ Devout, but abrasive--Casey values conviction over temperament.
 
 #####Goals
 
-* __:__
-* __:__
+* __XX:__
+* __XX:__
 
 #####Flaws
 
-* __:__
-* __:__
+* __XX:__
+* __XX:__
 
 
 
@@ -689,19 +689,19 @@ Brainy, but weak--Sydney values knowledge over strength.
 
 #####Goals
 
-* __:__
-* __:__
+* __XX:__
+* __XX:__
 
 #####Flaws
 
-* __:__
-* __:__
+* __XX:__
+* __XX:__
 
 
 
 ###Taylor the Thief
 
-Persuasive, but skeptical--Taylor values subtlety over devotion.
+Persuasive, but skeptical&emdash;Taylor values subtlety over devotion.
 
 * __Damage Instances:__ 4
 
@@ -727,7 +727,7 @@ Persuasive, but skeptical--Taylor values subtlety over devotion.
 #####Goals
 
 * __Retirement:__ Taylor has always envied nobles for their carefree lives of indolence, and longs to achieve the wealth to do the same.
-* __:__
+* __Legacy:__ Taylor is on the lookout for a protogé, with a half-formed notion of eventually sitting atop a pyramid scheme of thieves and con-artists.
 
 #####Flaws
 
@@ -744,7 +744,7 @@ Owning It
 
 Customizing this supplement for your group...
 
-* __Name NPCs:__ No non-player characters are named in this supplement; they are referred to by only by occupation or role. This makes it easy to drop any adventure into an existing campaign with existing NPCs. You already know the Innkeeper in your campaing is Audric, so when you read "Inkeeper" you say "Audric." You don't have to remember that "Garett" in this supplement is actually "Audric" in your campaign.
+* __Name NPCs:__ No non-player characters are named in this supplement; they are referred to by only by occupation or role. This makes it easy to drop any adventure into an existing campaign with existing NPCs. You already know the Innkeeper in your current campaign is Audric, so when you read "Inkeeper" you say "Audric." You don't have to remember that "Garett" in this supplement is actually "Audric" in your campaign.
 * __Keep NPCs:__ Once players latch onto an NPC as a beloved friend or hated enemy, keep bringing that NPC back for the next adventure. Make them the villain. Give them a cameo. Let a Player catch sight of them in a crowd. But use them, because player love/hate is hard to create, and it's so vital to a good, fun experience at the table.
 * __Draw Maps:__ Maps aren't necessary for this campaign, and I often run without them. But if you want to commit to a geography, there's no geography like your own. It ensures a proper fit into a larger campaign, and no map's easier to remember than the one you drew yourself.
 
