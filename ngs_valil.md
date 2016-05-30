@@ -584,13 +584,13 @@ Description
 Pre-Generated Characters
 ------------------------
 
-Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players. I named the characters from a list of [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and avoided gendered pronouns, so feel free to play any character as either gender.
+Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players. I named the characters from a list of [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and avoided gendered pronouns, so feel free to play any character as any gender.
 
 
 
 ###Brett the Barbarian
 
-Strong, but slow--Brett values actions over words.
+Strong, but slow&emdash;Brett values actions over words.
 
 * __Damage Instances:__ 4
 
@@ -627,7 +627,7 @@ Strong, but slow--Brett values actions over words.
 
 ###Casey the Cleric
 
-Devout, but abrasive--Casey values conviction over temperament.
+Devout, but abrasive&emdash;Casey values conviction over temperament.
 
 * __Damage Instances:__ 4
 
@@ -642,7 +642,7 @@ Devout, but abrasive--Casey values conviction over temperament.
 
 ######Major
 
-* __XX:__ 
+* __Healing:__ 
 
 ######Minor
 
@@ -652,13 +652,13 @@ Devout, but abrasive--Casey values conviction over temperament.
 
 #####Goals
 
-* __XX:__
-* __XX:__
+* __Resuscitate:__ 
+* __Rehabilitate:__ 
 
 #####Flaws
 
-* __XX:__
-* __XX:__
+* __Gruff:__ Casey has work to do, and everyone else had better help or get out of the way.
+* __Simple:__ Casey believes in simple, straightforward solutions. Unfortunately, it's really easy to take "straightforward" too far and border on "stupid."
 
 
 
@@ -679,23 +679,27 @@ Brainy, but weak--Sydney values knowledge over strength.
 
 ######Major
 
-* __XX:__ 
+* __Arcana:__ As a sorcerer, Sydney has developed the senses and knowledge to affect the very fabric of reality.
+  * __Using Magic to Attack:__ When Sydney uses magic to attack another character, the characters should make _Opposed Rolls_. The defending character should defend with the appropriate _Ability_. For example, if Sydney tries to hurt another character with magic, Sydney should roll _Intellect_ against that other character's _Physicality._ If Sydney tries to stun another character with Magic, Sydney should roll _Intellect_ against that other character's _Intellect_, and so on. If Sydney tries to use magic on another magical character, that character may choose to oppose any spell with _Intellect_, as long as that character is aware of the attack.
+  * __Hard Limitaiton, Scope:__ While Sydney can _affect_ the fabric of reality, that affect is relatively limited in scope. For example, when using magic to attack another character, the damage should inflicted should ahere to the _Damage_ table; there are no insta-kills because reality resists Sydney's (and, indeed, any sorcerer's) attempts to alter it.
+  * __Soft Limitation:__ The GM and player should align on what magic can and cannot do, and both should be able to invoke that trust and alignment to prevent the other from "breaking" the story. For example, suppose the GM and player are not aligned, and Sydney is allowed to teleport people and objects. In the next combat, the players face off against a monster, and Sydney decides to simply teleport the monster's head a few feet away... the GM never intended the teleport spell to have that affect, so an argument ensues.
+  * __Optional Limitation, Spells per Day:__ Every morning, Sydney makes an _Intellect_ roll. The result tells the player how many spells Sydney will be able to cast that day. Currently, Sydney rolls a d6+4 for _Intellect,_ thus Sydney will initially be able to cast from 5 to 10 spells per day.
 
 ######Minor
 
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
+* __Ear for Languages:__ 
+* __Quick Study:__ Sydney reads voraciously.
+* __Useless Trivia:__ 
 
 #####Goals
 
-* __XX:__
+* __Innovation:__ Despite studying many, many ancient works... discovering new spells is Sydney's real passion. Sydney feels magic is too devoted to the rote study of ancient magical pioneers. Sydney would rather _be_ one of those pioneers, discovering new, innovative spells.
 * __XX:__
 
 #####Flaws
 
-* __XX:__
-* __XX:__
+* __Weak:__ Sydney's absolute devotion to knowledge and studying has created a sedentary lifestyle. Sydney struggles with any strenuous activity, including any hiking more difficult than schlepping a satchel of books across town.
+* __Aloof:__ Sydney's interactions with other people have always been limited to specific roles within some rigid hierarchy: master/servant; teacher/student; merchant/customer. As a result, Sydney has no idea how to establish and cultivate peer relationships: friends, lovers, etc.
 
 
 
