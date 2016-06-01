@@ -5,10 +5,32 @@ Below are suggestions to Venture Land Games for growing NGS.
 
 
 
+Summary
+-------
+
+|Suggestion                                                           |Estimated Cost|Estimated Revenue|
+|:--------------------------------------------------------------------|-------------:|----------------:|
+|Release free rules.                                                  |              |                 |
+|Participate in [Free RPG Day](http://www.freerpgday.com).            |              |                 |
+|Create online community.                                             |              |                 |
+|Encourage online community.                                          |              |                 |
+|Leverage online community.                                           |              |                 |
+|Participate in a [Bundle of Holding](http://www.bundleofholding.com).|              |                 |
+|Create new supplements.                                              |              |                 |
+_All dollars are USD._
+_Estimated cost is broken down into line items below._
+
+
+
+_Labor costs estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+_All dollars are USD._
+
+
+
 Release a free "Quick Start" rules package.
 -------------------------------------------
 
-Many games, including Fifth Edition, allow gamers to "try it before [they] buy it" with abridged .PDFs.
+Many games, including Fifth Edition, allow gamers to "try it before [they] buy" with abridged .PDFs.
 
 Releasing a set of "Quick Start" rules would allow:
 

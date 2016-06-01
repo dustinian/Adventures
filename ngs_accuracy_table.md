@@ -1,14 +1,26 @@
-﻿#Accuracy Table: Opposed Rolls
+﻿Opposed Roll Accuracy Tables
+============================
 
-##Summary
+
+
+Summary
+-------
 
 This table shows the likely result of an "opposed" roll; it may be helpful for building NPCs to challenge your PCs.
 
-##Detail
+
+
+Detail
+------
 
 When one character attacks another, they make opposed Mechanical Ability rolls. Below, I've plotted the "accuracy" of each possible die (d6, d8, etc.) and Priority (+1, +2, etc.). For example, a character attacking with "d12 + 3" will hit a character defending with "d8 + 4" 54% of the time.
 
-##NGS Opposed Roll Accuracy
+
+
+Opposed Roll Accuracy Table
+---------------------------
+
+[View this table as an image...](https://goo.gl/photos/wNLVDm9EoQSscHA76)
 
 |          |      |  d6   |  d6   |  d6   |  d6   |  d8   |  d8   |  d8   |  d8   |  d10  |  d10  |  d10  |  d10  |  d12  |  d12  |  d12  |  d12  |
 |---------:|-----:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|
@@ -30,9 +42,12 @@ When one character attacks another, they make opposed Mechanical Ability rolls. 
 | __d12__  |__+3__|  92%  |  86%  |  75%  |  63%  |  84%  |  78%  |  67%  |  54%  |  77%  |  70%  |  58%  |  46%  |  69%  |  62%  |  50%  |  38%  |
 | __d12__  |__+4__|  96%  |  92%  |  86%  |  75%  |  90%  |  84%  |  78%  |  67%  |  83%  |  77%  |  70%  |  58%  |  75%  |  69%  |  62%  |  50%  |
 
-##Including d4
 
-Here's another table that includes d4s, based on the my [Level 0 Characters](https://www.reddit.com/r/narrativegamesystem/comments/4dd8n2/level_0_characters/) essay.
+
+Including D4
+------------
+
+Here's another table that includes d4s, based on the my [Level 0 Characters](https://www.reddit.com/r/narrativegamesystem/comments/4dd8n2/level_0_characters/) essay. [View this table as an image...](https://goo.gl/photos/Y8GRBz57BeMf9peM8)
 
 |          |      |   d4   |  d4   |  d4   |  d4   |  d6   |  d6   |  d6   |  d6   |  d8   |  d8   |  d8   |  d8   |  d10  |  d10  |  d10  |  d10  |  d12  |  d12  |  d12  |  d12  |
 |---------:|-----:|-------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|
@@ -58,7 +73,10 @@ Here's another table that includes d4s, based on the my [Level 0 Characters](htt
 | __d12__  |__+3__|   98%  |  94%  |  83%  |  71%  |  92%  |  86%  |  75%  |  63%  |  84%  |  78%  |  67%  |  54%  |  77%  |  70%  |  58%  |  46%  |  69%  |  62%  |  50%  |  38%  |
 | __d12__  |__+4__|  100%  |  98%  |  94%  |  83%  |  96%  |  92%  |  86%  |  75%  |  90%  |  84%  |  78%  |  67%  |  83%  |  77%  |  70%  |  58%  |  75%  |  69%  |  62%  |  50%  |
 
-##Methodology
+
+
+Methodology
+-----------
 
 I wrote the following custom function in Excel to calculate the results of all possible rolls in an opposed roll:
 

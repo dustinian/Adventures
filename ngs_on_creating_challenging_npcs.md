@@ -70,10 +70,10 @@ Starting player characters have a total rating of __14__. For example:
 
 |   Ability       | Die | Priority|Rating|
 |:----------------|:---:|:-------:|:----:|
-|__Physicality__  | d6  |   +1    | __2__|
-|__Intellect__    | d6  |   +2    | __3__|
-|__Personality__  | d6  |   +3    | __4__|
-|__Extraordinary__| d6  |   +4    | __5__|
+|  Physicality    | d6  |   +1    | __2__|
+|  Intellect      | d6  |   +2    | __3__|
+|  Personality    | d6  |   +3    | __4__|
+|  Extraordinary  | d6  |   +4    | __5__|
 |__Total:__       |     |         |__14__|
 
 ###Accuracy

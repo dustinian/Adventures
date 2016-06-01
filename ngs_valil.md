@@ -646,13 +646,13 @@ Devout, but abrasive&emdash;Casey values conviction over temperament.
 
 ######Minor
 
-* __XX:__ 
-* __XX:__ 
-* __XX:__ 
+* __Defend:__ 
+* __Pacify:__ 
+* __Bolster:__ 
 
 #####Goals
 
-* __Resuscitate:__ 
+* __Resuscitate:__ Dead citizens cannot serve the greater good.
 * __Rehabilitate:__ 
 
 #####Flaws
@@ -688,13 +688,13 @@ Brainy, but weak--Sydney values knowledge over strength.
 ######Minor
 
 * __Ear for Languages:__ 
-* __Quick Study:__ Sydney reads voraciously.
-* __Useless Trivia:__ 
+* __Quick Study:__ 
+* __Useless Trivia:__ Sydney reads voraciously.
 
 #####Goals
 
 * __Innovation:__ Despite studying many, many ancient works... discovering new spells is Sydney's real passion. Sydney feels magic is too devoted to the rote study of ancient magical pioneers. Sydney would rather _be_ one of those pioneers, discovering new, innovative spells.
-* __XX:__
+* __Documentation:__ Sydney worries that the society is too focused on ancient history, and not focused enough on the history that's made every day.
 
 #####Flaws
 

@@ -34,7 +34,7 @@ History
 
 * __1978, Advanced Dungeons & Dragons:__ "Unearthed Arcana"  discussed Level 0 magic users, and "Greyhawk Adventures" offered rules for Level 0 characters.
 * __1980, Rolemaster:__ Level 0 characters are one of several character creation options.
-* __1989, Advanced Dungeons & Dragons, Second Edition:__ Statistics Level 0 characters, such as saving throws, are included.
+* __1989, Advanced Dungeons & Dragons, Second Edition:__ Statistics for Level 0 characters, such as saving throws, are included.
 
 
 
@@ -78,7 +78,7 @@ Advance using the out-of-the-box NGS rules; it costs six XP to advance any _Mech
 
 ###Caution
 
-d4s are underpowered. A d4+1 cannot beat any other die +4. For example: the _maxium_ roll of a d4+1 is 5; the _minimum_ roll of a d4+4 is 5; even if both roll 5, the tie-breaker is the priority. Review the accuracy table above and note the 0%. This is why d4s aren't used in NGS out-of-the-box; a d4 has a hard time offsetting the _Priority_ bonus.
+d4s are underpowered. A d4+1 cannot beat any other die +4. For example: the _maxium_ roll of a d4+1 is 5; the _minimum_ roll of a d6+4 is 5; even if both roll 5, the tie-breaker is the priority. Review the accuracy table above and note the 0%. This is why d4s aren't used in NGS out-of-the-box; a d4 has a hard time offsetting the _Priority_ bonus.
 
 
 

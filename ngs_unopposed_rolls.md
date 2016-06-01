@@ -1,14 +1,18 @@
-﻿Accuracy Table: Unopposed Rolls
-===============================
+﻿Unopposed Roll Accuracy Table
+=============================
+
+
 
 Summary
 -------
 
 This table shows the likely result of an "unopposed" roll; it may be helpful for establishing the _DC_ for traps and other "environmental" checks.
 
-NGS Unopposed Roll Accuracy
----------------------------
-_Die_ + _Priority_ plotted against _DC_.
+
+
+Unopposed Roll Accuracy
+-----------------------
+_Die_ + _Priority_ plotted against _DC_. [View this table as an image...](https://goo.gl/photos/FNixtax3U17y7DK28)
 
 |       |      |   2|   3|   4|   5|   6|   7|   8|   9|  10|  11|  12|  13|  14|  15|  16|  17|  18|  19|  20|
 |------:|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -29,10 +33,12 @@ _Die_ + _Priority_ plotted against _DC_.
 |__d12__|__+3__|100%|100%|100%|100%|100%|100%| 67%| 58%| 50%| 42%| 33%| 25%| 17%|  8%|  0%|  0%|  0%|  0%|  0%|
 |__d12__|__+4__|100%|100%|100%|100%|100%|100%|100%| 67%| 58%| 50%| 42%| 33%| 25%| 17%|  8%|  0%|  0%|  0%|  0%|
 
-Including d4
+
+
+Including D4
 ------------
 
-Here's another table that includes d4s, based on the my [Level 0 Characters](https://www.reddit.com/r/narrativegamesystem/comments/4dd8n2/level_0_characters/) essay.
+Here's another table that includes d4s, based on the my [Level 0 Characters](https://www.reddit.com/r/narrativegamesystem/comments/4dd8n2/level_0_characters/) essay. [View this table as an image...](https://goo.gl/photos/XApZbQZPr3pVDL638)
 
 |       |      |   2|   3|   4|   5|   6|   7|   8|   9|  10|  11|  12|  13|  14|  15|  16|  17|  18|  19|  20|
 |------:|-----:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -57,6 +63,8 @@ Here's another table that includes d4s, based on the my [Level 0 Characters](htt
 |__d12__|__+3__|100%|100%|100%|100%|100%|100%| 67%| 58%| 50%| 42%| 33%| 25%| 17%|  8%|  0%|  0%|  0%|  0%|  0%|
 |__d12__|__+4__|100%|100%|100%|100%|100%|100%|100%| 67%| 58%| 50%| 42%| 33%| 25%| 17%|  8%|  0%|  0%|  0%|  0%|
 
+
+
 Extrapolated Rolls
 ------------------
 
@@ -80,8 +88,10 @@ Here is some context on _DC_s, extrapolated from the table above and the guidanc
 |  15  |     d12+3       |    None     | __Almost never__ achieved at all (d12+4, 17%).                            |
 |  16  |     d12+4       |    None     | __Almost impossible__ (d12+4, 8%).                                        |
 
-##Methodology
 
+
+Methodology
+-----------
 I wrote the following custom function in Excel to calculate the results of all possible rolls against a _DC_:
 
     Function AverageUnopposedDiePercent(Die As Byte, Modifier As Byte, Difficulty As Byte) As Double
