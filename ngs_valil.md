@@ -15,28 +15,28 @@ This is a role-playing experiment, and the independent variable is the system. M
 Outline
 -------
 
-* __Setting__
-  * Introduction
-  * Big Events
-  * Rumors
-  * DC 21
-* __Characters__
-  * Archetypes
-  * Narrative Abilities
-  * Health and Dying
-* __Adventures__
-  * Rat Infestation
-  * Green Men
-  * Digging Sounds
-  * Tax Collector
-  * Haunted Dungeons
-  * Merchant's Guild
-* __Pre-Generated Characters__
-  * Brett the Barbarian
-  * Casey the Cleric
-  * Sydney the Sorcerer
-  * Taylor the Thief
-* __Owning It__
+* __[Setting](#setting)__
+  * [Introduction](#introduction)
+  * [Big Events](#big-events)
+  * [Rumors](#rumors)
+  * [DC 21](#dc-21)
+* __[Characters](#characters)__
+  * [Archetypes](#archetypes)
+  * [Narrative Abilities](#narrative-abilities)
+  * [Health and Dying](#health-and-dying)
+* __[Adventures](#adventures)__
+  * [Rat Infestation](#)
+  * [Green Men](#)
+  * [Digging Sounds](#)
+  * [Tax Collector](#)
+  * [Haunted Dungeons](#)
+  * [Merchant's Guild](#)
+* __[Pre-Generated Characters](#)__
+  * [Brett the Barbarian](#)
+  * [Casey the Cleric](#)
+  * [Sydney the Sorcerer](#)
+  * [Taylor the Thief](#)
+* __[Owning It](#)__
 
 
 
