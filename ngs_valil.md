@@ -25,18 +25,18 @@ Outline
   * [Narrative Abilities](#narrative-abilities)
   * [Health and Dying](#health-and-dying)
 * __[Adventures](#adventures)__
-  * [Rat Infestation](#)
-  * [Green Men](#)
-  * [Digging Sounds](#)
-  * [Tax Collector](#)
-  * [Haunted Dungeons](#)
-  * [Merchant's Guild](#)
-* __[Pre-Generated Characters](#)__
-  * [Brett the Barbarian](#)
-  * [Casey the Cleric](#)
-  * [Sydney the Sorcerer](#)
-  * [Taylor the Thief](#)
-* __[Owning It](#)__
+  * [Rat Infestation](#rat-infestation)
+  * [Goblin Invasion](#goblin-invasion)
+  * [Kobald Corundrum](#kobald-corundrum)
+  * [Royal Taxation](#royal-taxation)
+  * [Undead Affliction](#undead-affliction)
+  * [Demon Damnation](#demon-damnation)
+* __[Pre-Generated Characters](#pre-generated-characters)__
+  * [Brett the Barbarian](#brett-the-barbarian)
+  * [Casey the Cleric](#casey-the-cleric)
+  * [Sydney the Sorcerer](#sydney-the-sorcerer)
+  * [Taylor the Thief](#taylor-the-thief)
+* __[Owning It](#owning-it)__
 
 
 
@@ -136,6 +136,9 @@ These "adventures" are short outlines, with a few bullets on:
 
 
 
+
+
+
 ###Rat Infestation
 
 A rat problem has gotten out of hand in the waterfront district.
@@ -217,6 +220,9 @@ Description
 ####Rewards
 
 * 8 XP per PC.
+
+
+
 
 
 
@@ -309,7 +315,12 @@ Description
 
 
 
-###Kobald Corruption/Corundrum (introduce puzzles)
+
+
+
+###Kobald Corundrum
+
+(introduce puzzles)
 
 * __Digging Sounds:__ My husband guards one of the gates to the city. When he's on duty, he has to sleep there. In the night, they hear digging sounds, deep under the gatehouse. Somebody is digging a tunnel somewhere. They've told the captain, but he thinks they're hearing things!
 
@@ -343,6 +354,9 @@ Description
 ####Rewards
 
 * 12 XP per PC.
+
+
+
 
 
 
@@ -431,6 +445,9 @@ Description
 ####Rewards
 
 * 16 XP per PC.
+
+
+
 
 
 
@@ -523,6 +540,9 @@ Description
 ####Rewards
 
 * 18 XP per PC.
+
+
+
 
 
 
