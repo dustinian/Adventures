@@ -4,15 +4,11 @@
 __Create challenging _Non-Player Character_ antagonists for the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) by [Venture Land Games](http://www.venturelandgames.com).__
 
 
-Summary
--------
-
-This essay analyzes the creation of level-appropriate _Non-Player Characters_ as antagonists.
-
 
 Contents
 --------
 
+* Summary
 * Introduction
 * Abbreviations
 * Disclaimer
@@ -21,6 +17,14 @@ Contents
 * Groups
 * Conclusion
 * [License](#license)
+
+
+
+Summary
+-------
+
+This essay analyzes the creation of level-appropriate _Non-Player Characters_ as antagonists.
+
 
 
 Introduction
@@ -35,6 +39,7 @@ With no library of pre-generated NPCs to fall back on, GMs may find that the bul
 This essay gives perspective on each of these questions, and helps GMs challenge their players.
 
 
+
 Glossary
 --------
 
@@ -45,6 +50,8 @@ Glossary
 |NPC         |Non-Player Character |Character controlled by the GM.                 |
 |PC          |Player Character     |Character controlled by a player, a protagonist.|
 
+
+
 Disclaimer
 ----------
 
@@ -54,6 +61,7 @@ NGS is specifically designed as a "rules light" system. You can argue--and right
 * The average NGS GM will have no interest in the content of this article.
 
 Both of those observations are fair, and I encourage you to abandon this essay now if you agree. I intend to follow this essay up with a series of pre-generated NPCs for fellow GMs to simply drop into their games with no number crunching. But I wanted to write this essay first... I want to  generate those NPCs with some rhyme and reason.
+
 
 
 Mechanical Abilities
@@ -128,21 +136,13 @@ When one character hits another (after winning the Mechanical Ability check), da
 
 
 
-
-
-
-
-
-
 Narrative Abilities
 -------------------
 
 
 
-
 Groups
 ------
-
 
 
 
@@ -160,5 +160,5 @@ This is _not_ a [Free Culture License](https://creativecommons.org/freeworks/).
 
 My intent in marking this work as non-commercial and non-derivative is to:
 
-1. Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
-2. Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.
+* Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
+* Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.

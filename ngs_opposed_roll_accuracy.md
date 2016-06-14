@@ -1,8 +1,7 @@
-﻿Opposed Roll Accuracy Table
-===========================
+﻿Opposed Roll Accuracy
+=====================
 
 __Likely results of _Opposed Rolls_ for the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) by [Venture Land Games](http://www.venturelandgames.com).__
-
 
 
 
@@ -11,10 +10,11 @@ Contents
 
 * [Summary](#summary)
 * [Detail](#detail)
-* [Opposed Roll Accuracy](#opposed-roll-accuracy)
+* [Opposed Roll Accuracy Table](#opposed-roll-accuracy-table)
 * [Including D4](#including-d4)
 * [Methodology](#methodology)
 * [License](#license)
+
 
 
 Summary
@@ -31,8 +31,8 @@ When one character attacks another, they make opposed Mechanical Ability rolls. 
 
 
 
-Opposed Roll Accuracy
----------------------
+Opposed Roll Accuracy Table
+---------------------------
 
 [View this table as an image...](https://goo.gl/photos/wNLVDm9EoQSscHA76)
 
@@ -164,5 +164,5 @@ This is _not_ a [Free Culture License](https://creativecommons.org/freeworks/).
 
 My intent in marking this work as non-commercial and non-derivative is to:
 
-1. Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
-2. Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.
+* Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
+* Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.
