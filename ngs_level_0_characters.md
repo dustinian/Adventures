@@ -1,31 +1,40 @@
 ﻿Level 0 Characters
 ==================
 
-This essay considers approaches for rolling "Level 0" characters in the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) (NGS) by [Venture Land Games](http://www.venturelandgames.com). This essay focuses on _Mechanical Abilities_.
+__Creating Level 0 Characters for the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) by [Venture Land Games](http://www.venturelandgames.com).__
 
 
 
 Contents
 --------
 
-* Purpose
-* History
-* Summary
-* Reduce Die
-* Reduce Priority
-* Reduce Die and Priority
-* Hack
-* Conclusion
+* [Summary](#summary)
+* [Purpose](#purpose)
+* [History](#history)
+* [Summary](#summary)
+* [Reduce Die](#reduce-die)
+* [Reduce Priority](#reduce-priority)
+* [Reduce Die and Priority](#reduce-die-and-priority)
+* [Hack](#hack)
+* [Conclusion](#conclusion)
+* [License](#license)
+
+
+
+Summary
+-------
+
+This essay considers approaches for rolling "Level 0" characters in the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) (NGS) by [Venture Land Games](http://www.venturelandgames.com). This essay focuses on _Mechanical Abilities_.
 
 
 
 Purpose
 -------
 
-This option allows:
+This essay suggestions methods for:
 
-* __GMs__ to roll NPCs that are weaker than even starting-level characters; this is useful if the GM wants the players to feel "powerful" immediately--a "superhero" game, for example.
-* __Players__ to roll weaker PCs that can "grow into" a full-fledged PC.--an "origin story" one-shot or flashback, for example.
+* __GMs__ to roll NPCs that are weaker than even starting-level characters; this is useful if the GM wants the players to feel "powerful" immediately&mdash;a "superhero" game, for example.
+* __Players__ to roll weaker PCs that can "grow into" a full-fledged PC.&mdash;an "origin story" one-shot or flashback, for example.
 
 
 
@@ -163,3 +172,17 @@ Conclusion
 ----------
 
 Hopefully this will allow you to create some underpowered PCs or NPCs for your NGS game.
+
+
+
+License
+-------
+
+This work is shared under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This is _not_ a [Free Culture License](https://creativecommons.org/freeworks/).
+
+My intent in marking this work as non-commercial and non-derivative is to:
+
+1. Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
+2. Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.

@@ -1,12 +1,12 @@
 Venture Land Games Suggestions
 ==============================
 
-Below are suggestions to Venture Land Games for growing NGS.
+__Suggestions to [Venture Land Games](http://www.venturelandgames.com) to grow the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System).__
 
 
 
-Summary
--------
+Breakdown
+---------
 
 |Suggestion                                                         |Estimated Cost|Estimated Revenue|
 |:------------------------------------------------------------------|-------------:|----------------:|
@@ -129,3 +129,16 @@ Create new supplements.
 Create new resources.
 ---------------------
 
+
+
+License
+-------
+
+This work is shared under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This is _not_ a [Free Culture License](https://creativecommons.org/freeworks/).
+
+My intent in marking this work as non-commercial and non-derivative is to:
+
+1. Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
+2. Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.

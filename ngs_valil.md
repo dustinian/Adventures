@@ -3,18 +3,15 @@ Valil
 
 __Fantasy setting and adventures for the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) by [Venture Land Games](http://www.venturelandgames.com).__
 
-Explore the most common clichés in fantasy role-playing, from rats in a basement to skeletons in a dungeon; use these tropes to explore the flexibility of NGS, and the very non-cliché approaches you're free to take.
-
-This is a role-playing experiment, and the independent variable is the system. My hypothesis is that you'll appreciate NGS's simplicity, and your group will love getting right to the fun part: playing. I look forward to your conclusions!
 
 
 
 
 
+Contents
+--------
 
-Outline
--------
-
+* __[Summary](#summary)__
 * __[Setting](#setting)__
   * [Introduction](#introduction)
   * [Big Events](#big-events)
@@ -37,6 +34,18 @@ Outline
   * [Sydney the Sorcerer](#sydney-the-sorcerer)
   * [Taylor the Thief](#taylor-the-thief)
 * __[Owning It](#owning-it)__
+
+
+
+
+
+
+Summary
+-------
+
+Explore the most common clichés in fantasy role-playing, from rats in a basement to skeletons in a dungeon; use these tropes to explore the flexibility of NGS, and the very non-cliché approaches you're free to take.
+
+This is a role-playing experiment, and the independent variable is the system. My hypothesis is that you'll appreciate NGS's simplicity, and your group will love getting right to the fun part: playing. I look forward to your conclusions!
 
 
 
@@ -127,7 +136,7 @@ Adventures
 
 These "adventures" are short outlines, with a few bullets on:
 
-* __Hooks:__ Engage your players' characters.
+* __Hooks:__ Ways to engage your players' characters.
 * __Investigation:__ Facts for them to uncover.
 * __Twists:__ Ideas to inspire fresh takes on old tropes.
 * __Monsters:__ Information on the "bad guys."
@@ -610,7 +619,7 @@ Rolling your own characters is fun and easy, and no pre-generated character will
 
 ###Brett the Barbarian
 
-Strong, but slow&emdash;Brett values actions over words.
+Strong, but slow&mdash;Brett values actions over words.
 
 * __Damage Instances:__ 4
 
@@ -647,7 +656,7 @@ Strong, but slow&emdash;Brett values actions over words.
 
 ###Casey the Cleric
 
-Devout, but abrasive&emdash;Casey values conviction over temperament.
+Devout, but abrasive&mdash;Casey values conviction over temperament.
 
 * __Damage Instances:__ 4
 
@@ -725,7 +734,7 @@ Brainy, but weak--Sydney values knowledge over strength.
 
 ###Taylor the Thief
 
-Persuasive, but skeptical&emdash;Taylor values subtlety over devotion.
+Persuasive, but skeptical&mdash;Taylor values subtlety over devotion.
 
 * __Damage Instances:__ 4
 
@@ -745,7 +754,7 @@ Persuasive, but skeptical&emdash;Taylor values subtlety over devotion.
 ######Minor
 
 * __Flattery:__ Taylor knows that a few well-chosen words and the right body language can win many instant allies.
-* __Marksman:__ Taylor's always had a way with ranged weapons&emdash;throwing daggers, darts, crossbows... you name it.
+* __Marksman:__ Taylor's always had a way with ranged weapons&mdash;throwing daggers, darts, crossbows... you name it.
 * __Actor:__ Taylor has mastered storytelling... spinning intricate yarns that people can't help but believe.
 
 #####Goals
@@ -785,6 +794,19 @@ License
 * [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System), Copyright 2014, [Venture Land Games](http://www.venturelandgames.com)
 * Valil, Copyright 2016, Dustinian Camburides
 
-###Ownership
 
-Dustinian Camburides reserves all rights for _Valil_. However, I would be delighted to offer _Valil_ to _Venture Land Games_ for no compensation whatsoever should they choose to reproduce _Valil_ in whole or in part in any official document or supplement.
+
+
+
+
+License
+-------
+
+This work is shared under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This is _not_ a [Free Culture License](https://creativecommons.org/freeworks/).
+
+My intent in marking this work as non-commercial and non-derivative is to:
+
+1. Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
+2. Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.

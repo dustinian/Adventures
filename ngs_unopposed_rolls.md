@@ -1,6 +1,20 @@
 ﻿Unopposed Roll Accuracy Table
 =============================
 
+__Likely results of _Unopposed Rolls_ for the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) by [Venture Land Games](http://www.venturelandgames.com).__
+
+
+
+Contents
+--------
+
+* [Summary](#summary)
+* [Unopposed Roll Accuracy](#unopposed-roll-accuracy)
+* [Including D4](#including-d4)
+* [Difficulty Class Guidelines](#difficulty-class-guidelines)
+* [Methodology](#methodology)
+* [License](#license)
+
 
 
 Summary
@@ -12,6 +26,7 @@ This table shows the likely result of an "unopposed" roll; it may be helpful for
 
 Unopposed Roll Accuracy
 -----------------------
+
 _Die_ + _Priority_ plotted against _DC_. [View this table as an image...](https://goo.gl/photos/FNixtax3U17y7DK28)
 
 |       |      |   2|   3|   4|   5|   6|   7|   8|   9|  10|  11|  12|  13|  14|  15|  16|  17|  18|  19|  20|
@@ -65,8 +80,8 @@ Here's another table that includes d4s, based on the my [Level 0 Characters](htt
 
 
 
-Extrapolated Rolls
-------------------
+Difficulty Class Guidelines
+---------------------------
 
 Here is some context on _DC_s, extrapolated from the table above and the guidance from the Core Rulebook (p.34).
 
@@ -140,3 +155,17 @@ I wrote the following custom function in Excel to calculate the results of all p
             'Output the number of victories divided by the number of rolls:
                 AverageUnopposedDiePercent = intWon / Die
     End Function
+
+
+
+License
+-------
+
+This work is shared under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This is _not_ a [Free Culture License](https://creativecommons.org/freeworks/).
+
+My intent in marking this work as non-commercial and non-derivative is to:
+
+1. Preserve the (arguable) market value of the work in case [Venture Land Games](http://www.venturelandgames.com) decides to use this work in whole or in part in any upcoming "official" supplement. Complete ownership over this work will be granted to [Venture Land Games](http://www.venturelandgames.com) upon request at no cost/fee/payment/renumeration/compensatoin whatsoever.
+2. Recognize the fact that the [Narrative Game System](http://rpg.drivethrustuff.com/product/128522/NGS-The-Narrative-Game-System) is wholly-owned by [Venture Land Games](http://www.venturelandgames.com), and they've made no license available under which to distribute derivative works. This work may&mdash;in fact&mdash;be illegal, and I want to protect others from using my work and accidentally infringing upon [Venture Land Games](http://www.venturelandgames.com) intellectual property.
