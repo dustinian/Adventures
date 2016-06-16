@@ -5,19 +5,31 @@ __Suggestions to [Venture Land Games](http://www.venturelandgames.com) to grow t
 
 
 
+Contents
+--------
+* [Breakdown](#breakdown)
+  * [Release free rules.](#release-free-rules)
+  * [Participate in Free RPG Day.](#participate-in-free-rpg-day)
+  * [Encourage online community.](#encourage-online-community)
+  * [Participate in Bundle of Holding.](#participate-in-bundle-of-holding)
+  * [Create new supplements.](#create-new-supplements)
+  * [Create new resources.](#create-new-resources)
+  * [Create license.](#create-license)
+* [License](#license)
+
+
 Breakdown
 ---------
 
-|Suggestion                                                         |Estimated Cost|Estimated Revenue|
-|:------------------------------------------------------------------|-------------:|----------------:|
-|Release free rules.                                                |       $644.05|        $2,497.50|
-|Participate in [Free RPG Day](http://www.freerpgday.com).          |              |                 |
-|Create online community.                                           |              |                 |
-|Encourage online community.                                        |              |                 |
-|Leverage online community.                                         |              |                 |
-|Participate in [Bundle of Holding](http://www.bundleofholding.com).|              |                 |
-|Create new supplements.                                            |              |                 |
-|Create new resources.                                              |              |                 |
+|Suggestion                                                            |Estimated Cost|Estimated Revenue|
+|:---------------------------------------------------------------------|-------------:|----------------:|
+|[Release free rules.](#release-free-rules)                            |       $644.05|        $2,497.50|
+|[Participate in Free RPG Day.](#participate-in-free-rpg-day)          |              |                 |
+|[Encourage online community.](#encourage-online-community)            |              |                 |
+|[Participate in Bundle of Holding.](#participate-in-bundle-of-holding)|              |                 |
+|[Create new supplements.](#create-new-supplements)                    |              |                 |
+|[Create new resources.](#create-new-resources)                        |              |                 |
+|[Create license.](#create-license)                                    |              |                 |
 _Dollars are USD; detailed estimates are below._
 
 
@@ -42,6 +54,8 @@ Allow gamers to explore NGS by:
 
 ###Requirements
 
+####Minimum
+
 The free rules should contain, at a minimum:
 
 * __Sample Characters:__ Four sample characters, one that emphasizes each _Mechanical Ability_.
@@ -52,13 +66,15 @@ The free rules should contain, at a minimum:
 * __Narrative Accolades:__ Brief description of awarding and using _Narrative Accolades_.
 * __Advertisement:__ Full-page describing the additional content available in the core rulebook, including _Advancement Rules_, more _Narrative Abilities_, _Settings_, etc.
 
+####Preferred
+
 The free rules may also contain:
 
 * __Character Creation:__ One method.
 * __Narrative Abilities:__ Ten _Narrative Abilities_ to support _Character Creation_.
 * __Scenario:__ One _Scenario_, compatible with the _Sample Characters_.
 
-###Existing Quick Start Guide
+####Existing Quick Start Guide
 
 The "NGS Quick Start Guide" that came out with the Kickstarter is probably overkill. It's 27 pages, which isn't easily printable. And it includes pretty much all of Character Creation, including advancement. I would:
 
@@ -88,12 +104,31 @@ Let's assume a 2.5% conversion rate on 10,000 downloads in a year. At $9.99, tha
 Participate in [Free RPG Day](http://www.freerpgday.com).
 ---------------------------------------------------------
 
+###Background
+
+###Goal
+
+###Objectives
+
+###Requirements
+
+####Minimum
+
+####Preferred
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
+|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+
+###Estimated Revenue
+
 This is dependent upon "release a free "Quick Start" rules package" above. Venture Land Games could release a short adventure (3-4 NPCs, 3-4 Pre-Generated Characters, Situation, Quick Start Rules) for [Free RPG Day](http://www.freerpgday.com). Now this is the first suggestion that costs money. Per the [Free RPG Day Sponsor Form](http://www.freerpgday.com/FreeRPGDaySponsorshipForm.pdf), the publisher would have to commit to printing a minimum of 700 copies of a minimum 16-page book, which could cost $2,100 (based on some quick Lulu pricing). So this migh tbe a suggestion for next year after NGS has some "safe" (read: no-cost) growth.
 
 
 
-Create online community.
-------------------------
+Encourage online community.
+---------------------------
 
 NGS GMs need a place to collaborate, or share NGS stories, or ask questions about NGS. This subreddit is my attempt at that, but I'd gladly migrate my content somewhere else if Venture Land Games decides to open a Proboard, or a Tumblr, or whatever. But putting something "official" out there allows the community to support the game.
 
@@ -102,15 +137,24 @@ Ways Venture Land Games could publicize this subreddit (or some other online for
 * Add a link from [venturelandgames.com](http://www.venturelandgames.com).
 * Tweet the link from @VentureLandRPGs.
 
+###Background
 
+###Goal
 
-Encourage online community.
----------------------------
+###Objectives
 
+###Requirements
 
+####Minimum
 
-Leverage online community.
---------------------------
+####Preferred
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
+|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+
+###Estimated Revenue
 
 
 
@@ -119,15 +163,96 @@ Participate in a [Bundle of Holding](http://www.bundleofholding.com).
 
 [Bundle of Holding](http://www.bundleofholding.com) releases one or two "bundles" of RPG .PDFs per month. Usually they'll release bundles of a lot of .PDFs for one game, but occasionally they'll release "indie" bundles of a bunch of different systems. NGS would fit into one of those rather nicely, and Bundle of Holding is quite popular. This would add quite a few folks interested in the NGS system.
 
+###Background
+
+###Goal
+
+###Objectives
+
+###Requirements
+
+####Minimum
+
+####Preferred
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
+|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+
+###Estimated Revenue
+
 
 
 Create new supplements.
 -----------------------
 
+###Background
+
+###Goal
+
+###Objectives
+
+###Requirements
+
+####Minimum
+
+####Preferred
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
+|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+
+###Estimated Revenue
+
 
 
 Create new resources.
 ---------------------
+
+###Background
+
+###Goal
+
+###Objectives
+
+###Requirements
+
+####Minimum
+
+####Preferred
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
+|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+
+###Estimated Revenue
+
+
+
+Create License
+--------------
+
+###Background
+
+###Goal
+
+###Objectives
+
+###Requirements
+
+####Minimum
+
+####Preferred
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
+|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+
+###Estimated Revenue
 
 
 

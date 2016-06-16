@@ -8,14 +8,14 @@ __Create challenging _Non-Player Character_ antagonists for the [Narrative Game 
 Contents
 --------
 
-* Summary
-* Introduction
-* Abbreviations
-* Disclaimer
-* Mechanical Abilities
-* Narrative Abilities
-* Groups
-* Conclusion
+* [Summary](#summary)
+* [Introduction](#introduction)
+* [Abbreviations](#abbreviations)
+* [Disclaimer](#disclaimer)
+* [Mechanical Abilities](#mechanical-abilities)
+* [Narrative Abilities](#narrative-abilities)
+* [Groups](#groups)
+* [Conclusion](#conclusion)
 * [License](#license)
 
 
