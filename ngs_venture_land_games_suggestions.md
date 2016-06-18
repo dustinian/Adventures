@@ -84,12 +84,12 @@ The "NGS Quick Start Guide" that came out with the Kickstarter is probably overk
 
 ###Itemized, Estimated Cost
 
-|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
-|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
-|Internal Labor   |Write / edit rules.             |     8.0|Hours       | $22.35|   $178.80|
-|External Labor   |Graphic design / layout.        |    16.0|Hours       | $29.06|   $464.96|
-|Bandwidth        |10K downloads of 1MB file.      |     9.8|Gigabytes   |  $0.03|     $0.29|
-|__TOTAL__        |                                |        |            |       |   
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
+|Internal Labor   |Write / edit rules.             |     8.0|Hours       | $22.35|      $178.80|
+|External Labor   |Graphic design / layout.        |    16.0|Hours       | $29.06|      $464.96|
+|Bandwidth        |10K downloads of 1MB file.      |     9.8|Gigabytes   |  $0.03|        $0.29|
+|__TOTAL__        |                                |        |            |       |  __$644.05__|
 ___Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
 ___External Labor__ estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
 _All dollars are __USD__._
@@ -106,24 +106,52 @@ Participate in [Free RPG Day](http://www.freerpgday.com).
 
 ###Background
 
+[Free RPG Day](http://www.freerpgday.com) is an annual RPG promotion; publishers and retailers team up to offer free RPG material to customers.
+
 ###Goal
+
+Increase Core Rulebook sales.
 
 ###Objectives
 
+Allow gamers to discover NGS by:
+
+* __Taking home an NGS booklet__ that includes a brief rules summary and a one-shot.
+* __Seeing NGS listed as a supporter__ on [www.freerpgday.com](http://www.freerpgday.com).
+
 ###Requirements
+
+Based on the [2016 Sponsorship Form](http://www.freerpgday.com/FreeRPGDaySponsorshipForm.pdf), the relevant requirements are:
 
 ####Minimum
 
+* 16 pages
+* 700 copies
+* Include quick start rules
+* 50% never-before-seen material
+* Include Free RPG Day logo on front or back cover
+* Do not distribute anywhere else until 2-3 weeks after Free RPG Day
+* Must arrive in Ft. Wayne, Indiana 6-8 weeks before Free RPG Day
+* No MSRP or $0.00 MSRP
+
 ####Preferred
+
+* Include adventure and pre-generated characters
+* 10pt C1S color cover
 
 ###Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
 |:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
-
+|Writing          |
+|Editing          |
+|Layout           |
+|Printing         |B&W printing based on Lulu.com  |     700|Copies      |  $3.00| $2,100.00|
+|Shipping         |
+|__TOTAL__        |
+_Note: Printing costs increase if multiples of 700 copies are provided, because the copies must then be shrink-wrapped in groups._
 ###Estimated Revenue
 
-This is dependent upon "release a free "Quick Start" rules package" above. Venture Land Games could release a short adventure (3-4 NPCs, 3-4 Pre-Generated Characters, Situation, Quick Start Rules) for [Free RPG Day](http://www.freerpgday.com). Now this is the first suggestion that costs money. Per the [Free RPG Day Sponsor Form](http://www.freerpgday.com/FreeRPGDaySponsorshipForm.pdf), the publisher would have to commit to printing a minimum of 700 copies of a minimum 16-page book, which could cost $2,100 (based on some quick Lulu pricing). So this migh tbe a suggestion for next year after NGS has some "safe" (read: no-cost) growth.
 
 
 

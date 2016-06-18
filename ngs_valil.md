@@ -754,7 +754,7 @@ Persuasive, but skeptical&mdash;Taylor values subtlety over devotion.
 ######Minor
 
 * __Flattery:__ Taylor knows that a few well-chosen words and the right body language can win many instant allies.
-* __Marksman:__ Taylor's always had a way with ranged weapons&mdash;throwing daggers, darts, crossbows... you name it.
+* __Deadeye:__ Taylor's always had a way with ranged weapons&mdash;throwing daggers, darts, crossbows... you name it.
 * __Actor:__ Taylor has mastered storytelling... spinning intricate yarns that people can't help but believe.
 
 #####Goals
