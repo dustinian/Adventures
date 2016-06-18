@@ -141,8 +141,8 @@ Based on the [2016 Sponsorship Form](http://www.freerpgday.com/FreeRPGDaySponsor
 
 ###Itemized, Estimated Cost
 
-|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
-|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 |Writing          |
 |Editing          |
 |Layout           |
@@ -179,8 +179,8 @@ Ways Venture Land Games could publicize this subreddit (or some other online for
 
 ###Itemized, Estimated Cost
 
-|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
-|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
 ###Estimated Revenue
 
@@ -205,8 +205,8 @@ Participate in a [Bundle of Holding](http://www.bundleofholding.com).
 
 ###Itemized, Estimated Cost
 
-|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
-|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
 ###Estimated Revenue
 
@@ -229,8 +229,8 @@ Create new supplements.
 
 ###Itemized, Estimated Cost
 
-|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
-|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
 ###Estimated Revenue
 
@@ -253,8 +253,8 @@ Create new resources.
 
 ###Itemized, Estimated Cost
 
-|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
-|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
 ###Estimated Revenue
 
@@ -277,8 +277,13 @@ Create License
 
 ###Itemized, Estimated Cost
 
-|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal  |
-|:----------------|:-------------------------------|-------:|:-----------|------:|---------:|
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
+|Internal Labor   |Plain-language draft.
+|Legal Fees       |Business / contract lawyer.
+|External Labor   |Graphic design / layout.        |    16.0|Hours       | $29.06|      $464.96|
+|Bandwidth        |10K downloads of 1MB file.      |     9.8|Gigabyes    |  $0.03|        $0.29|
+|__TOTAL__        |                                |        |            |       |             |
 
 ###Estimated Revenue
 
