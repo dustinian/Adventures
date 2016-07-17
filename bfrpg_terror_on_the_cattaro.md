@@ -90,6 +90,7 @@ More information on the Open Game License can be found at: [http://www.wizards.c
 ###Open Game License Version 1.0A
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+
 1. __Definitions:__
    * _Contributors_ means the copyright and/or trademark owners who have contributed Open Game Content;
    * _Derivative Material_ means copyrighted material including derivative works and translations (including into other computer languages), annotation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgement or other form in which an existing work may be recast, transformed or adapted;
