@@ -3,7 +3,7 @@ Terror on the Cattaro
 
 There's been a murder at sea... and whatever committed it was no man.
 
-An adventure for four player characters at level two.
+An adventure for three player characters at level two.
 
 by Dustinian Camburides
 
@@ -15,7 +15,7 @@ Contents
 --------
 
 * [Background](#background)
-* [Officer Deck / Bridge](#officer-deck-bridge)
+* [Officer Deck / Bridge](#officer-deck--bridge)
 * [Main Deck](#main-deck)
 * [Passenger Deck](#passenger-deck)
 * [Engines](#engines)
@@ -133,7 +133,80 @@ Several boards have rotted through where the characters step off the ladder. Eac
 Conclusion
 ----------
 
-__Experience Points:__ Each Gorilla is worth 240 XP.
+###Experience
+
+* __Gorillas:__ Killed, 240 XP. Subdued and returned to the wild, 480 XP.
+* __Poachers:__ Killed, 25 XP. Captured and brought to justice, 50 XP.
+* __Gunter Oosthiezen:__ Killed, 75 XP. Captured and brought to justice, 150 XP.
+
+###Seeds
+
+Are your players eager to keep playing these characters in this world?
+
+* __Gunter's Revenge:__ If Gunter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Gunter's family is well-connected. Gunter's experience on the _Cattaro_ and in varioud South Afican jails will level him up.
+* __Chicago Zoo:__ If your players found Gunter's telegram, you might prompt them to investigate the corruption at the Chicago Zoo that would lead to the Zoo paying for poached animals.
+* __Poaching:__ If your players are outraged by the poaching, you might send them back to South Africa to deal with poachers at the source.
+
+
+
+Pre-Generated Characters
+------------------------
+
+###Americans
+
+####Micky Henshaw
+
+_Level 2 Wise Guy (Fighter)_
+
+| STR  | INT  | WIS  | DEX  | CON  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|  18  |      |      |      |      |      |
+|__+3__|__-1__|      |__+1__|__+2__|      |
+
+####Dr. Patrick Cook
+
+_Level 2 Scientist (Magic User)_
+
+| STR  | INT  | WIS  | DEX  | CON  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|      |  18  |      |      |      |      |
+|      |__+3__|__+2__|      |__+1__|__-1__|
+
+####Angel Thompson
+
+_Level 2 Burglar (Thief)_
+
+| STR  | INT  | WIS  | DEX  | CON  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|      |      |      |  18  |      |      |
+|      |      |__-1__|__+3__|__+1__|__+2__|
+
+####Albert Kruger
+
+_Level 2 Medic (Cleric)_
+
+| STR  | INT  | WIS  | DEX  | CON  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|      |      |  18  |      |      |      |
+|      |      |__+3__|__-1__|__+2__|__+1__|
+
+####Tug Smit
+
+_Level 2 Spy (Thief)_
+
+| STR  | INT  | WIS  | DEX  | CON  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|      |      |      |      |      |  18  |
+|      |__+1__|      |__+2__|__-1__|__+3__|
+
+####Rita Pillay
+
+_Level 2 Hunter (Fighter)_
+
+| STR  | INT  | WIS  | DEX  | CON  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|      |      |      |  18  |      |      |
+|__+2__|      |      |__+3__|__+1__|__-1__|
 
 
 
