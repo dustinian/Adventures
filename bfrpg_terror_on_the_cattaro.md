@@ -3,7 +3,7 @@ Terror on the Cattaro
 
 There's been a murder at sea... and whatever committed it was no man.
 
-An adventure for three player characters at level two.
+An adventure for four player characters at level two.
 
 by Dustinian Camburides
 
@@ -15,10 +15,10 @@ Contents
 --------
 
 * [Background](#background)
-* [Officer Deck / Bridge](#)
+* [Officer Deck / Bridge](#officer-deck-bridge)
 * [Main Deck](#main-deck)
 * [Passenger Deck](#passenger-deck)
-* [Engine Compartment](#engine-compartment)
+* [Engines](#engines)
 * [Hold](#hold)
 * [Conclusion](#conclusion)
 * [Open Game License](#open-game-license)
@@ -33,7 +33,7 @@ Information about the adventure, author's notes to the reader.
 
 ###Summary
 
-A summary of the adventure.
+Four player characters 
 
 ###Game Master Information
 
@@ -47,16 +47,36 @@ __The Cattaro:__ Information about the ship [The Cattaro](https://en.wikipedia.o
 
 ###Popular Names
 
-__Male Names:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry.
+__Male:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry.
 
-__Female Names:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, Emma, Marie.
+__Female:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, Emma, Marie.
 
-__Surnames:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor.
+__Last:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor.
 
 
 
-Area 1
+Officer Deck / Bridge
+---------------------
+
+
+
+Main Deck
 ---------
+
+
+
+Passenger Deck
+--------------
+
+
+
+Engines
+-------
+
+
+
+Hold
+----
 
 Commentary to the GM about the area.
 
@@ -64,15 +84,56 @@ Commentary to the GM about the area.
 
 >Box text.
 
-####Monster
 
-AC 12, HD2, #At 1, Dam 1d8, Mv 20', Sv F2, MI 12
-_Basic Fantasy Role-Playing Game, 3rd Edition, p. 128_
-HP 9 &9744;&9744;&9744;&9744;&9744; &9744;&9744;&9744;&9744;
+
+Villains
+--------
+
+###Poachers
+
+4 poachers are aboard the _Cattaro_, travelling under false pretenses.
+
+####Gunter
+
+AC 13, HD2, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F2, Ml 12
+
+* HP 11 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square:
+
+####3 Poachers
+
+AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 10
+
+* HP 7 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square:
+* HP 4 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+* HP 3 :white_medium_small_square::white_medium_small_square::white_medium_small_square:
+
+###Gorillas
+
+3 Gorillas are nailed into a crate in the cargo hold. The crate is much too small for the gorillas, and they're each painfully muzzled. Panicked and enraged, the adventure begins when the three gorillas break free.
+
+####3 Gorillas
+
+AC 14, HD4, #At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
+_Basic Fantasy Field Guid, p. 7_
+
+* HP 19 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+
+* HP 16 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square:
+
+* HP 10 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+
+
 
 ####Trap
 
 Several boards have rotted through where the characters step off the ladder. Each character over 80 pounds that steps off the ladder has a 50% chance (1-3 on 1d6) of falling through the floor. A successful save vs. Death Ray (modified by Dexterity) results in no damage as the character catches him- or her-self chest-deep in the hole. A failed save results in 1d10 falling damage and a character-sized hole in the floor.
+
+
+
+Conclusion
+----------
+
+__Experience Points:__ Each Gorilla is worth 240 XP.
 
 
 
