@@ -96,7 +96,7 @@ Characters
 ###Archetypes
 
 * __Warrior/Barbarian:__ _Physicality._ Defend friends and attack enemies with physical abilities and weapons.
-* __Wizard/Magician:__ _Intellect._ Maniupate elemental, illusory, and arcane forces with diligent study and mental discipline.
+* __Wizard/Magician:__ _Intellect._ Maniupate elemental, illusory, and arcane forces with diligent practice and mental discipline.
 * __Thief/Rogue:__ _Personality._ Blend in, strike, and fade away by reading and manipulating people and crowds.
 * __Cleric/Warlock:__ _Extraordinary._ Call upon mystical forces to heal friends... or hurt enemies.
 
@@ -104,15 +104,15 @@ Characters
 
 Characters should have:
 
-* 1 __Major__ abilitity that derives from their archetype.
-* 3 __Minor__ abilities that derive from their background.
+* One __Major__ abilitity that derives from their archetype.
+* Three __Minor__ abilities that derive from their background.
 
 These abilities can be acquired from several sources:
 
-* __Mundane:__ _Physicality._ Trained. Relatively common abilities... archery, fencing, riding... learned from relatively common mentors.
-* __Urbane:__ _Personality._ Cultivated. Uncommon abilities... passion, drama, manipulation... acquired through experience.
-* __Arcane:__ _Intellect._ Discovered. Very uncommon abilities... spells, curses, rituals... learned from very uncommon mentors.
-* __Divine:__ _Extraordinary._ God-given. Granted by a deity... who nearly always demands something in return: fealty, loyalty, sacrifice, etc.
+* __Mundane:__ Trained. Relatively common abilities... archery, fencing, riding... learned from relatively common mentors.
+* __Urbane:__ Cultivated. Uncommon abilities... passion, drama, manipulation... acquired through experience.
+* __Arcane:__ Discovered. Very uncommon abilities... spells, curses, rituals... learned from very uncommon mentors.
+* __Divine:__ God-given. Granted by a deity... who nearly always demands fealty, loyalty, or sacrifice in return.
 
 ###Health and Dying
 
@@ -138,7 +138,7 @@ These "adventures" are short outlines, with a few bullets on:
 
 * __Hooks:__ Ways to engage your players' characters.
 * __Investigation:__ Facts for them to uncover.
-* __Twists:__ Ideas to inspire fresh takes on old tropes.
+* __Optional Twists:__ Ideas to inspire fresh takes on old tropes.
 * __Monsters:__ Information on the "bad guys."
 * __Encounters:__ Sample encounters built and balanced using the monsters.
 * __Rewards:__ Recommended XP and Treasure.
@@ -163,7 +163,10 @@ A rat problem has gotten out of hand in the waterfront district.
 * __Casebreaker:__ One particular business seems unaffected.
 * __Revealed:__ A wererat runs that business, and has recruited rats and giant rats to wreak havoc amongst his/her competitors.
 
-####Twists
+####Optional Twists
+
+* __Are You Nicodemus?__ Turns out the rats are intelligent, and are trying to escape humanoid civilization to build their own utopia. They'll readily agree to leave _Valil_ if granted safe passage beyond the walls.
+* __:__
 
 ####Monsters
 
@@ -251,7 +254,7 @@ Caravans are being waylaid just outside town with frightening regularity.
 * These little men are goblins! A whole tribe of them!
 * The goblins have two camps: Young, healthy fighters; and the very young and very old who need guarding.
 
-####Twists
+####Optional Twists
 
 * The "Green Men" are actually Halflings masquerading as Goblins.
 

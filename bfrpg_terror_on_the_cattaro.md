@@ -15,12 +15,15 @@ Contents
 --------
 
 * [Background](#background)
-* [Officer Deck / Bridge](#officer-deck--bridge)
 * [Main Deck](#main-deck)
+* [Officer Deck / Bridge](#officer-deck--bridge)
 * [Passenger Deck](#passenger-deck)
 * [Engines](#engines)
 * [Hold](#hold)
+* [Villains](#villains)
 * [Conclusion](#conclusion)
+* [Props](#props)
+* [Pre-Generated Characters](#pre-generated-characters)
 * [Open Game License](#open-game-license)
 
 
@@ -41,27 +44,26 @@ Notes on running the game, any plot twists, etc.
 
 ###Era
 
-__1923:__ Information about the era... [The 1920s](https://en.wikipedia.org/wiki/1920s)
-
-__The Cattaro:__ Information about the ship [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))
+* __America, 1923:__ Information about the era... [The 1920s](https://en.wikipedia.org/wiki/1920s)
+* __South Africa, 1923:__ Information about the era...
+* __The Cattaro:__ Information about the ship [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))
 
 ###Popular Names
 
-__Male:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry.
-
-__Female:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, Emma, Marie.
-
-__Last:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor.
-
-
-
-Officer Deck / Bridge
----------------------
+* __Male:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry.
+* __Female:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, Emma, Marie.
+* __Last:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor.
 
 
 
 Main Deck
 ---------
+
+>
+
+
+Officer Deck / Bridge
+---------------------
 
 
 
@@ -91,9 +93,9 @@ Villains
 
 ###Poachers
 
-4 poachers are aboard the _Cattaro_, travelling under false pretenses.
+4 poachers... Gunter and his three henchmen... are aboard the _Cattaro_. They are trying to smuggle three gorillas to the Chicago Zoo.
 
-####Gunter
+####Gunter Oosthiezen
 
 AC 13, HD2, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F2, Ml 12
 
@@ -117,9 +119,7 @@ AC 14, HD4, #At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
 _Basic Fantasy Field Guid, p. 7_
 
 * HP 19 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
-
 * HP 16 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square:
-
 * HP 10 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
 
 
@@ -135,8 +135,8 @@ Conclusion
 
 ###Experience
 
-* __Gorillas:__ Killed, 240 XP. Subdued and returned to the wild, 480 XP.
-* __Poachers:__ Killed, 25 XP. Captured and brought to justice, 50 XP.
+* __Each Gorilla:__ Killed, 240 XP. Subdued and returned to the wild, 480 XP.
+* __Each Poacher:__ Killed, 25 XP. Captured and brought to justice, 50 XP.
 * __Gunter Oosthiezen:__ Killed, 75 XP. Captured and brought to justice, 150 XP.
 
 ###Seeds
@@ -158,55 +158,194 @@ Pre-Generated Characters
 
 _Level 2 Wise Guy (Fighter)_
 
+#####Exploration
+
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|  18  |      |      |      |      |      |
+|  18  |   8  |  11  |  14  |  16  |  11  |
 |__+3__|__-1__|      |__+1__|__+2__|      |
+
+* __Ability Roll Target:__ 16
+* __Money:__ $100
+
+#####Offense
+
+* __Initiative:__ d6+1
+
+* __Revolver:__ +1, 1d
+* __Billy Club:__ +5, 1d
+* __Unarmed:__ +5, 1d subduing
+
+#####Defense
+
+* __Armor Class:__ 14
+* __Hit Points:__ 13
+
+|__Death Ray or Poison__ | 11 |
+|__Magic Wands__         | 12 |
+|__Paralysis or Petrify__| 14 |
+|__Dragon Breath__       | 15 |
+|__Spells__              | 16 |
+
 
 ####Dr. Patrick Cook
 
 _Level 2 Scientist (Magic User)_
 
+#####Exploration
+
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|      |  18  |      |      |      |      |
+|  11  |  18  |  16  |  11  |  14  |   8  |
 |      |__+3__|__+2__|      |__+1__|__-1__|
+
+* __Ability Roll Target:__ 16
+* __Money:__ $100
+
+#####Offense
+
+* __Initiative:__ d6
+
+#####Defense
+
+* __Armor Class:__ 12
+* __Hit Points:__ 7
+
+|__Death Ray or Poison__ | 13 |
+|__Magic Wands__         | 14 |
+|__Paralysis or Petrify__| 13 |
+|__Dragon Breath__       | 15 |
+|__Spells__              | 14 |
 
 ####Angel Thompson
 
 _Level 2 Burglar (Thief)_
 
+#####Exploration
+
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|      |      |      |  18  |      |      |
+|  11  |  11  |   8  |  18  |  14  |  16  |
 |      |      |__-1__|__+3__|__+1__|__+2__|
+
+|__Open Locks__   | 25% |
+|__Remove Traps__ | 20% |
+|__Pick Pockets__ | 30% |
+|__Move Silently__| 25% |
+|__Climb Walls__  | 80% |
+|__Hide__         | 10% |
+|__Listen__       | 30% |
+
+#####Offense
+
+* __Initiative Bonus:__ d6+3
+* __Ability Roll Target:__ 16
+* __Money:__ $100
+
+#####Defense
+
+* __Armor Class:__ 15
+* __Hit Points:__ 7
+
+|__Death Ray or Poison__ | 12 |
+|__Magic Wands__         | 14 |
+|__Paralysis or Petrify__| 12 |
+|__Dragon Breath__       | 15 |
+|__Spells__              | 14 |
+
+###South Africans
 
 ####Albert Kruger
 
 _Level 2 Medic (Cleric)_
 
+#####Exploration
+
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|      |      |  18  |      |      |      |
+|  11  |  11  |  18  |   8  |  16  |  14  |
 |      |      |__+3__|__-1__|__+2__|__+1__|
+
+#####Offense
+
+* __Initiative Penalty:__ d6-1
+* __Ability Roll Target:__ 16
+* __Money:__ $100
+
+#####Defense
+
+* __Armor Class:__ 12
+* __Hit Points:__ 11
+
+|__Death Ray or Poison__ | 10 |
+|__Magic Wands__         | 11 |
+|__Paralysis or Petrify__| 13 |
+|__Dragon Breath__       | 15 |
+|__Spells__              | 14 |
 
 ####Tug Smit
 
 _Level 2 Spy (Thief)_
 
+#####Exploration
+
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|      |      |      |      |      |  18  |
+|  11  |  14  |  11  |  16  |   8  |  18  |
 |      |__+1__|      |__+2__|__-1__|__+3__|
+
+|__Open Locks__   | 25% |
+|__Remove Traps__ | 20% |
+|__Pick Pockets__ | 30% |
+|__Move Silently__| 25% |
+|__Climb Walls__  | 80% |
+|__Hide__         | 10% |
+|__Listen__       | 30% |
+
+#####Offense
+
+* __Initiative Bonus:__ d6+2
+* __Ability Roll Target:__ 16
+* __Money:__ $100
+
+#####Defense
+
+* __Armor Class:__ 12
+* __Hit Points:__ 3
+
+|__Death Ray or Poison__ | 12 |
+|__Magic Wands__         | 14 |
+|__Paralysis or Petrify__| 12 |
+|__Dragon Breath__       | 15 |
+|__Spells__              | 14 |
 
 ####Rita Pillay
 
 _Level 2 Hunter (Fighter)_
 
+#####Exploration
+
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|      |      |      |  18  |      |      |
+|  16  |  11  |  11  |  18  |  14  |   8  |
 |__+2__|      |      |__+3__|__+1__|__-1__|
+
+#####Offense
+
+* __Initiative Bonus:__ d6+3
+* __Ability Roll Target:__ 16
+* __Money:__ $100
+
+#####Defense
+
+* __Armor Class:__ 15
+* __Hit Points:__ 11
+
+|__Death Ray or Poison__ | 11 |
+|__Magic Wands__         | 12 |
+|__Paralysis or Petrify__| 14 |
+|__Dragon Breath__       | 15 |
+|__Spells__              | 16 |
 
 
 
