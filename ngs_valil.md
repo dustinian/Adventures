@@ -674,23 +674,27 @@ Devout, but abrasive&mdash;Casey values conviction over temperament.
 
 ######Major
 
-* __Healing:__ 
+* __Divine Favor:__ Clerics may call upon their Gods for Divine Favors. Clerics should make an _Extraordinary_ check every "morning" to see how many _Divine Favors_ they can use that day. Clerics may use divine favors or Narrative Accolades to:
+  * __Heal:__ Heal one damage instance.
+  * __Bless:__ Add +2 to a roll.
+  * __Smite:__ Call down the wrath of your God on an enemy.
+  * __Turn:__ 
 
 ######Minor
 
 * __Defend:__ 
-* __Pacify:__ 
-* __Bolster:__ 
+* __Pacify:__ Defuse a difficult situation without resorting to violence. Shame the guilty; calm the righteous; restore the wronged.
+* __:__ 
 
 #####Goals
 
 * __Resuscitate:__ Dead citizens cannot serve the greater good.
-* __Rehabilitate:__ 
+* __Rehabilitate:__ Casey is no saint, and thus believes the evil and selfish can be rehabilitated. Thus Casey kills only when directly defending innocent life.
 
 #####Flaws
 
 * __Gruff:__ Casey has work to do, and everyone else had better help or get out of the way.
-* __Simple:__ Casey believes in simple, straightforward solutions. Unfortunately, it's really easy to take "straightforward" too far and border on "stupid."
+* __Simple:__ Casey believes in simple, straightforward solutions. Unfortunately, it's really easy to take "straightforward" too far wind up with "stupid."
 
 
 
@@ -713,15 +717,15 @@ Brainy, but weak--Sydney values knowledge over strength.
 
 * __Arcana:__ As a sorcerer, Sydney has developed the senses and knowledge to affect the very fabric of reality.
   * __Using Magic to Attack:__ When Sydney uses magic to attack another character, the characters should make _Opposed Rolls_. The defending character should defend with the appropriate _Ability_. For example, if Sydney tries to hurt another character with magic, Sydney should roll _Intellect_ against that other character's _Physicality._ If Sydney tries to stun another character with Magic, Sydney should roll _Intellect_ against that other character's _Intellect_, and so on. If Sydney tries to use magic on another magical character, that character may choose to oppose any spell with _Intellect_, as long as that character is aware of the attack.
-  * __Hard Limitaiton, Scope:__ While Sydney can _affect_ the fabric of reality, that affect is relatively limited in scope. For example, when using magic to attack another character, the damage should inflicted should ahere to the _Damage_ table; there are no insta-kills because reality resists Sydney's (and, indeed, any sorcerer's) attempts to alter it.
+  * __Hard Limitaiton, Scope:__ While Sydney can _affect_ the fabric of reality, that affect is relatively limited in scope. For example, when using magic to attack another character, the damage should inflicted should ahere to the _Damage_ table; there are no "instant-kills," like teleporting only half a person, because reality resists Sydney's (and, indeed, any sorcerer's) attempts to alter it.
   * __Soft Limitation:__ The GM and player should align on what magic can and cannot do, and both should be able to invoke that trust and alignment to prevent the other from "breaking" the story. For example, suppose the GM and player are not aligned, and Sydney is allowed to teleport people and objects. In the next combat, the players face off against a monster, and Sydney decides to simply teleport the monster's head a few feet away... the GM never intended the teleport spell to have that affect, so an argument ensues.
-  * __Optional Limitation, Spells per Day:__ Every morning, Sydney makes an _Intellect_ roll. The result tells the player how many spells Sydney will be able to cast that day. Currently, Sydney rolls a d6+4 for _Intellect,_ thus Sydney will initially be able to cast from 5 to 10 spells per day.
+  * __Optional Limitation, Spells per Day:__ Every morning, Sydney makes an _Intellect_ roll. The result tells the player how many spells Sydney will be able to cast that day. Currently, Sydney rolls a d6+4 for _Intellect,_ thus Sydney will initially be able to cast between 5 to 10 spells per day.
 
 ######Minor
 
-* __Ear for Languages:__ 
-* __Quick Study:__ 
-* __Useless Trivia:__ Sydney reads voraciously.
+* __Ear for Languages:__ Magic is an ancient topic studied by many cultures, so Sydney has had to learn many forms of many languages to pursue it. This has left Sydney with a deeper understanding of how language "works," and lets Sydney "pick up" a new language rapidly.
+* __Quick Study:__ Sydney knows how to consume a book rapidly: taking advantage of contents/indexes when available, speed-reading every fifth page of a chapter of interest, etc.
+* __Useless Trivia:__ Sydney reads voraciously and retains minor factoids; often useful but in a roundabout way.
 
 #####Goals
 
@@ -799,11 +803,7 @@ License
 
 
 
-
-
-
-License
--------
+###License
 
 This work is shared under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
