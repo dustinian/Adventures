@@ -677,12 +677,12 @@ Devout, but abrasive&mdash;Casey values conviction over temperament.
 * __Divine Favor:__ Clerics may call upon their Gods for Divine Favors. Clerics should make an _Extraordinary_ check every "morning" to see how many _Divine Favors_ they can use that day. Clerics may use divine favors or Narrative Accolades to:
   * __Heal:__ Heal one damage instance.
   * __Bless:__ Add +2 to a roll.
-  * __Smite:__ Call down the wrath of your God on an enemy.
-  * __Turn:__ 
+  * __Smite:__ Call down the wrath of your God on an enemy that you can see... make opposed _Extraordinary_ checks and deal appropriate damage.
+  * __Turn:__ Force unnatural (Demons, Devils, etc.) and undead (Skeletons, Zombies, etc.) in a 20 meter radius to flee... make opposed _Extraordinary_ checks against all enemies within 20 meters.
 
 ######Minor
 
-* __Defend:__ 
+* __Defend:__ Casey can intervene in an attack on an ally, using a shield or weapon to parry the attack.
 * __Pacify:__ Defuse a difficult situation without resorting to violence. Shame the guilty; calm the righteous; restore the wronged.
 * __:__ 
 
