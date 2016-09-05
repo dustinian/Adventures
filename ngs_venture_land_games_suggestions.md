@@ -51,9 +51,8 @@ Encourage gamers to review NGS by:
 |Internal Labor   |Contact DTRPG to distribute.    |     8.0|Hours       | $22.35|      $178.80|
 |__TOTAL__        |                                |        |            |       |  __$178.80__|
 
-* ___Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
-* _All dollars are __USD__._
-
+* _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+* _All dollars are USD._
 ###Estimated Revenue
 
 Let's assume an additional 100 sales based solely on the reviews. At $9.99 that's an annual revenut of $999.
@@ -119,10 +118,10 @@ The "NGS Quick Start Guide" that came out with the Kickstarter is probably overk
 |Bandwidth        |10K downloads of 1MB file.      |     9.8|Gigabytes   |  $0.03|        $0.29|
 |__TOTAL__        |                                |        |            |       |  __$644.05__|
 
-* ___Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
-* ___External Labor__ estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
-* _All dollars are __USD__._
-* ___Bandwidth__ estimated using [Amazon Web Services Pricing Sheet](https://aws.amazon.com/s3/pricing/).
+* _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+* _External Labor: Estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
+* _Bandwidth: Estimated using [Amazon Web Services Pricing Sheet](https://aws.amazon.com/s3/pricing/)._
+* _All dollars are USD._
 
 ###Estimated Revenue
 
@@ -178,6 +177,10 @@ Based on the [2016 Sponsorship Form](http://www.freerpgday.com/FreeRPGDaySponsor
 |Printing         |B&W printing based on Lulu.com  |     700|Copies      |  $3.00| $2,100.00|
 |Shipping         |
 |__TOTAL__        |
+
+* _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+* _External Labor: Estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
+* _All dollars are USD._
 
 * _Note: Printing costs increase if multiples of 700 copies are provided, because the copies must then be shrink-wrapped in groups._
 
@@ -316,6 +319,10 @@ Create License
 |Bandwidth        |10K downloads of 1MB file.      |     9.8|Gigabyes    |  $0.03|        $0.29|
 |__TOTAL__        |                                |        |            |       |             |
 
+* _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+* _External Labor: Estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
+* _All dollars are USD._
+
 ###Estimated Revenue
 
 
@@ -355,7 +362,7 @@ Share your audience with an indie author, and gain the indie author's audience b
 |External Labor   |Graphic design / layout.        |    16.0|Hours       | $29.06|      $464.96|
 |__TOTAL__        |                                |        |            |       |   $14,351.36|
 
-* _Legal Fees: Estimated using the [National Law Journal's 2014 Survey](http://www.nationallawjournal.com/id=1202636785489/Billing-Rates-Across-the-Country?slreturn=20160805134853)._
+* _Legal Fees: Estimated using the [National Law Journal's 2014 Survey](http://www.nationallawjournal.com/id=1202636785489/Billing-Rates-Across-the-Country?slreturn=20160805134853), which lists the average "associate" billing rate as $370.00 per hour._
 * _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
 * _External Labor: Estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
 * _All dollars are USD._
