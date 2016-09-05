@@ -355,9 +355,9 @@ Share your audience with an indie author, and gain the indie author's audience b
 |External Labor   |Graphic design / layout.        |    16.0|Hours       | $29.06|      $464.96|
 |__TOTAL__        |                                |        |            |       |   $14,351.36|
 
-* ___Legal Fees__ estimated using the [National Law Journal's 2014 Survey](http://www.nationallawjournal.com/id=1202636785489/Billing-Rates-Across-the-Country?slreturn=20160805134853)._
-* ___Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
-* ___External Labor__ estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
+* _ __Legal Fees__ estimated using the [National Law Journal's 2014 Survey](http://www.nationallawjournal.com/id=1202636785489/Billing-Rates-Across-the-Country?slreturn=20160805134853)._
+* _ __Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+* _ __External Labor__ estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
 * _All dollars are __USD__._
 
 ###Estimated Revenue
