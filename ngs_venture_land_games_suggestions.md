@@ -5,24 +5,12 @@ __Suggestions to [Venture Land Games](http://www.venturelandgames.com) to grow t
 
 
 
-Contents
---------
-* [Breakdown](#breakdown)
-  * [Release free rules.](#release-free-rules)
-  * [Participate in Free RPG Day.](#participate-in-free-rpg-day)
-  * [Encourage online community.](#encourage-online-community)
-  * [Participate in Bundle of Holding.](#participate-in-bundle-of-holding)
-  * [Create new supplements.](#create-new-supplements)
-  * [Create new resources.](#create-new-resources)
-  * [Create license.](#create-license)
-* [License](#license)
-
-
 Breakdown
 ---------
 
 |Suggestion                                                            |Estimated Cost|Estimated Revenue|
 |:---------------------------------------------------------------------|-------------:|----------------:|
+|[DriveThruRPG copies to backers.](#drivethrurpg-copies-to-backers)    |       $178.80|          $999.00|
 |[Release free rules.](#release-free-rules)                            |       $644.05|        $2,497.50|
 |[Participate in Free RPG Day.](#participate-in-free-rpg-day)          |              |                 |
 |[Encourage online community.](#encourage-online-community)            |              |                 |
@@ -30,12 +18,52 @@ Breakdown
 |[Create new supplements.](#create-new-supplements)                    |              |                 |
 |[Create new resources.](#create-new-resources)                        |              |                 |
 |[Create license.](#create-license)                                    |              |                 |
+|[Acquire license to minor IP.](#acquire-license-to-minor-ip)          |    $14,351.36|        $9,990.00|
+
 _Dollars are USD; detailed estimates are below._
+
+
+
+DriveThruRPG copies to backers.
+-------------------------------
+
+_Send all Kickstarter backers a free copy of the NGS PDF through DriveThruRPG. You wouldn't lose any sales, since each recipient would already have DRM-free PDFs anyway, and you might drive positive reviews on DriveThruRPG!_
+
+###Background
+
+[DriveThruRPG](http://www.drivethrurpg) only allows users that own copies of a document to review it.
+
+###Goal
+
+Drive positive reviews on DriveThruRPG.
+
+###Objectives
+
+Encourage gamers to review NGS by:
+
+* __Sending a voucher__ for a free copy of the rules through DriveThruRPG.
+* __Sending out an update__ on [Kickstarter](http://www.kickstarter.com) encouraging users to claim the PDF and review it!
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
+|Internal Labor   |Contact DTRPG to distribute.    |     8.0|Hours       | $22.35|      $178.80|
+|__TOTAL__        |                                |        |            |       |  __$178.80__|
+
+___Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+_All dollars are __USD__._
+
+###Estimated Revenue
+
+Let's assume an additional 100 sales based solely on the reviews. At $9.99 that's an annual revenut of $999.
 
 
 
 Release free rules.
 -------------------
+
+_Write and distribute a very short "quick start" guide on [venturelandgames.com](http://www.venturelandgames.com)._
 
 ###Background
 
@@ -90,6 +118,7 @@ The "NGS Quick Start Guide" that came out with the Kickstarter is probably overk
 |External Labor   |Graphic design / layout.        |    16.0|Hours       | $29.06|      $464.96|
 |Bandwidth        |10K downloads of 1MB file.      |     9.8|Gigabytes   |  $0.03|        $0.29|
 |__TOTAL__        |                                |        |            |       |  __$644.05__|
+
 ___Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
 ___External Labor__ estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
 _All dollars are __USD__._
@@ -149,6 +178,7 @@ Based on the [2016 Sponsorship Form](http://www.freerpgday.com/FreeRPGDaySponsor
 |Printing         |B&W printing based on Lulu.com  |     700|Copies      |  $3.00| $2,100.00|
 |Shipping         |
 |__TOTAL__        |
+
 _Note: Printing costs increase if multiples of 700 copies are provided, because the copies must then be shrink-wrapped in groups._
 ###Estimated Revenue
 
@@ -286,6 +316,54 @@ Create License
 |__TOTAL__        |                                |        |            |       |             |
 
 ###Estimated Revenue
+
+
+
+Acquire license to minor IP.
+----------------------------
+
+_Team up with an indie ebook author to offer the "offical" RPG (a setting for NGS with accompanying "quick start" rules) for their book series._
+
+###Background
+
+There are a lot of indie authors pushing very high-quality ebooks on [Amazon.com](http://www.amazon.com), and others. Examples:
+
+* [Drew Hayes'](https://www.amazon.com/Drew-Hayes/e/B00C3NDBPS/ref=sr_tc_2_0?qid=1473098657&sr=8-2-ent) [Fred, the Vampire Accountant](https://www.amazon.com/Utterly-Uninteresting-Unadventurous-Vampire-Accountant-ebook/dp/B00M6AM6Q8/ref=la_B00C3NDBPS_1_3?s=books&ie=UTF8&qid=1473098665&sr=1-3) series.
+* [Drew Hayes'](https://www.amazon.com/Drew-Hayes/e/B00C3NDBPS/ref=sr_tc_2_0?qid=1473098657&sr=8-2-ent) [Super Powereds](https://www.amazon.com/Super-Powereds-Year-Drew-Hayes-ebook/dp/B00BIJ05F2/ref=la_B00C3NDBPS_1_6?s=books&ie=UTF8&qid=1473098665&sr=1-6#nav-subnav) series.
+* [Lindsay Buroker's](https://www.amazon.com/Lindsay-Buroker/e/B004FSRHUE/ref=sr_tc_2_0?qid=1473098908&sr=1-2-ent) [Fallen Empire](https://www.amazon.com/Star-Nomad-Fallen-Empire-Book-ebook/dp/B01FWOW72W/ref=la_B004FSRHUE_1_5?s=books&ie=UTF8&qid=1473098917&sr=1-5) series.
+* [Lindsay Buroker's](https://www.amazon.com/Lindsay-Buroker/e/B004FSRHUE/ref=sr_tc_2_0?qid=1473098908&sr=1-2-ent) [Dragon Blood](https://www.amazon.com/Balanced-Blades-Edge-Dragon-Blood-ebook/dp/B00JBVUJM8/ref=la_B004FSRHUE_1_35?s=books&ie=UTF8&qid=1473099016&sr=1-35&refinements=p_82%3AB004FSRHUE) series.
+
+###Goal
+
+Increase Core Rulebook sales.
+
+###Objectives
+
+Share your audience with an indie author, and gain the indie author's audience by:
+
+* __Sending an update__ on Kickstarter communicating the new product/license and linking to the authors' book series.
+* __Drafting an update__ for the author to send to subscribers communicating the new product with their readers.
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
+|Internal Labor   |Reach out to author.            |    24.0|Hours       | $22.35|      $536.40|
+|Legal Fees       |Business / contract lawyer.     |    24.0|Hours       |$370.00|    $8,880.00|
+|Internal Labor   |Draft the product/supplement.   |   200.0|Hours       | $22.35|    $4,470.00|
+|External Labor   |Graphic design / layout.        |    16.0|Hours       | $29.06|      $464.96|
+|__TOTAL__        |                                |        |            |       |   $14,351.36|
+
+___Legal Fees__ estimated using the [National Law Journal's 2014 Survey](http://www.nationallawjournal.com/id=1202636785489/Billing-Rates-Across-the-Country?slreturn=20160805134853).
+___Internal Labor__ estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+___External Labor__ estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
+_All dollars are __USD__._
+
+###Estimated Revenue
+
+Let's assume 1,000 new sales from the crossover audience. At $9.99 that's $9,990.
+
+
 
 
 
