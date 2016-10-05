@@ -11,6 +11,7 @@ Breakdown
 |Suggestion                                                            |Estimated Cost|Estimated Revenue|
 |:---------------------------------------------------------------------|-------------:|----------------:|
 |[DriveThruRPG copies to backers.](#drivethrurpg-copies-to-backers)    |       $178.80|          $999.00|
+|[Sell NGS through Lulu](#sell-ngs-through-lulu)                       |       $178.80|                 |
 |[Release free rules.](#release-free-rules)                            |       $644.05|        $2,497.50|
 |[Participate in Free RPG Day.](#participate-in-free-rpg-day)          |              |                 |
 |[Encourage online community.](#encourage-online-community)            |              |                 |
@@ -31,7 +32,7 @@ _Send all Kickstarter backers a free copy of the NGS PDF through DriveThruRPG. Y
 
 ###Background
 
-[DriveThruRPG](http://www.drivethrurpg) only allows users that own copies of a document to review it.
+[DriveThruRPG](http://www.drivethrurpg) only allows users that own copies of a document to review it. NGS only has one review on DriveThruRPG today.
 
 ###Goal
 
@@ -53,6 +54,39 @@ Encourage gamers to review NGS by:
 
 * _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
 * _All dollars are USD._
+
+###Estimated Revenue
+
+Let's assume an additional 100 sales based solely on the reviews. At $9.99 that's an annual revenut of $999.
+
+
+
+Sell NGS through Lulu.
+----------------------
+
+_Sell NGS print-on-demand through [Lulu.com](http://www.lulu.com)._
+
+###Background
+
+###Goal
+
+###Objectives
+
+###Requirements
+
+####Minimum
+
+####Preferred
+
+###Itemized, Estimated Cost
+
+|Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
+|:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
+|Internal Labor   |Contact Lulu.com to distribute. |     8.0|Hours       | $22.35|      $178.80|
+
+* _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
+* _All dollars are USD._
+
 ###Estimated Revenue
 
 Let's assume an additional 100 sales based solely on the reviews. At $9.99 that's an annual revenut of $999.
