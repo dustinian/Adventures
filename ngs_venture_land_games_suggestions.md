@@ -36,14 +36,14 @@ _Send all Kickstarter backers a free copy of the NGS PDF through DriveThruRPG. Y
 
 ###Goal
 
-Drive positive reviews on DriveThruRPG.
+Increase Core Rulebook sales.
 
 ###Objectives
 
-Encourage gamers to review NGS by:
+Encourage purchases by allowing kickstarter backers to leave positive reviews.
 
-* __Sending a voucher__ for a free copy of the rules through DriveThruRPG.
-* __Sending out an update__ on [Kickstarter](http://www.kickstarter.com) encouraging users to claim the PDF and review it!
+* __Send a voucher__ for a free copy of the rules through DriveThruRPG to all Kickstarter backers.
+* __Send out an update__ on [Kickstarter](http://www.kickstarter.com) encouraging users to claim the PDF and review it!
 
 ###Itemized, Estimated Cost
 
@@ -68,15 +68,20 @@ _Sell NGS print-on-demand through [Lulu.com](http://www.lulu.com)._
 
 ###Background
 
+[Lulu.com](http://www.lulu.com) is a print-on-demand publisher that offers a free marketplace for authors to sell print copies of their books.
+
 ###Goal
+
+Increase Core Rulebook sales.
 
 ###Objectives
 
+Offer print-on-demand copies of the NGS Core Rulebook through an additional supplier. Many other games are sole through Lulu... OSRIC and BFRPG, for example.
+
 ###Requirements
 
-####Minimum
-
-####Preferred
+* Well-formatted .PDFs to upload to Lulu.
+  * _Note: My understanding is that Lulu's requirements are less exacting than DTRPG's, so the current DTRPG .PDFs should work._
 
 ###Itemized, Estimated Cost
 
@@ -89,7 +94,7 @@ _Sell NGS print-on-demand through [Lulu.com](http://www.lulu.com)._
 
 ###Estimated Revenue
 
-Let's assume an additional 100 sales based solely on the reviews. At $9.99 that's an annual revenut of $999.
+Let's assume an additional 100 sales based solely on the new sales channel. At $9.99 that's an annual revenut of $999.
 
 
 

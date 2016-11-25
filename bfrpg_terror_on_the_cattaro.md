@@ -48,12 +48,17 @@ Notes on running the game, any plot twists, etc.
 * __South Africa, 1923:__ Information about the era...
 * __The Cattaro:__ Information about the ship [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))
 
-###Popular Names
+###Popular Names, American
 
 * __Male:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry.
 * __Female:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, Emma, Marie.
 * __Last:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor.
 
+###Popular Names, South African
+
+* __Male:__ Daan, Sem, Bram, Levi, Luuk, Lucas, Liam, Stijn, Finn, Ruben.
+* __Female:__ Lotte, Isa, Lieke, Eva, Sanne, Femke, Esmee, Nina, Britt, Lana.
+* __Last:__ Naidoo, Govender, Botha, Pillay, Muller, Pretorius, Fourie, Venter, Nel, Moodley.
 
 
 Main Deck
@@ -158,12 +163,16 @@ Pre-Generated Characters
 
 _Level 2 Wise Guy (Fighter)_
 
-#####Exploration
+#####Abilities
 
-| STR  | INT  | WIS  | DEX  | CON  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  18  |   8  |  11  |  14  |  16  |  11  |
-|__+3__|__-1__|      |__+1__|__+2__|      |
+| Ability | Score | Bonus / Penalty |    Save Against    | Saving Throw Target |
+|:-------:|:-----:|:---------------:|:-------------------|:-------------------:|
+| __STR__ |   18  |       +3        |Paralysis or Petrify|          14         |
+| __INT__ |    8  |       -1        |Spells              |          16         |
+| __WIS__ |   11  |                 |Dragon Breath       |          15         |
+| __DEX__ |   14  |       +1        |Magic Wands         |          12         |
+| __CON__ |   16  |       +2        |Death Ray or Poison |          11         |
+| __CHA__ |   11  |                 |Spells (Charm, Fear)|          16         |
 
 * __Ability Roll Target:__ 16
 * __Money:__ $100
@@ -171,28 +180,20 @@ _Level 2 Wise Guy (Fighter)_
 #####Offense
 
 * __Initiative:__ d6+1
-
 * __Revolver:__ +1, 1d
 * __Billy Club:__ +5, 1d
 * __Unarmed:__ +5, 1d subduing
 
 #####Defense
 
-* __Armor Class:__ 14
-* __Hit Points:__ 13
-
-|__Death Ray or Poison__ | 11 |
-|__Magic Wands__         | 12 |
-|__Paralysis or Petrify__| 14 |
-|__Dragon Breath__       | 15 |
-|__Spells__              | 16 |
-
+* __Armor Class:__ 14 (11 + DEX + CON)
+* __Hit Points:__ 13 (2d8 + (2 * CON))
 
 ####Dr. Patrick Cook
 
 _Level 2 Scientist (Magic User)_
 
-#####Exploration
+#####Abilities
 
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -221,7 +222,7 @@ _Level 2 Scientist (Magic User)_
 
 _Level 2 Burglar (Thief)_
 
-#####Exploration
+#####Abilities
 
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -259,7 +260,7 @@ _Level 2 Burglar (Thief)_
 
 _Level 2 Medic (Cleric)_
 
-#####Exploration
+#####Abilities
 
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -287,7 +288,7 @@ _Level 2 Medic (Cleric)_
 
 _Level 2 Spy (Thief)_
 
-#####Exploration
+#####Abilities
 
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -323,7 +324,7 @@ _Level 2 Spy (Thief)_
 
 _Level 2 Hunter (Fighter)_
 
-#####Exploration
+#####Abilities
 
 | STR  | INT  | WIS  | DEX  | CON  | CHA  |
 |:----:|:----:|:----:|:----:|:----:|:----:|
