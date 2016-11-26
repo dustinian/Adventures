@@ -159,23 +159,24 @@ Pre-Generated Characters
 
 ###Americans
 
+
+
 ####Micky Henshaw
 
 _Level 2 Wise Guy (Fighter)_
 
 #####Abilities
 
-| Ability | Score | Bonus / Penalty |    Save Against    | Saving Throw Target |
-|:-------:|:-----:|:---------------:|:-------------------|:-------------------:|
-| __STR__ |   18  |       +3        |Paralysis or Petrify|          14         |
-| __INT__ |    8  |       -1        |Spells              |          16         |
-| __WIS__ |   11  |                 |Dragon Breath       |          15         |
-| __DEX__ |   14  |       +1        |Magic Wands         |          12         |
-| __CON__ |   16  |       +2        |Death Ray or Poison |          11         |
-| __CHA__ |   11  |                 |Spells (Charm, Fear)|          16         |
+| Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
+|:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
+| __STR__ |   18  |       +3        |Paralysis or Petrify     |          14         |
+| __INT__ |    8  |       -1        |Spells (Arcane, Illusion)|          16         |
+| __WIS__ |   11  |                 |Dragon Breath            |          15         |
+| __DEX__ |   14  |       +1        |Magic Wands              |          12         |
+| __CON__ |   16  |       +2        |Death Ray or Poison      |          11         |
+| __CHA__ |   11  |                 |Spells (Charm, Fear)     |          16         |
 
 * __Ability Roll Target:__ 16
-* __Money:__ $100
 
 #####Offense
 
@@ -189,19 +190,28 @@ _Level 2 Wise Guy (Fighter)_
 * __Armor Class:__ 14 (11 + DEX + CON)
 * __Hit Points:__ 13 (2d8 + (2 * CON))
 
+#####Equipment
+
+* __Money:__ $100
+
+
+
 ####Dr. Patrick Cook
 
 _Level 2 Scientist (Magic User)_
 
 #####Abilities
 
-| STR  | INT  | WIS  | DEX  | CON  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  11  |  18  |  16  |  11  |  14  |   8  |
-|      |__+3__|__+2__|      |__+1__|__-1__|
+| Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
+|:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
+| __STR__ |   11  |                 |Paralysis or Petrify     |          13         |
+| __INT__ |   18  |       +3        |Spells (Arcane, Illusion)|          14         |
+| __WIS__ |   16  |       +2        |Dragon Breath            |          15         |
+| __DEX__ |   11  |                 |Magic Wands              |          14         |
+| __CON__ |   14  |       +1        |Death Ray or Poison      |          13         |
+| __CHA__ |    8  |       -1        |Spells (Charm, Fear)     |          14         |
 
 * __Ability Roll Target:__ 16
-* __Money:__ $100
 
 #####Offense
 
@@ -212,11 +222,10 @@ _Level 2 Scientist (Magic User)_
 * __Armor Class:__ 12
 * __Hit Points:__ 7
 
-|__Death Ray or Poison__ | 13 |
-|__Magic Wands__         | 14 |
-|__Paralysis or Petrify__| 13 |
-|__Dragon Breath__       | 15 |
-|__Spells__              | 14 |
+#####Equipment
+
+* __Money:__ $100
+
 
 ####Angel Thompson
 
@@ -224,11 +233,21 @@ _Level 2 Burglar (Thief)_
 
 #####Abilities
 
-| STR  | INT  | WIS  | DEX  | CON  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  11  |  11  |   8  |  18  |  14  |  16  |
-|      |      |__-1__|__+3__|__+1__|__+2__|
+| Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
+|:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
+| __STR__ |   11  |                 |Paralysis or Petrify     |          12         |
+| __INT__ |   11  |                 |Spells (Arcane, Illusion)|          14         |
+| __WIS__ |    8  |       -1        |Dragon Breath            |          15         |
+| __DEX__ |   18  |       +3        |Magic Wands              |          14         |
+| __CON__ |   14  |       +1        |Death Ray or Poison      |          12         |
+| __CHA__ |   16  |       +2        |Spells (Charm, Fear)     |          14         |
 
+* __Ability Roll Target:__ 16
+
+#####Skills
+
+|     Skill       |     |
+|:----------------|:---:|
 |__Open Locks__   | 25% |
 |__Remove Traps__ | 20% |
 |__Pick Pockets__ | 30% |
@@ -240,21 +259,21 @@ _Level 2 Burglar (Thief)_
 #####Offense
 
 * __Initiative Bonus:__ d6+3
-* __Ability Roll Target:__ 16
-* __Money:__ $100
 
 #####Defense
 
 * __Armor Class:__ 15
 * __Hit Points:__ 7
 
-|__Death Ray or Poison__ | 12 |
-|__Magic Wands__         | 14 |
-|__Paralysis or Petrify__| 12 |
-|__Dragon Breath__       | 15 |
-|__Spells__              | 14 |
+#####Equipment
+
+* __Money:__ $100
+
+
 
 ###South Africans
+
+
 
 ####Albert Kruger
 
@@ -262,10 +281,14 @@ _Level 2 Medic (Cleric)_
 
 #####Abilities
 
-| STR  | INT  | WIS  | DEX  | CON  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  11  |  11  |  18  |   8  |  16  |  14  |
-|      |      |__+3__|__-1__|__+2__|__+1__|
+| Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
+|:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
+| __STR__ |   11  |                 |Paralysis or Petrify     |          13         |
+| __INT__ |   11  |                 |Spells (Arcane, Illusion)|          14         |
+| __WIS__ |   18  |       +3        |Dragon Breath            |          15         |
+| __DEX__ |    8  |       -1        |Magic Wands              |          11         |
+| __CON__ |   16  |       +2        |Death Ray or Poison      |          10         |
+| __CHA__ |   14  |       +1        |Spells (Charm, Fear)     |          14         |
 
 #####Offense
 
@@ -278,11 +301,11 @@ _Level 2 Medic (Cleric)_
 * __Armor Class:__ 12
 * __Hit Points:__ 11
 
-|__Death Ray or Poison__ | 10 |
-|__Magic Wands__         | 11 |
-|__Paralysis or Petrify__| 13 |
-|__Dragon Breath__       | 15 |
-|__Spells__              | 14 |
+#####Equipment
+
+* __Money:__ $100
+
+
 
 ####Tug Smit
 
@@ -290,11 +313,17 @@ _Level 2 Spy (Thief)_
 
 #####Abilities
 
-| STR  | INT  | WIS  | DEX  | CON  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  11  |  14  |  11  |  16  |   8  |  18  |
-|      |__+1__|      |__+2__|__-1__|__+3__|
+| Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
+|:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
+| __STR__ |   11  |                 |Paralysis or Petrify     |          12         |
+| __INT__ |   14  |       +1        |Spells (Arcane, Illusion)|          14         |
+| __WIS__ |   11  |                 |Dragon Breath            |          15         |
+| __DEX__ |   16  |       +2        |Magic Wands              |          14         |
+| __CON__ |    8  |       -1        |Death Ray or Poison      |          12         |
+| __CHA__ |   18  |       +3        |Spells (Charm, Fear)     |          14         |
 
+|     Skill       |     |
+|:----------------|:---:|
 |__Open Locks__   | 25% |
 |__Remove Traps__ | 20% |
 |__Pick Pockets__ | 30% |
@@ -314,11 +343,11 @@ _Level 2 Spy (Thief)_
 * __Armor Class:__ 12
 * __Hit Points:__ 3
 
-|__Death Ray or Poison__ | 12 |
-|__Magic Wands__         | 14 |
-|__Paralysis or Petrify__| 12 |
-|__Dragon Breath__       | 15 |
-|__Spells__              | 14 |
+#####Equipment
+
+* __Money:__ $100
+
+
 
 ####Rita Pillay
 
@@ -326,27 +355,28 @@ _Level 2 Hunter (Fighter)_
 
 #####Abilities
 
-| STR  | INT  | WIS  | DEX  | CON  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  16  |  11  |  11  |  18  |  14  |   8  |
-|__+2__|      |      |__+3__|__+1__|__-1__|
+| Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
+|:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
+| __STR__ |   16  |       +2        |Paralysis or Petrify     |          14         |
+| __INT__ |   11  |                 |Spells (Arcane, Illusion)|          16         |
+| __WIS__ |   11  |                 |Dragon Breath            |          15         |
+| __DEX__ |   18  |       +3        |Magic Wands              |          12         |
+| __CON__ |   14  |       +1        |Death Ray or Poison      |          11         |
+| __CHA__ |    8  |       -1        |Spells (Charm, Fear)     |          16         |
 
 #####Offense
 
 * __Initiative Bonus:__ d6+3
 * __Ability Roll Target:__ 16
-* __Money:__ $100
 
 #####Defense
 
 * __Armor Class:__ 15
 * __Hit Points:__ 11
 
-|__Death Ray or Poison__ | 11 |
-|__Magic Wands__         | 12 |
-|__Paralysis or Petrify__| 14 |
-|__Dragon Breath__       | 15 |
-|__Spells__              | 16 |
+#####Equipment
+
+* __Money:__ $100
 
 
 
