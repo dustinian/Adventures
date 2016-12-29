@@ -7,7 +7,7 @@ An adventure for three player characters at level two.
 
 by Dustinian Camburides
 
-Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org).
+Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org); uses optional rules from the [Cops &amp; Robbers]() supplament.
 
 
 
@@ -15,6 +15,7 @@ Contents
 --------
 
 * [Background](#background)
+* [Start](#start)
 * [Main Deck](#main-deck)
 * [Officer Deck / Bridge](#officer-deck--bridge)
 * [Passenger Deck](#passenger-deck)
@@ -25,6 +26,7 @@ Contents
 * [Props](#props)
 * [Pre-Generated Characters](#pre-generated-characters)
 * [Open Game License](#open-game-license)
+
 
 
 Background
@@ -61,29 +63,46 @@ Notes on running the game, any plot twists, etc.
 * __Last:__ Naidoo, Govender, Botha, Pillay, Muller, Pretorius, Fourie, Venter, Nel, Moodley.
 
 
+
+Start
+-----
+
+>
+
+
+
 Main Deck
 ---------
 
 >
 
 
+
 Officer Deck / Bridge
 ---------------------
+
+>
 
 
 
 Passenger Deck
 --------------
 
+>
+
 
 
 Engines
 -------
 
+>
+
 
 
 Hold
 ----
+
+>
 
 Commentary to the GM about the area.
 
@@ -129,12 +148,6 @@ _Basic Fantasy Field Guid, p. 7_
 
 
 
-####Trap
-
-Several boards have rotted through where the characters step off the ladder. Each character over 80 pounds that steps off the ladder has a 50% chance (1-3 on 1d6) of falling through the floor. A successful save vs. Death Ray (modified by Dexterity) results in no damage as the character catches him- or her-self chest-deep in the hole. A failed save results in 1d10 falling damage and a character-sized hole in the floor.
-
-
-
 Conclusion
 ----------
 
@@ -144,9 +157,9 @@ Conclusion
 * __Each Poacher:__ Killed, 25 XP. Captured and brought to justice, 50 XP.
 * __Gunter Oosthiezen:__ Killed, 75 XP. Captured and brought to justice, 150 XP.
 
-###Seeds
+###Adventure Seeds
 
-Are your players eager to keep playing these characters in this world?
+Are your players eager to continue the adventure?
 
 * __Gunter's Revenge:__ If Gunter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Gunter's family is well-connected. Gunter's experience on the _Cattaro_ and in varioud South Afican jails will level him up.
 * __Chicago Zoo:__ If your players found Gunter's telegram, you might prompt them to investigate the corruption at the Chicago Zoo that would lead to the Zoo paying for poached animals.
@@ -187,8 +200,8 @@ _Level 2 Wise Guy (Fighter)_
 
 #####Defense
 
-* __Armor Class:__ 14 (11 + DEX + CON)
-* __Hit Points:__ 13 (2d8 + (2 * CON))
+* __Armor Class:__ 14
+* __Hit Points:__ 13
 
 #####Equipment
 
