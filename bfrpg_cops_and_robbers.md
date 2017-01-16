@@ -72,11 +72,10 @@ __Bazookas, Dynamite, Grenades, etc.:__ The "Fireball" spell can be used to simu
 
 Magic should be used largely "as-is." Game Masters may opt to:
 
+* Remove magic entirely (think "Sam Spade").
+  * _Note: Removing magic from the setting doesn't mean players can't roll wizards and cast fireballs. But call that wizard a "rogue chemistry teacher" and have him throw a "Molotov cocktail." Characters should adhere to spellbook limitations, but instead of saying "I only have two of these spell slots per day," characters might say "I can only fit two of these babies in my backpack!" Instead of saying "I cast healing word," characters might say: "I administer first aid."_
 * Keep magic, but it's rare (think "Indiana Jones" or "H.P. Lovecraft).
 * Keep magic, and it's common (think "Star Wars").
-* Remove magic entirely (think "Sam Spade").
-
-__No Magic:__ Removing magic from the setting doesn't mean players can't roll wizards and cast fireballs. But call that wizard a "rogue chemistry teacher" and have him throw a "Molotov cocktail." Characters should adhere to spellbook limitations, but instead of saying "I only have two of these spell slots per day," characters might say "I can only fit two of these babies in my backpack!" Instead of saying "I cast healing word," characters might say: "I administer first aid."
 
 ##Game Master Decisions
 

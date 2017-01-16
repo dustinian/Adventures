@@ -1,20 +1,20 @@
 Terror on the Cattaro
 =====================
 
-There's been a murder at sea... and whatever committed it was no man.
+_Hunt down the monsters behind a brutal murder at sea..._
 
 An adventure for three player characters at level two.
 
 by Dustinian Camburides
 
-Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org); uses optional rules from the [Cops &amp; Robbers]() supplament.
+Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org); uses optional rules from the [Cops &amp; Robbers](http://www.dustinian.com/gaming/bfrpg/cops_and_robbers.pdf) supplement.
 
 
 
 Contents
 --------
 
-* [Background](#background)
+* [Game Master Information](#game-master-information)
 * [Start](#start)
 * [Main Deck](#main-deck)
 * [Officer Deck / Bridge](#officer-deck--bridge)
@@ -29,16 +29,20 @@ Contents
 
 
 
-Background
-----------
-
-###Introduction
-
-Information about the adventure, author's notes to the reader.
+Game Master Information
+-----------------------
 
 ###Summary
 
-Four player characters 
+_Terror on the Cattaro_ pits your player's characters against South African poachers and terrified, starving gorillas that the poachers are trying to smuggle to the Chicago zoo.
+
+The player characters find themselves aboard the _SS Cattaro_ in 1923. The _Cattaro_ is bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escaped from the cargo hold,  killed a passenger, and threw the ship's passengers and crew into a panic.
+
+###Timeline
+
+* __Situation:__ 
+
+###Tone
 
 ###Game Master Information
 
@@ -48,7 +52,7 @@ Notes on running the game, any plot twists, etc.
 
 * __America, 1923:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
 * __South Africa, 1923:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
-* __The Cattaro:__ Information about the ship [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))
+* __Ship:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is just a year old, completed in 1922. She's a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. Most of the German crew speak English, but all can understand Afrikaans with some difficulty. Keep in mind that the 1920s were a boom for almost everyone but the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933).
 
 ###Popular Names, American
 

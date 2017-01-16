@@ -104,8 +104,8 @@ Characters
 
 Characters should have:
 
-* One __Major__ abilitity that derives from their archetype.
-* Three __Minor__ abilities that derive from their background.
+* One __Major__ abilitity derived from their archetype.
+* Three __Minor__ abilities derived from their background.
 
 These abilities can be acquired from several sources:
 
@@ -125,7 +125,6 @@ These abilities can be acquired from several sources:
 * __Healing:__ Characters who take appropriate narrative abilities can heal themselves or other charactes.
   * __Major:__ Restore 2 instances.
   * __Minor:__ Restore 1 instance.
-
 
 
 
@@ -166,51 +165,65 @@ A rat problem has gotten out of hand in the waterfront district.
 ####Optional Twists
 
 * __Are You Nicodemus?__ Turns out the rats are intelligent, and are trying to escape humanoid civilization to build their own utopia. They'll readily agree to leave _Valil_ if granted safe passage beyond the walls.
-* __:__
 
 ####Monsters
 
-#####Rat
+#####Rats
 
-Description
+Swarms of rats that leap at and cling to heroes, attacking with vicious bites.
 
-* __Damage Instances:__ 1
+* __Damage Instances:__ 2
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
-|Physicality   | d4  |   +4    |   4  |
-|Intellect     | d4  |   +3    |   3  |
+|Physicality   | d4  |   +3    |   3  |
+|Intellect     | d4  |   +2    |   2  |
 |Personality   | d4  |   +1    |   1  |
-|Extraordinary | d4  |   +2    |   2  |
+|Extraordinary | d4  |   +1    |   1  |
 
 ######Narrative Abilities
 
+* __Cling:__ Climb walls and ceilings, and cling tightly to any surface they've leapt to... including heroes.
+* __Scurry:__ Quickly move and dodge, avoiding meaningful damage by scattering.
+
 ######Goals
+
+* __Eat:__ Many mouths to feed ensures vicious competition for food.
+* __Live:__ When truly threateaned, rats have no reason to stand and fight.
 
 ######Flaws
 
+* __Disloyal:__ Rats have no regard for fellow rats in trouble.
+
 #####Giant Rat
 
-Description
+A giant, dog-sized rat that's big enough to regard heroes as potential prey.
 
 * __Damage Instances:__ 2
 
 |   Ability    | Die | Priority|Rating|
 |:-------------|:---:|:-------:|:----:|
 |Physicality   | d6  |   +4    |   5  |
-|Intellect     | d4  |   +3    |   3  |
+|Intellect     | d4  |   +2    |   2  |
 |Personality   | d4  |   +1    |   1  |
-|Extraordinary | d4  |   +2    |   2  |
+|Extraordinary | d4  |   +1    |   1  |
 
 ######Narrative Abilities
 
+* __Unusual Size:__ Most people think Giant Rats are a myth. Since Giant Rats are nocturnal, and keep to the shadows, they're hard to see, and easily mistaken for dogs when they are glimpsed. Thus, when they appear in battle, Giant Rats are intimidating, inspiring a special kind of incredulous fear.
+
 ######Goals
+
+* __Eat:__ Many mouths to feed ensures vicious competition for food.
+* __Live:__ When truly threateaned, rats have no reason to stand and fight.
 
 ######Flaws
 
+* __Selfish:__ Giant rats don't attack or eat smaller rats, but they also don't worry about saving food/resources for smaller rats.
+
 #####Wererat
 
-Description
+Usually appearing as a scrawny, scruffy human with promiment front teeth... they can transform in a moment to half-human, half-rat. Inhumanly agile and ferally clever, Wererats are dangerous enemies...
 
 * __Damage Instances:__ 3
 
@@ -223,11 +236,24 @@ Description
 
 ######Narrative Abilities
 
+* __Agile:__ Wererats are inhumanly agile, making leaps and bounds that no ordinary person could manage.
+
 ######Goals
+
+* __Mischief:__ Wererats, unlike their more bestial brethren, are loyal to their un-thinking cousins, and fight for the good of the Mischief.
 
 ######Flaws
 
+* __Overconfident:__ Wererats are used to winning; they start a fight just assuming they'll win.
+
 ####Encounters
+
+Assuming 4 heroes...
+
+* __10 Rats:__ Shouldn't present much a problem to the heroes. But the sheer number of attacks the heroes will take per turn should make them feel overwhelmed, before they start wearing the rats down. The rats probably run once half of them are down.
+* __2 Giant Rats and 5 Rats:__ A moderate fight that will require some team work.
+* __1 Wererat and 2 Giant Rats:__ A hard fight that will require a plan, and clever use of _Narrative Abilities_.
+
 
 ####Rewards
 
@@ -682,14 +708,14 @@ Devout, but abrasive&mdash;Casey values conviction over temperament.
 
 ######Minor
 
-* __Defend:__ Casey can intervene in an attack on an ally, using a shield or weapon to parry the attack.
+* __Defend:__ Casey can intervene in an attack on an ally, using a shield or weapon to parry the attack (in an opposed _Physicality_ check against an ally, Casey may make the _Physicality_ roll on the ally's behalf.
 * __Pacify:__ Defuse a difficult situation without resorting to violence. Shame the guilty; calm the righteous; restore the wronged.
-* __:__ 
+* __Armored:__ Casey usually wears armor. When wearing armor, the damage instances that Casey takes from opposed _Physicality_ rolls are reduced by one.
 
 #####Goals
 
-* __Resuscitate:__ Dead citizens cannot serve the greater good.
-* __Rehabilitate:__ Casey is no saint, and thus believes the evil and selfish can be rehabilitated. Thus Casey kills only when directly defending innocent life.
+* __Resuscitate:__ Dead citizens cannot serve the greater good, whenever possible
+* __Rehabilitate:__ Casey believes that no evil is absolute, and that many can be rehabilitated. Thus Casey kills only when directly defending innocent life.
 
 #####Flaws
 
