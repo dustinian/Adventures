@@ -34,13 +34,21 @@ Game Master Information
 
 ###Summary
 
-_Terror on the Cattaro_ pits your player's characters against South African poachers and terrified, starving gorillas that the poachers are trying to smuggle to the Chicago zoo.
+_Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to the Chicago Zoo.
 
 The player characters find themselves aboard the _SS Cattaro_ in 1923. The _Cattaro_ is bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escaped from the cargo hold,  killed a passenger, and threw the ship's passengers and crew into a panic.
 
 ###Timeline
 
-* __Situation:__ 
+Events leading to the adventure:
+
+* __January 2, 1923;__ _Chicago, IL:_ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) puts out the word that he'll pay good money for gorillas delivered before the fourth of July... no questions asked.
+* __January 30, 1923;__ _Capetown, South Africa:_ Guenter Oosthiezen and his cronies hear of the rich American's offer, and offer to take the contract.
+* __February 18, 1923;__ _Capetown, South Africa:_ Guenter wins the contract.
+* __February 21, 1923;__ _Capetown, South Africa:_ Guenter and his men head north to the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
+* __May 17, 1923;__ _Belgian Congo:_ Guenter and his men finally capture several gorillas.
+* __May 22, 1923;__ _Durban, South Africa:_ Guenter and his men load the gorillas into a wooden crate, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
+* __Today, May 26, 1923;__ _S.S. Cattaro:_ The terrified, malnourished gorillas escape...
 
 ###Tone
 
@@ -52,7 +60,7 @@ Notes on running the game, any plot twists, etc.
 
 * __America, 1923:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
 * __South Africa, 1923:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
-* __Ship:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is just a year old, completed in 1922. She's a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. Most of the German crew speak English, but all can understand Afrikaans with some difficulty. Keep in mind that the 1920s were a boom for almost everyone but the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933).
+* __Ship:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is just a year old, completed in 1922. She's a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. Most of the German crew speak English, but all can understand Afrikaans with some difficulty. Keep in mind that the 1920s were a boom for almost everyone but the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
 
 ###Popular Names, American
 
@@ -121,9 +129,9 @@ Villains
 
 ###Poachers
 
-4 poachers... Gunter and his three henchmen... are aboard the _Cattaro_. They are trying to smuggle three gorillas to the Chicago Zoo.
+4 poachers... Guenter and his three henchmen... are aboard the _Cattaro_. They are trying to smuggle three gorillas to the Chicago Zoo.
 
-####Gunter Oosthiezen
+####Guenter Oosthiezen
 
 AC 13, HD2, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F2, Ml 12
 
