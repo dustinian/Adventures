@@ -14,23 +14,41 @@ Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfant
 Contents
 --------
 
-* [Game Master Information](#game-master-information)
-* [Start](#start)
-* [Main Deck](#main-deck)
-* [Officer Deck / Bridge](#officer-deck--bridge)
-* [Passenger Deck](#passenger-deck)
-* [Engines](#engines)
-* [Hold](#hold)
-* [Villains](#villains)
-* [Conclusion](#conclusion)
-* [Props](#props)
-* [Pre-Generated Characters](#pre-generated-characters)
-* [Open Game License](#open-game-license)
+* Game Master Information
+  * Summary
+  * Timeline
+* Background
+  * Era
+  * Cattaro
+  * Crew
+  * Passengers
+  * Popular Names
+* Antagonists
+  * Poachers
+  * Gorillas
+* Adventure
+  * Start
+  * Main Deck
+  * Officer Deck / Bridge
+  * Passenger Cabins
+  * Crew Berths
+  * Engines
+  * Cargo Hold
+* Conclusion
+  * Experience
+  * Adventure Seeds
+* Protagonists
+  * Americans
+  * South Africans
+* Props
+* Open Game License
 
 
 
 Game Master Information
 -----------------------
+
+Read before running _Terror on the Cattaro_!
 
 ###Summary
 
@@ -47,32 +65,62 @@ Events leading to the adventure:
 * __February 18, 1923;__ _Capetown, South Africa:_ Guenter wins the contract.
 * __February 21, 1923;__ _Capetown, South Africa:_ Guenter and his men head north to the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
 * __May 17, 1923;__ _Belgian Congo:_ Guenter and his men finally capture several gorillas.
-* __May 22, 1923;__ _Durban, South Africa:_ Guenter and his men load the gorillas into a wooden crate, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
-* __Today, May 26, 1923;__ _S.S. Cattaro:_ The terrified, malnourished gorillas escape...
+* __May 22, 1923;__ _Durban, South Africa:_ Guenter and his men load the gorillas into a wooden crate, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions. The crate is loaded onto the _S.S. Cattaro_.
+* __May 23, 1923;__ _S.S. Cattaro:_ The ship departs Durban, South Africa for Chicago IL.
+* __Today, May 27, 1923;__ _S.S. Cattaro:_ The terrified, malnourished gorillas escape...
 
-###Tone
-
-###Game Master Information
-
-Notes on running the game, any plot twists, etc.
+Background
+----------
 
 ###Era
 
 * __America, 1923:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
 * __South Africa, 1923:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
-* __Ship:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is just a year old, completed in 1922. She's a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. Most of the German crew speak English, but all can understand Afrikaans with some difficulty. Keep in mind that the 1920s were a boom for almost everyone but the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
 
-###Popular Names, American
+###Cattaro
+
+* __Basics:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. She's just a year old, completed in 1922.
+* __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
+* __Propulsion:__ She's powered by a triple-expansion steam engine with one propeller.
+
+###Crew
+
+* __Language:__ Most of the German crew speak English, but all can understand Afrikaans with some difficulty.
+* __Politics:__ Keep in mind that the 1920s were a boom for almost everyone but the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
+* __Role Play:__ Rather than listing individual crew members for you to try and remember (or worse, have to look up during the game), let me just give you this advice:
+  * Choose a "crew" or "team" from one of your favorite books, movies, or TV shows&emdash;one that best represents the "tone" of your game. Suggestions:
+    * _Star Trek_
+    * _Firefly_
+    * _Babylon 5_
+    * _CSI_
+  * Jot down new names for the crew (see the _Popular Names_ section).
+  * Now you only need one scrap piece of paper to remind you of the crew's new names, because descriptions, accents, quotes, and motivation should all come easily!
+
+###Passengers
+
+
+
+###Popular Names
+
+####German
+
+* __Male:__
+* __Female:__
+* __Last:__
+
+####American
 
 * __Male:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry.
 * __Female:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, Emma, Marie.
 * __Last:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor.
 
-###Popular Names, South African
+####South African
 
 * __Male:__ Daan, Sem, Bram, Levi, Luuk, Lucas, Liam, Stijn, Finn, Ruben.
 * __Female:__ Lotte, Isa, Lieke, Eva, Sanne, Femke, Esmee, Nina, Britt, Lana.
 * __Last:__ Naidoo, Govender, Botha, Pillay, Muller, Pretorius, Fourie, Venter, Nel, Moodley.
+
+
 
 
 
@@ -179,8 +227,8 @@ Are your players eager to continue the adventure?
 
 
 
-Pre-Generated Characters
-------------------------
+Protagonists
+------------
 
 ###Americans
 
