@@ -74,12 +74,14 @@ Background
 
 ###Era
 
-* __America, 1923:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
-* __South Africa, 1923:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
+The world in 1923.
+
+* __America:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
+* __South Africa:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
 
 ###Cattaro
 
-* __Basics:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. She's just a year old, completed in 1922.
+* __Origin:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. She's just a year old, completed in 1922.
 * __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
 * __Propulsion:__ She's powered by a triple-expansion steam engine with one propeller.
 
@@ -101,6 +103,8 @@ Background
 
 
 ###Popular Names
+
+People your ship using 10 popular male, female, and last names for Germans, Americans, and South Africans.
 
 ####German
 
