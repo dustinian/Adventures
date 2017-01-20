@@ -3,7 +3,7 @@ Terror on the Cattaro
 
 _Hunt down the monsters behind a brutal murder at sea..._
 
-An adventure for three player characters at level two.
+An adventure for three player characters at level three.
 
 by Dustinian Camburides
 
@@ -64,10 +64,12 @@ Events leading to the adventure:
 * __January 30, 1923;__ _Capetown, South Africa:_ Guenter Oosthiezen and his cronies hear of the rich American's offer, and offer to take the contract.
 * __February 18, 1923;__ _Capetown, South Africa:_ Guenter wins the contract.
 * __February 21, 1923;__ _Capetown, South Africa:_ Guenter and his men head north to the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
-* __May 17, 1923;__ _Belgian Congo:_ Guenter and his men finally capture several gorillas.
+* __May 7, 1923;__ _Belgian Congo:_ Guenter and his men finally capture several gorillas.
 * __May 22, 1923;__ _Durban, South Africa:_ Guenter and his men load the gorillas into a wooden crate, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions. The crate is loaded onto the _S.S. Cattaro_.
 * __May 23, 1923;__ _S.S. Cattaro:_ The ship departs Durban, South Africa for Chicago IL.
 * __Today, May 27, 1923;__ _S.S. Cattaro:_ The terrified, malnourished gorillas escape...
+
+
 
 Background
 ----------
@@ -126,53 +128,20 @@ People your ship using 10 popular male, female, and last names for Germans, Amer
 
 
 
-
-
-Start
------
-
->
-
-
-
-Main Deck
+Adventure
 ---------
 
->
+###Start
 
+###Main Deck
 
+###Officer Deck / Bridge
 
-Officer Deck / Bridge
----------------------
+###Passenger Deck
 
->
+###Engines
 
-
-
-Passenger Deck
---------------
-
->
-
-
-
-Engines
--------
-
->
-
-
-
-Hold
-----
-
->
-
-Commentary to the GM about the area.
-
-###Room 1
-
->Box text.
+###Cargo Hold
 
 
 
@@ -181,21 +150,21 @@ Villains
 
 ###Poachers
 
-4 poachers... Guenter and his three henchmen... are aboard the _Cattaro_. They are trying to smuggle three gorillas to the Chicago Zoo.
+Guenter Oosthiezen and several cronies are aboard the _Cattaro_ trying to smuggle three gorillas to the Chicago Zoo.
 
 ####Guenter Oosthiezen
 
 AC 13, HD2, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F2, Ml 12
 
-* HP 11 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square:
+* HP 14 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
 
-####3 Poachers
+####Cronies
 
 AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 10
 
 * HP 7 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square:
-* HP 4 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
 * HP 3 :white_medium_small_square::white_medium_small_square::white_medium_small_square:
+* HP 5 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
 
 ###Gorillas
 
@@ -240,7 +209,7 @@ Protagonists
 
 ####Micky Henshaw
 
-_Level 2 Wise Guy (Fighter)_
+_Level 3 Wise Guy (Fighter)_
 
 #####Abilities
 
@@ -275,7 +244,7 @@ _Level 2 Wise Guy (Fighter)_
 
 ####Dr. Patrick Cook
 
-_Level 2 Scientist (Magic User)_
+_Level 3 Scientist (Magic User)_
 
 #####Abilities
 
@@ -289,6 +258,12 @@ _Level 2 Scientist (Magic User)_
 | __CHA__ |    8  |       -1        |Spells (Charm, Fear)     |          14         |
 
 * __Ability Roll Target:__ 16
+
+#####Spells
+
+* __Magic Missile:__ Once per day, use your knowledge of physics to improvise a rocket or projectile that unerringly strikes any target you can see within 130-ft, dealing 1d6+1 points of damage.
+* __Sleep:__ Oncer per day, use your knowledge of chemistry to thow a vial of "knockout gas" up to 90-ft away, attempting to put air-breathing creatures in a 30-ft radius to sleep for 15 _rounds_ (150 seconds). Creatures that make _Saving Throws_ against _Spells (Charm, Fear)_ to resist the gas.
+* __Mirror Image:__ Once per day, use your knowledge of psychology to take advantage of reflective surfaces, lighting, ambient noise, and improvised props to create the illusion that you're in 1d4 places at once for 3 _turns_ (30 minutes). Enemies attempting to attack you always attack one of these illusions instead. Illusions are immediately broken once hit.
 
 #####Offense
 
@@ -306,7 +281,7 @@ _Level 2 Scientist (Magic User)_
 
 ####Angel Thompson
 
-_Level 2 Burglar (Thief)_
+_Level 3 Burglar (Thief)_
 
 #####Abilities
 
@@ -354,7 +329,7 @@ _Level 2 Burglar (Thief)_
 
 ####Albert Kruger
 
-_Level 2 Medic (Cleric)_
+_Level 3 Medic (Cleric)_
 
 #####Abilities
 
@@ -367,10 +342,15 @@ _Level 2 Medic (Cleric)_
 | __CON__ |   16  |       +2        |Death Ray or Poison      |          10         |
 | __CHA__ |   14  |       +1        |Spells (Charm, Fear)     |          14         |
 
+* __Ability Roll Target:__ 16
+
+#####Spells
+
+* __Cure Light Wounds:__ Twice per day, heal 1d6+1 hit points of damage.
+
 #####Offense
 
 * __Initiative Penalty:__ d6-1
-* __Ability Roll Target:__ 16
 * __Money:__ $100
 
 #####Defense
@@ -386,7 +366,7 @@ _Level 2 Medic (Cleric)_
 
 ####Tug Smit
 
-_Level 2 Spy (Thief)_
+_Level 3 Spy (Thief)_
 
 #####Abilities
 
@@ -398,6 +378,10 @@ _Level 2 Spy (Thief)_
 | __DEX__ |   16  |       +2        |Magic Wands              |          14         |
 | __CON__ |    8  |       -1        |Death Ray or Poison      |          12         |
 | __CHA__ |   18  |       +3        |Spells (Charm, Fear)     |          14         |
+
+* __Ability Roll Target:__ 16
+
+#####Skills
 
 |     Skill       |     |
 |:----------------|:---:|
@@ -412,7 +396,6 @@ _Level 2 Spy (Thief)_
 #####Offense
 
 * __Initiative Bonus:__ d6+2
-* __Ability Roll Target:__ 16
 * __Money:__ $100
 
 #####Defense
@@ -428,7 +411,7 @@ _Level 2 Spy (Thief)_
 
 ####Rita Pillay
 
-_Level 2 Hunter (Fighter)_
+_Level 3 Hunter (Fighter)_
 
 #####Abilities
 
@@ -440,6 +423,8 @@ _Level 2 Hunter (Fighter)_
 | __DEX__ |   18  |       +3        |Magic Wands              |          12         |
 | __CON__ |   14  |       +1        |Death Ray or Poison      |          11         |
 | __CHA__ |    8  |       -1        |Spells (Charm, Fear)     |          16         |
+
+* __Ability Roll Target:__ 16
 
 #####Offense
 
