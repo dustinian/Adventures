@@ -18,7 +18,7 @@ Contents
   * Summary
   * Timeline
 * Background
-  * Era
+  * 1923
   * Cattaro
   * Crew
   * Passengers
@@ -52,9 +52,9 @@ Read before running _Terror on the Cattaro_!
 
 ###Summary
 
-_Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to the Chicago Zoo.
+_Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Licoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
 
-The player characters find themselves aboard the _SS Cattaro_ in 1923. The _Cattaro_ is bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escaped from the cargo hold,  killed a passenger, and threw the ship's passengers and crew into a panic.
+The player characters find themselves aboard the _SS Cattaro_ in 1923. The _Cattaro_ is bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escape from the cargo hold,  kill a passenger, and throw the ship's passengers and crew into a panic.
 
 ###Timeline
 
@@ -74,9 +74,7 @@ Events leading to the adventure:
 Background
 ----------
 
-###Era
-
-The world in 1923.
+###1923
 
 * __America:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
 * __South Africa:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
@@ -85,20 +83,13 @@ The world in 1923.
 
 * __Origin:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. She's just a year old, completed in 1922.
 * __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
-* __Propulsion:__ She's powered by a triple-expansion steam engine with one propeller.
+* __Propulsion:__ Triple-expansion steam engine with one propeller.
 
 ###Crew
 
-* __Language:__ Most of the German crew speak English, but all can understand Afrikaans with some difficulty.
-* __Politics:__ Keep in mind that the 1920s were a boom for almost everyone but the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
-* __Role Play:__ Rather than listing individual crew members for you to try and remember (or worse, have to look up during the game), let me just give you this advice:
-  * Choose a "crew" or "team" from one of your favorite books, movies, or TV shows&emdash;one that best represents the "tone" of your game. Suggestions:
-    * _Star Trek_
-    * _Firefly_
-    * _Babylon 5_
-    * _CSI_
-  * Jot down new names for the crew (see the _Popular Names_ section).
-  * Now you only need one scrap piece of paper to remind you of the crew's new names, because descriptions, accents, quotes, and motivation should all come easily!
+* __Language:__ Most of the German crew speak English, but all can understand Afrikaans (a dialect of Dutch not yet recognized as its own language) with some difficulty.
+* __Politics:__ Keep in mind that the 1920s were a boom for almost everyone _but_ the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
+* __Role Play:__ You might use characters from a favorite book, movie, or TV show to stand in for the ship's crew. For example, give the cast of _The Office_ new names and German accents, and use them as a hapless crew that need all the help they can get.
 
 ###Passengers
 
@@ -106,13 +97,13 @@ The world in 1923.
 
 ###Popular Names
 
-People your ship using 10 popular male, female, and last names for Germans, Americans, and South Africans.
+10 male, female, and last names for Germans, Americans, and South Africans that were popular in 1923.
 
 ####German
 
-* __Male:__
-* __Female:__
-* __Last:__
+* __Male:__ Hans, Karl, Werner, Gerhard, Wilhelm, Curt, Helmut, Ernst, Rudolf, Otto
+* __Female:__ Ursula, Ilse, Hildegard, Gerda, Ingeborg, Irmgard, Helga, Gertrud, Liselotte, Erika
+* __Last:__ Schmidt, Fischer, Weber, Meyer, Wagner, Schulz, Hoffman, Schaefer, Richter, Klein
 
 ####American
 
