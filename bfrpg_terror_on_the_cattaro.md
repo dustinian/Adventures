@@ -204,7 +204,11 @@ Protagonists
 
 ###Americans
 
+Americans aboard the _S.S. Cattaro_ are probably returning home from a:
 
+* Safari vacation.
+* Scientific expedition.
+* Smuggling trip.
 
 ####Micky Henshaw
 
@@ -324,7 +328,10 @@ _Level 3 Burglar (Thief)_
 
 ###South Africans
 
+South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
 
+* Attend a profesional/academic event.
+* Purchase manufactured goods sans tariffs.
 
 ####Albert Kruger
 
