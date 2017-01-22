@@ -54,18 +54,16 @@ Read before running _Terror on the Cattaro_!
 
 _Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Licoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
 
-The player characters find themselves aboard the _SS Cattaro_ in 1923. The _Cattaro_ is bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escape from the cargo hold,  kill a passenger, and throw the ship's passengers and crew into a panic.
+It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escape from the cargo hold,  kill a passenger, and throw the ship's passengers and crew into a panic.
 
 ###Timeline
 
 Events leading to the adventure:
 
-* __January 2, 1923;__ _Chicago, IL:_ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) puts out the word that he'll pay good money for gorillas delivered before the fourth of July... no questions asked.
-* __January 30, 1923;__ _Capetown, South Africa:_ Guenter Oosthiezen and his cronies hear of the rich American's offer, and offer to take the contract.
-* __February 18, 1923;__ _Capetown, South Africa:_ Guenter wins the contract.
-* __February 21, 1923;__ _Capetown, South Africa:_ Guenter and his men head north to the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
-* __May 7, 1923;__ _Belgian Congo:_ Guenter and his men finally capture several gorillas.
-* __May 22, 1923;__ _Durban, South Africa:_ Guenter and his men load the gorillas into a wooden crate, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions. The crate is loaded onto the _S.S. Cattaro_.
+* __January 2, 1923;__ _Chicago, IL:_ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
+* __January 30, 1923;__ _Capetown, South Africa:_ Guenter Oosthiezen and his cronies hear of the rich American's offer, and take the contract.
+* __May 7, 1923;__ _Belgian Congo:_ Guenter and his men finally capture several gorillas in the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
+* __May 22, 1923;__ _Durban, South Africa:_ Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
 * __May 23, 1923;__ _S.S. Cattaro:_ The ship departs Durban, South Africa for Chicago IL.
 * __Today, May 27, 1923;__ _S.S. Cattaro:_ The terrified, malnourished gorillas escape...
 
@@ -107,19 +105,27 @@ The players' characters and the poachers are passengers, but there are additiona
 
 10 male, female, and last names for Germans, Americans, and South Africans that were popular in 1923.
 
-####German
+####German Crew
 
 * __Male:__ Hans, Karl, Werner, Gerhard, Wilhelm, Curt, Helmut, Ernst, Rudolf, Otto
 * __Female:__ Ursula, Ilse, Hildegard, Gerda, Ingeborg, Irmgard, Helga, Gertrud, Liselotte, Erika
 * __Last:__ Schmidt, Fischer, Weber, Meyer, Wagner, Schulz, Hoffman, Schaefer, Richter, Klein
 
-####American
+####American Passengers
 
-* __Male:__ John, William, James, George, Charles, Joseph, Frank, Robert, Edward, Henry.
-* __Female:__ Mary, Anna, Margaret, Helen, Elizabeth, Ruth, Florence, Ethel, Emma, Marie.
-* __Last:__ Smith, Johnson, Williams, Jones, Brown, David, Miller, Wilson, Moore, Taylor.
+Americans aboard the _S.S. Cattaro_ are probably returning home from a:
 
-####South African
+* Safari vacation.
+* Scientific expedition.
+* Smuggling trip.
+
+|          |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
+|:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|__Male__  |   John   | William  |   James  |  George  | Charles  |  Joseph  |  Frank   |  Robert  |  Edward  |  Henry   |
+|__Female__|   Mary   |   Anna   | Margaret |  Helen   |Elizabeth |   Ruth   | Florence |  Ethel   |   Emma   |  Marie   |
+|__Last__  |  Smith   | Johnson  | Williams |  Jones   |  Brown   |  David   |  Miller  |  Wilson  |   Moore  |  Taylor  |
+
+####South African Passengers
 
 * __Male:__ Daan, Sem, Bram, Levi, Luuk, Lucas, Liam, Stijn, Finn, Ruben.
 * __Female:__ Lotte, Isa, Lieke, Eva, Sanne, Femke, Esmee, Nina, Britt, Lana.
@@ -149,7 +155,7 @@ Villains
 
 ###Poachers
 
-Guenter Oosthiezen and several cronies are aboard the _Cattaro_ trying to smuggle three gorillas to the Chicago Zoo.
+Guenter Oosthiezen and several cronies are aboard the _Cattaro_ trying to smuggle gorillas to the Chicago Zoo.
 
 ####Guenter Oosthiezen
 
@@ -203,12 +209,6 @@ Protagonists
 ------------
 
 ###Americans
-
-Americans aboard the _S.S. Cattaro_ are probably returning home from a:
-
-* Safari vacation.
-* Scientific expedition.
-* Smuggling trip.
 
 ####Micky Henshaw
 
