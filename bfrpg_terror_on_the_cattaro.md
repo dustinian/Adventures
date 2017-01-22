@@ -89,11 +89,13 @@ Background
 
 * __Language:__ Most of the German crew speak English, but all can understand Afrikaans (a dialect of Dutch not yet recognized as its own language) with some difficulty.
 * __Politics:__ Keep in mind that the 1920s were a boom for almost everyone _but_ the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
-* __Role Play:__ You might use characters from a favorite book, movie, or TV show to stand in for the ship's crew. For example, give the cast of _The Office_ new names and German accents, and use them as a hapless crew that need all the help they can get.
+* __Role Play:__ You might use characters from a favorite book, movie, or TV show to stand in for the ship's crew. For example, give the cast of _The Office_ new names and German accents, and use them as a hapless crew that need all the help they can get. Use your familiarity with these characters to give your NPCs depth, but avoid the character's most common tics ("That's what she said!") so that your players don't figure out what your ripping off!
 
 ###Passengers
 
-
+* __Common:__ Passengers common on cargo vessels: Captains were encouraged to squeeze value out of every leg of every trip, so they made sure they sould every square foot of cargo space... and every bed, bunk, and berth. This is before personal lawsuits forced companies to limit liability.
+* __Few:__ But "common" does not mean "plentiful." There simply aren't that many bunks on a cargo vessel. Between the Player Characters and the Poachers... there may be a dozen other passengers.
+* __Role Play:__ Again, use small groups of characters from a favorite book, movie, or TV show to stand in for the passengers. Be sure to pull passengers from several sources... a few from this book... a few from this show.
 
 ###Popular Names
 
