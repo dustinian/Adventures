@@ -107,6 +107,26 @@ The players' characters and the poachers are passengers, but there are additiona
 
 ####German Crew
 
+| d10  |  First   |  Middle  |   Last   |
+|:----:|:--------:|:--------:|:--------:|
+|__1__ |          |          |          |
+|__2__ |          |          |          |
+|__3__ |          |          |          |
+|__4__ |          |          |          |
+|__5__ |          |          |          |
+|__6__ |          |          |          |
+|__7__ |          |          |          |
+|__8__ |          |          |          |
+|__9__ |          |          |          |
+|__10__|          |          |          |
+
+
+|   d10    |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
+|:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|__Male__  |          |          |          |          |          |          |          |          |          |          |
+|__Female__|          |          |          |          |          |          |          |          |          |          |
+|__Last__  |          |          |          |          |          |          |          |          |          |          |
+
 * __Male:__ Hans, Karl, Werner, Gerhard, Wilhelm, Curt, Helmut, Ernst, Rudolf, Otto
 * __Female:__ Ursula, Ilse, Hildegard, Gerda, Ingeborg, Irmgard, Helga, Gertrud, Liselotte, Erika
 * __Last:__ Schmidt, Fischer, Weber, Meyer, Wagner, Schulz, Hoffman, Schaefer, Richter, Klein
@@ -119,13 +139,24 @@ Americans aboard the _S.S. Cattaro_ are probably returning home from a:
 * Scientific expedition.
 * Smuggling trip.
 
-|          |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
+|   d10    |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
 |:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |__Male__  |   John   | William  |   James  |  George  | Charles  |  Joseph  |  Frank   |  Robert  |  Edward  |  Henry   |
 |__Female__|   Mary   |   Anna   | Margaret |  Helen   |Elizabeth |   Ruth   | Florence |  Ethel   |   Emma   |  Marie   |
 |__Last__  |  Smith   | Johnson  | Williams |  Jones   |  Brown   |  David   |  Miller  |  Wilson  |   Moore  |  Taylor  |
 
 ####South African Passengers
+
+South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
+
+* Attend a profesional/academic event.
+* Purchase manufactured goods sans tariffs.
+
+|   d10    |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
+|:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|__Male__  |          |          |          |          |          |          |          |          |          |          |
+|__Female__|          |          |          |          |          |          |          |          |          |          |
+|__Last__  |          |          |          |          |          |          |          |          |          |          |
 
 * __Male:__ Daan, Sem, Bram, Levi, Luuk, Lucas, Liam, Stijn, Finn, Ruben.
 * __Female:__ Lotte, Isa, Lieke, Eva, Sanne, Femke, Esmee, Nina, Britt, Lana.
@@ -282,6 +313,7 @@ _Level 3 Scientist (Magic User)_
 * __Money:__ $100
 
 
+
 ####Angel Thompson
 
 _Level 3 Burglar (Thief)_
@@ -327,11 +359,6 @@ _Level 3 Burglar (Thief)_
 
 
 ###South Africans
-
-South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
-
-* Attend a profesional/academic event.
-* Purchase manufactured goods sans tariffs.
 
 ####Albert Kruger
 
