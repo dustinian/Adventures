@@ -30,11 +30,11 @@ __Equipment:__ Try to find the closest piece of _Basic Fantasy Role-Playing Game
 
 __Calculation:__ Since it's impractical for a 1920's character to purchase and wear plate mail, Armor Class should be calculated as: 11 + DEX + (.5 &times; CON), where DEX and CON are the Dexterity and Constitution Modifiers. _Note: Round down._
 
-|     |Value                         |Explanation                                      |Relevant Quote     |
-|:---:|:-----------------------------|:------------------------------------------------|:------------------|
-|     |11                            |Base Armor Class for all characters.             |                   |
-|  +  |Dexterity Modifier            |Character's ability to dodge, duck, and weave.   |Ha! Missed me!     |
-|  +  |Half the Constitution Modifier|Character's ability to shrug off a "flesh wound."|'Tis but a scratch.|
+|     |Value                |Explanation                                      |Relevant Quote     |
+|:---:|:--------------------|:------------------------------------------------|:------------------|
+|     |11                   |Base Armor Class for all characters.             |                   |
+|  +  |Dexterity Modifier   |Character's ability to dodge, duck, and weave.   |Ha! Missed me!     |
+|  +  |Constitution Modifier|Character's ability to shrug off a "flesh wound."|'Tis but a scratch.|
 
 __Cover and Concealment:__ If you're worried that this relatively low Armor Class will make characters too easy to hit, remember the _cover_ rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47. Even Phillip Marlowe and Sam Spade kept their heads down during a shoot-out!
 

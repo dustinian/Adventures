@@ -60,12 +60,11 @@ It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chic
 
 Events leading to the adventure:
 
-* __January 2, 1923;__ _Chicago, IL:_ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
-* __January 30, 1923;__ _Capetown, South Africa:_ Guenter Oosthiezen and his cronies hear of the rich American's offer, and take the contract.
-* __May 7, 1923;__ _Belgian Congo:_ Guenter and his men finally capture several gorillas in the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
-* __May 22, 1923;__ _Durban, South Africa:_ Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
-* __May 23, 1923;__ _S.S. Cattaro:_ The ship departs Durban, South Africa for Chicago IL.
-* __Today, May 27, 1923;__ _S.S. Cattaro:_ The terrified, malnourished gorillas escape...
+* __January 2, 1923;__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
+* __January 30, 1923;__ In Capetown, South Africa, Guenter Oosthiezen and his cronies hear of the rich American's offer, and take the contract.
+* __May 7, 1923;__ Guenter and his men finally capture several gorillas in the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
+* __May 22, 1923;__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
+* __Today, May 27, 1923;__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
 
 
 
@@ -95,11 +94,11 @@ Tips for role-playing the crew:
 
 ###Passengers
 
-The players' characters and the poachers are passengers, but there are additional passengers. Tips for role-playing those passengers:
+The players' characters and the poachers are passengers, but there are additional passengers. Tips for role-playing passengers:
 
-* __Common:__ Passengers common on cargo vessels: Captains were encouraged to squeeze value out of every leg of every trip, so they made sure they sould every square foot of cargo space... and every bed, bunk, and berth. This is before personal lawsuits forced companies to limit liability.
+* __Common:__ Passengers were common on cargo vessels: Captains were encouraged to squeeze value out of every leg of every trip, so they made sure they sould every square foot of cargo space... and every bed, bunk, and berth. This is before personal lawsuits forced companies to limit liability.
 * __Few:__ But "common" does not mean "plentiful." There simply aren't that many bunks on a cargo vessel. Between the players' characters... there may be a dozen other passengers.
-* __Individual Passengers:__ Again, use small groups of characters from a favorite book, movie, or TV show to stand in for the passengers. Be sure to pull passengers from several sources... a few from this book... a few from this show.
+* __Individual Passengers:__ Again, use small groups of characters from a favorite book, movie, or TV show to stand in for the passengers travelling together. Be sure to pull passengers from several sources... a few from this book... a few from that show.
 
 ###Popular Names
 
@@ -107,29 +106,18 @@ The players' characters and the poachers are passengers, but there are additiona
 
 ####German Crew
 
-| d10  |  First   |  Middle  |   Last   |
+| d10  |   Male   |  Female  |   Last   |
 |:----:|:--------:|:--------:|:--------:|
-|__1__ |          |          |          |
-|__2__ |          |          |          |
-|__3__ |          |          |          |
-|__4__ |          |          |          |
-|__5__ |          |          |          |
-|__6__ |          |          |          |
-|__7__ |          |          |          |
-|__8__ |          |          |          |
-|__9__ |          |          |          |
-|__10__|          |          |          |
-
-
-|   d10    |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
-|:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|__Male__  |          |          |          |          |          |          |          |          |          |          |
-|__Female__|          |          |          |          |          |          |          |          |          |          |
-|__Last__  |          |          |          |          |          |          |          |          |          |          |
-
-* __Male:__ Hans, Karl, Werner, Gerhard, Wilhelm, Curt, Helmut, Ernst, Rudolf, Otto
-* __Female:__ Ursula, Ilse, Hildegard, Gerda, Ingeborg, Irmgard, Helga, Gertrud, Liselotte, Erika
-* __Last:__ Schmidt, Fischer, Weber, Meyer, Wagner, Schulz, Hoffman, Schaefer, Richter, Klein
+|__1__ | Hans     | Ursula   | Schmidt  |
+|__2__ | Karl     | Ilse     | Fischer  |
+|__3__ | Werner   | Hildegard| Weber    |
+|__4__ | Gerhard  | Gerda    | Meyer    |
+|__5__ | Wilhelm  | Ingeborg | Wagner   |
+|__6__ | Curt     | Irmgard  | Schulz   |
+|__7__ | Helmut   | Helga    | Hoffman  |
+|__8__ | Ernst    | Gertrud  | Schaefer |
+|__9__ | Rudolf   | Liselotte| Richter  |
+|__10__| Otto     | Erika    | Klein    |
 
 ####American Passengers
 
@@ -139,11 +127,18 @@ Americans aboard the _S.S. Cattaro_ are probably returning home from a:
 * Scientific expedition.
 * Smuggling trip.
 
-|   d10    |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
-|:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|__Male__  |   John   | William  |   James  |  George  | Charles  |  Joseph  |  Frank   |  Robert  |  Edward  |  Henry   |
-|__Female__|   Mary   |   Anna   | Margaret |  Helen   |Elizabeth |   Ruth   | Florence |  Ethel   |   Emma   |  Marie   |
-|__Last__  |  Smith   | Johnson  | Williams |  Jones   |  Brown   |  David   |  Miller  |  Wilson  |   Moore  |  Taylor  |
+| d10  |   Male   |  Female  |   Last   |
+|:----:|:--------:|:--------:|:--------:|
+|__1__ | John     | Mary     | Smith    |
+|__2__ | William  | Anna     | Johnson  |
+|__3__ | James    | Margaret | Williams |
+|__4__ | George   | Helen    | Jones    |
+|__5__ | Charles  | Elizabeth| Brown    |
+|__6__ | Joseph   | Ruth     | David    |
+|__7__ | Frank    | Florence | Miller   |
+|__8__ | Robert   | Ethel    | Wilson   |
+|__9__ | Edward   | Emma     | Moore    |
+|__10__| Henry    | Marie    | Taylor   |
 
 ####South African Passengers
 
@@ -152,15 +147,18 @@ South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
 * Attend a profesional/academic event.
 * Purchase manufactured goods sans tariffs.
 
-|   d10    |    1     |    2     |    3     |    4     |     5    |     6    |     7    |     8    |     9    |    10    |
-|:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|__Male__  |          |          |          |          |          |          |          |          |          |          |
-|__Female__|          |          |          |          |          |          |          |          |          |          |
-|__Last__  |          |          |          |          |          |          |          |          |          |          |
-
-* __Male:__ Daan, Sem, Bram, Levi, Luuk, Lucas, Liam, Stijn, Finn, Ruben.
-* __Female:__ Lotte, Isa, Lieke, Eva, Sanne, Femke, Esmee, Nina, Britt, Lana.
-* __Last:__ Naidoo, Govender, Botha, Pillay, Muller, Pretorius, Fourie, Venter, Nel, Moodley.
+| d10  |   Male   |  Female  |   Last   |
+|:----:|:--------:|:--------:|:--------:|
+|__1__ | Daan     | Lotte    | Naidoo   |
+|__2__ | Sem      | Isa      | Govender |
+|__3__ | Bram     | Lieke    | Botha    |
+|__4__ | Levi     | Eva      | Pillay   |
+|__5__ | Luuk     | Sanne    | Muller   |
+|__6__ | Lucas    | Femke    | Pretorius|
+|__7__ | Liam     | Esmee    | Fourie   |
+|__8__ | Stijn    | Nina     | Venter   |
+|__9__ | Finn     | Britt    | Nel      |
+|__10__| Ruben    | Lana     | Moodley  |
 
 
 
@@ -186,11 +184,21 @@ Villains
 
 ###Poachers
 
-Guenter Oosthiezen and several cronies are aboard the _Cattaro_ trying to smuggle gorillas to the Chicago Zoo.
+Guenter Oosthiezen and several cronies are aboard the _Cattaro_ trying to smuggle several gorillas to the Chicago Zoo.
 
 ####Guenter Oosthiezen
 
-AC 13, HD2, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F2, Ml 12
+* __Summary:__ AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F2, Ml 12
+* __Armor Class:__ 15
+* __Hit Die:__ 4
+  * __Hit Points:__ 23
+* __Attacks:__
+  * _Rifle:_
+  * _Fisticuffs:_
+* __Movement:__
+* __Saving Throws:__
+* __Morale:__
+
 
 * HP 14 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
 
