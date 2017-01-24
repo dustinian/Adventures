@@ -204,7 +204,7 @@ HP 23:
 
 ####Offense
 
-* __Initiative:__ +4
+* __Initiative:__ 1d6+4
 * __Movement:__ 40-ft
 * __Rifle:__ +4, 1d8
 * __Fisticuffs:__ +4, 1d4+4
@@ -291,9 +291,9 @@ _Level 3 Wise Guy (Fighter)_
 #####Offense
 
 * __Initiative:__ d6+1
-* __Revolver:__ +1, 1d
-* __Billy Club:__ +5, 1d
-* __Unarmed:__ +5, 1d subduing
+* __Revolver:__ +1, 1d6+1
+* __Billy Club:__ +5, 1d4+3
+* __Unarmed:__ +5, 1d3+3 subduing
 
 #####Defense
 
@@ -316,10 +316,10 @@ _Level 3 Scientist (Magic User)_
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
 | __STR__ |   11  |                 |Paralysis or Petrify     |          13         |
 | __INT__ |   18  |       +3        |Spells (Arcane, Illusion)|          14         |
-| __WIS__ |   16  |       +2        |Dragon Breath            |          15         |
+| __WIS__ |   16  |       +2        |Spells (Charm, Fear)     |          15         |
 | __DEX__ |   11  |                 |Magic Wands              |          14         |
 | __CON__ |   14  |       +1        |Death Ray or Poison      |          13         |
-| __CHA__ |    8  |       -1        |Spells (Charm, Fear)     |          14         |
+| __CHA__ |    8  |       -1        |Dragon Breath            |          14         |
 
 * __Ability Roll Target:__ 16
 
@@ -354,10 +354,10 @@ _Level 3 Burglar (Thief)_
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
 | __STR__ |   11  |                 |Paralysis or Petrify     |          12         |
 | __INT__ |   11  |                 |Spells (Arcane, Illusion)|          14         |
-| __WIS__ |    8  |       -1        |Dragon Breath            |          15         |
+| __WIS__ |    8  |       -1        |Spells (Charm, Fear)     |          15         |
 | __DEX__ |   18  |       +3        |Magic Wands              |          14         |
 | __CON__ |   14  |       +1        |Death Ray or Poison      |          12         |
-| __CHA__ |   16  |       +2        |Spells (Charm, Fear)     |          14         |
+| __CHA__ |   16  |       +2        |Dragon Breath            |          14         |
 
 * __Ability Roll Target:__ 16
 
@@ -365,13 +365,13 @@ _Level 3 Burglar (Thief)_
 
 |     Skill       | d%  |
 |:----------------|:---:|
-|__Open Locks__   | 25% |
-|__Remove Traps__ | 20% |
-|__Pick Pockets__ | 30% |
-|__Move Silently__| 25% |
-|__Climb Walls__  | 80% |
-|__Hide__         | 10% |
-|__Listen__       | 30% |
+|__Open Locks__   | 35% |
+|__Remove Traps__ | 30% |
+|__Pick Pockets__ | 40% |
+|__Move Silently__| 35% |
+|__Climb Walls__  | 82% |
+|__Hide__         | 20% |
+|__Listen__       | 38% |
 
 #####Offense
 
@@ -400,10 +400,10 @@ _Level 3 Medic (Cleric)_
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
 | __STR__ |   11  |                 |Paralysis or Petrify     |          13         |
 | __INT__ |   11  |                 |Spells (Arcane, Illusion)|          14         |
-| __WIS__ |   18  |       +3        |Dragon Breath            |          15         |
+| __WIS__ |   18  |       +3        |Spells (Charm, Fear)     |          15         |
 | __DEX__ |    8  |       -1        |Magic Wands              |          11         |
 | __CON__ |   16  |       +2        |Death Ray or Poison      |          10         |
-| __CHA__ |   14  |       +1        |Spells (Charm, Fear)     |          14         |
+| __CHA__ |   14  |       +1        |Dragon Breath            |          14         |
 
 * __Ability Roll Target:__ 16
 
@@ -437,10 +437,10 @@ _Level 3 Spy (Thief)_
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
 | __STR__ |   11  |                 |Paralysis or Petrify     |          12         |
 | __INT__ |   14  |       +1        |Spells (Arcane, Illusion)|          14         |
-| __WIS__ |   11  |                 |Dragon Breath            |          15         |
+| __WIS__ |   11  |                 |Spells (Charm, Fear)     |          15         |
 | __DEX__ |   16  |       +2        |Magic Wands              |          14         |
 | __CON__ |    8  |       -1        |Death Ray or Poison      |          12         |
-| __CHA__ |   18  |       +3        |Spells (Charm, Fear)     |          14         |
+| __CHA__ |   18  |       +3        |Dragon Breath            |          14         |
 
 * __Ability Roll Target:__ 16
 
@@ -448,13 +448,13 @@ _Level 3 Spy (Thief)_
 
 |     Skill       | d%  |
 |:----------------|:---:|
-|__Open Locks__   | 25% |
-|__Remove Traps__ | 20% |
-|__Pick Pockets__ | 30% |
-|__Move Silently__| 25% |
-|__Climb Walls__  | 80% |
-|__Hide__         | 10% |
-|__Listen__       | 30% |
+|__Open Locks__   | 35% |
+|__Remove Traps__ | 30% |
+|__Pick Pockets__ | 40% |
+|__Move Silently__| 35% |
+|__Climb Walls__  | 82% |
+|__Hide__         | 20% |
+|__Listen__       | 38% |
 
 #####Offense
 
@@ -482,10 +482,10 @@ _Level 3 Hunter (Fighter)_
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
 | __STR__ |   16  |       +2        |Paralysis or Petrify     |          14         |
 | __INT__ |   11  |                 |Spells (Arcane, Illusion)|          16         |
-| __WIS__ |   11  |                 |Dragon Breath            |          15         |
+| __WIS__ |   11  |                 |Spells (Charm, Fear)     |          15         |
 | __DEX__ |   18  |       +3        |Magic Wands              |          12         |
 | __CON__ |   14  |       +1        |Death Ray or Poison      |          11         |
-| __CHA__ |    8  |       -1        |Spells (Charm, Fear)     |          16         |
+| __CHA__ |    8  |       -1        |Dragon Breath            |          16         |
 
 * __Ability Roll Target:__ 16
 
