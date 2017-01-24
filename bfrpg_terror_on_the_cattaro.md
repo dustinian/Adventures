@@ -60,11 +60,11 @@ It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chic
 
 Events leading to the adventure:
 
-* __January 2, 1923;__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
-* __January 30, 1923;__ In Capetown, South Africa, Guenter Oosthiezen and his cronies hear of the rich American's offer, and take the contract.
-* __May 7, 1923;__ Guenter and his men finally capture several gorillas in the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
-* __May 22, 1923;__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
-* __Today, May 27, 1923;__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
+* __January 2, 1923:__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
+* __January 30, 1923:__ In Capetown, South Africa, Guenter Oosthiezen and his cronies hear of the rich American's offer, and take the contract.
+* __May 7, 1923:__ Guenter and his men finally capture several gorillas in the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
+* __May 22, 1923:__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
+* __Today, May 27, 1923:__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
 
 
 
@@ -83,7 +83,7 @@ Familiarize yourself with the era, the ship, the crew, and the passengers to hel
 The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel.
 
 * __Owner:__ Memeler Schiffswerke, Lindenau &amp; Co.
-* __Age:__ Jst a year old, completed in 1922.
+* __Age:__ Just a year old, completed in 1922.
 * __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
 * __Propulsion:__ Coal-burning triple-expansion steam engine with one propeller.
 
@@ -189,7 +189,7 @@ Villains
 
 ###Poachers
 
-Guenter Oosthiezen and several cronies are aboard the _Cattaro_ trying to smuggle several gorillas to the Chicago Zoo.
+Guenter Oosthiezen and several cronies are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to the Chicago Zoo.
 
 ####Guenter Oosthiezen
 
@@ -204,10 +204,10 @@ HP 23:
 
 ####Offense
 
-* _Initiative:_ +4
-* _Movement:_ 40-ft
-* _Rifle:_ +4, 1d8
-* _Fisticuffs:_ +4, 1d4+4
+* __Initiative:__ +4
+* __Movement:__ 40-ft
+* __Rifle:__ +4, 1d8
+* __Fisticuffs:__ +4, 1d4+4
 
 ####Defense
 
@@ -260,7 +260,7 @@ Conclusion
 
 Are your players eager to continue the adventure?
 
-* __Gunter's Revenge:__ If Gunter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Gunter's family is well-connected. Gunter's experience on the _Cattaro_ and in varioud South Afican jails will level him up.
+* __Gunter's Revenge:__ If Gunter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Gunter's family is well-connected. Gunter's experience on the _S.S. Cattaro_ and in varioud South Afican jails will level him up.
 * __Chicago Zoo:__ If your players found Gunter's telegram, you might prompt them to investigate the corruption at the Chicago Zoo that would lead to the Zoo paying for poached animals.
 * __Poaching:__ If your players are outraged by the poaching, you might send them back to South Africa to deal with poachers at the source.
 
@@ -547,5 +547,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 * _Open Game License v 1.0_, Copyright 2000, Wizards of the Coast, Inc.
 * _System Reference Document_, Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
-* _Basic Fantasy Role-Playing Game_, Copyright 2006-2016 Chris Gonnerman.
-* _Terror on the Cattaro_, Copyright 2016 Dustinian Camburides
+* _Basic Fantasy Role-Playing Game_, Copyright 2006-2017 Chris Gonnerman.
+* _Terror on the Cattaro_, Copyright 2017 Dustinian Camburides
