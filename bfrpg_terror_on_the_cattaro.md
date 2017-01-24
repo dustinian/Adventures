@@ -363,8 +363,6 @@ _Level 3 Burglar (Thief)_
 
 #####Skills
 
-|     Skill       |     |
-|:----------------|:---:|
 |__Open Locks__   | 25% |
 |__Remove Traps__ | 20% |
 |__Pick Pockets__ | 30% |
@@ -446,8 +444,6 @@ _Level 3 Spy (Thief)_
 
 #####Skills
 
-|     Skill       |     |
-|:----------------|:---:|
 |__Open Locks__   | 25% |
 |__Remove Traps__ | 20% |
 |__Pick Pockets__ | 30% |
