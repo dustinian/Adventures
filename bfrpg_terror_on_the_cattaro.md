@@ -78,9 +78,12 @@ Familiarize yourself with the era, the ship, the crew, and the passengers to hel
 * __America:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
 * __South Africa:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
 
-###Cattaro
+###S.S. Cattaro
 
-* __Origin:__ [The Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel, owned by Memeler Schiffswerke, Lindenau &amp; Co. She's just a year old, completed in 1922.
+The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel.
+
+* __Owner:__ Memeler Schiffswerke, Lindenau &amp; Co.
+* __Age:__ Jst a year old, completed in 1922.
 * __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
 * __Propulsion:__ Coal-burning triple-expansion steam engine with one propeller.
 
@@ -105,6 +108,8 @@ The players' characters and the poachers are passengers, but there are additiona
 10 male, female, and last names for Germans, Americans, and South Africans that were popular in 1923.
 
 ####German Crew
+
+Germans aboard the _S.S. Cattaro_ are officers and crew.
 
 | d10  |   Male   |  Female  |   Last   |
 |:----:|:--------:|:--------:|:--------:|
@@ -188,19 +193,36 @@ Guenter Oosthiezen and several cronies are aboard the _Cattaro_ trying to smuggl
 
 ####Guenter Oosthiezen
 
-* __Summary:__ AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F2, Ml 12
+AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F4, Ml 10
+
+HP 23:
+:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+:white_medium_small_square::white_medium_small_square::white_medium_small_square:
+
+####Offense
+
+* _Initiative:_ +4
+* _Movement:_ 40-ft
+* _Rifle:_ +4, 1d8
+* _Fisticuffs:_ +4, 1d4+4
+
+####Defense
+
 * __Armor Class:__ 15
 * __Hit Die:__ 4
   * __Hit Points:__ 23
-* __Attacks:__
-  * _Rifle:_
-  * _Fisticuffs:_
-* __Movement:__
-* __Saving Throws:__
-* __Morale:__
+* __Save As:__ 4th-level Fighter
+  * _Death Ray or Poison:_ 11
+  * _Magic Wands:_ 11
+  * _Paralysis or Petrify:_ 13
+  * _Dragon Breath:_ 14
+  * _Spells:_ 15
+* __Morale:__ 10
 
 
-* HP 14 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
 
 ####Cronies
 
@@ -259,10 +281,10 @@ _Level 3 Wise Guy (Fighter)_
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
 | __STR__ |   18  |       +3        |Paralysis or Petrify     |          14         |
 | __INT__ |    8  |       -1        |Spells (Arcane, Illusion)|          16         |
-| __WIS__ |   11  |                 |Dragon Breath            |          15         |
+| __WIS__ |   11  |                 |Spells (Charm, Fear)     |          15         |
 | __DEX__ |   14  |       +1        |Magic Wands              |          12         |
 | __CON__ |   16  |       +2        |Death Ray or Poison      |          11         |
-| __CHA__ |   11  |                 |Spells (Charm, Fear)     |          16         |
+| __CHA__ |   11  |                 |Dragon Breath            |          16         |
 
 * __Ability Roll Target:__ 16
 
