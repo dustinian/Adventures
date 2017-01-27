@@ -213,7 +213,6 @@ HP 23:
 
 * __Armor Class:__ 15
 * __Hit Die:__ 4
-  * __Hit Points:__ 23
 * __Save As:__ 4th-level Fighter
   * _Death Ray or Poison:_ 11
   * _Magic Wands:_ 11
@@ -231,6 +230,25 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 10
 * HP 7 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square:
 * HP 3 :white_medium_small_square::white_medium_small_square::white_medium_small_square:
 * HP 5 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+
+####Offense
+
+* __Initiative:__ 1d6+1
+* __Movement:__ 30-ft
+* __Pistol:__ +1, 1d6
+* __Brawl:__ +1, 1d4
+
+####Defense
+
+* __Armor Class:__ 12
+* __Hit Die:__ 1
+* __Save As:__ 1st-level Fighter
+  * _Death Ray or Poison:_ 12
+  * _Magic Wands:_ 13
+  * _Paralysis or Petrify:_ 14
+  * _Dragon Breath:_ 15
+  * _Spells:_ 17
+* __Morale:__ 9
 
 ###Gorillas
 
