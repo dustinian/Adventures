@@ -61,7 +61,7 @@ It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chic
 Events leading to the adventure:
 
 * __January 2, 1923:__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
-* __January 30, 1923:__ In Capetown, South Africa, Guenter Oosthiezen and his cronies hear of the rich American's offer, and take the contract.
+* __January 30, 1923:__ In Capetown, South Africa, Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
 * __May 7, 1923:__ Guenter and his men finally capture several gorillas in the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
 * __May 22, 1923:__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
 * __Today, May 27, 1923:__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
@@ -303,7 +303,7 @@ Conclusion
 Are your players eager to continue the adventure?
 
 * __Gunter's Revenge:__ If Gunter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Gunter's family is well-connected. Gunter's experience on the _S.S. Cattaro_ and in varioud South Afican jails will level him up.
-* __Chicago Zoo:__ If your players found Gunter's telegram, you might prompt them to investigate the corruption at the Chicago Zoo that would lead to the Zoo paying for poached animals.
+* __Lincoln Park Zoo:__ If your players found Gunter's telegram, you might prompt them to investigate the corruption at Chicago's Lincoln Park Zoo that would lead to the Zoo paying for poached animals.
 * __Poaching:__ If your players are outraged by the poaching, you might send them back to South Africa to deal with poachers at the source.
 
 
