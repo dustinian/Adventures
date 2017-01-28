@@ -187,11 +187,11 @@ Adventure
 Villains
 --------
 
-###Poachers
+Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your players' characters.
 
-Guenter Oosthiezen and several cronies are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to the Chicago Zoo.
+###Guenter Oosthiezen
 
-####Guenter Oosthiezen
+Guenter Oosthiezen and several poachers are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to the Chicago Zoo. Guenter's a good shot with his rifle, and his father taught him how to box. He's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
 
 AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F4, Ml 10
 
@@ -205,9 +205,10 @@ HP 23:
 ####Offense
 
 * __Initiative:__ 1d6+4
-* __Movement:__ 40-ft
-* __Rifle:__ +4, 1d8
-* __Fisticuffs:__ +4, 1d4+4
+* __Movement:__ 30-ft
+* __Attacks:__ 1
+  * __Rifle:__ +4, 1d8
+  * __Fisticuffs:__ +4, 1d4+4
 
 ####Defense
 
@@ -223,9 +224,11 @@ HP 23:
 
 
 
-####Cronies
+###Poachers
 
-AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 10
+Guenter's men are his friends. They're not as skilled as Guenter, but they're loyal to him. They won't readily leave Guenter in a tight spot.
+
+AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
 
 * HP 7 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square:
 * HP 3 :white_medium_small_square::white_medium_small_square::white_medium_small_square:
@@ -235,8 +238,9 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 10
 
 * __Initiative:__ 1d6+1
 * __Movement:__ 30-ft
-* __Pistol:__ +1, 1d6
-* __Brawl:__ +1, 1d4
+* __Attacks:__ 1
+  * __Pistol:__ +1, 1d6
+  * __Brawl:__ +1, 1d4
 
 ####Defense
 
@@ -252,9 +256,7 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 10
 
 ###Gorillas
 
-3 Gorillas are nailed into a crate in the cargo hold. The crate is much too small for the gorillas, and they're each painfully muzzled. Panicked and enraged, the adventure begins when the three gorillas break free.
-
-####3 Gorillas
+Several gorillas are nailed into a crate in the cargo hold. The crate is much too small for the gorillas, and they're each painfully muzzled. Panicked and enraged, the adventure begins when the three gorillas break free.
 
 AC 14, HD4, #At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
 _Basic Fantasy Field Guid, p. 7_
@@ -263,15 +265,37 @@ _Basic Fantasy Field Guid, p. 7_
 * HP 16 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square:
 * HP 10 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
 
+####Offense
 
+* __Initiative:__ 1d6+4
+* __Movement:__ 40-ft
+* __Attacks:__ 2
+  * __Claw:__ +4, 1d8
+  * __Bite:__ +4, 1d6
+
+####Defense
+
+* __Armor Class:__ 14
+* __Hit Die:__ 4
+* __Save As:__ 4th-level Fighter
+  * _Death Ray or Poison:_ 11
+  * _Magic Wands:_ 11
+  * _Paralysis or Petrify:_ 13
+  * _Dragon Breath:_ 14
+  * _Spells:_ 15
+* __Morale:__ 9
 
 Conclusion
 ----------
 
 ###Experience
 
-* __Each Gorilla:__ Killed, 240 XP. Subdued and returned to the wild, 480 XP.
-* __Each Poacher:__ Killed, 25 XP. Captured and brought to justice, 50 XP.
+* __Each Gorilla:__
+  * Killed, 240 XP.
+  * Subdued and returned to the wild, 480 XP.
+* __Each Poacher:__
+  * Killed, 25 XP.
+  * Captured and brought to justice, 50 XP.
 * __Gunter Oosthiezen:__ Killed, 75 XP. Captured and brought to justice, 150 XP.
 
 ###Adventure Seeds
@@ -286,6 +310,10 @@ Are your players eager to continue the adventure?
 
 Protagonists
 ------------
+
+Your players may prefer to roll their own _Basic Fantasy Role-Playing Game_ characters, customizing them with rules from the _Cops &amp; Robbers_ supplement. But these characters are provided in case your players want to start playing immediately.
+
+Each of the protagonists below were generated with a "standard" spread of _Ability Scores_ from the world's most popular role-playing game: 18, 16, 14, 11, 11, 8.
 
 ###Americans
 
@@ -308,15 +336,15 @@ _Level 3 Wise Guy (Fighter)_
 
 #####Offense
 
-* __Initiative:__ d6+1
+* __Initiative:__ 1d6+1
 * __Revolver:__ +1, 1d6+1
-* __Billy Club:__ +5, 1d4+3
+* __Blackjack:__ +5, 1d4+3
 * __Unarmed:__ +5, 1d3+3 subduing
 
 #####Defense
 
 * __Armor Class:__ 14
-* __Hit Points:__ 13
+* __Hit Points:__ 20
 
 #####Equipment
 
@@ -349,12 +377,14 @@ _Level 3 Scientist (Magic User)_
 
 #####Offense
 
-* __Initiative:__ d6
+* __Initiative:__ 1d6
+* __Improvised:__ +1, 1d4
+* __Unarmed:__ +1, 1d3
 
 #####Defense
 
 * __Armor Class:__ 12
-* __Hit Points:__ 7
+* __Hit Points:__ 11
 
 #####Equipment
 
@@ -393,12 +423,15 @@ _Level 3 Burglar (Thief)_
 
 #####Offense
 
-* __Initiative Bonus:__ d6+3
+* __Initiative:__ 1d6+3
+* __Pistol:__ +3, 1d6
+* __Knife:__ +2, 1d4
+* __Unarmed:__ +2, 1d3
 
 #####Defense
 
 * __Armor Class:__ 15
-* __Hit Points:__ 7
+* __Hit Points:__ 11
 
 #####Equipment
 
@@ -431,13 +464,14 @@ _Level 3 Medic (Cleric)_
 
 #####Offense
 
-* __Initiative Penalty:__ d6-1
-* __Money:__ $100
+* __Initiative:__ 1d6-1
+* __Billy Club:__ +2, 1d6
+* __Unarmed:__ +2, 1d3
 
 #####Defense
 
 * __Armor Class:__ 12
-* __Hit Points:__ 11
+* __Hit Points:__ 17
 
 #####Equipment
 
@@ -476,13 +510,14 @@ _Level 3 Spy (Thief)_
 
 #####Offense
 
-* __Initiative Bonus:__ d6+2
-* __Money:__ $100
+* __Initiative:__ 1d6+2
+* __Pistol:__ +2, 1d6
+* __Dagger:__ +2, 1d4
 
 #####Defense
 
-* __Armor Class:__ 12
-* __Hit Points:__ 3
+* __Armor Class:__ 13
+* __Hit Points:__ 5
 
 #####Equipment
 
@@ -509,13 +544,15 @@ _Level 3 Hunter (Fighter)_
 
 #####Offense
 
-* __Initiative Bonus:__ d6+3
-* __Ability Roll Target:__ 16
+* __Initiative:__ 1d6+3
+* __Rifle:__ +3, 1d8
+* __Machete:__ +4, 1d6+2
+* __Unarmed:__ +4, 1d3+2
 
 #####Defense
 
 * __Armor Class:__ 15
-* __Hit Points:__ 11
+* __Hit Points:__ 17
 
 #####Equipment
 
