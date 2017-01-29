@@ -222,8 +222,6 @@ HP 23:
   * _Spells:_ 15
 * __Morale:__ 10
 
-
-
 ###Poachers
 
 Guenter's men are his friends. They're not as skilled as Guenter, but they're loyal to him. They won't readily leave Guenter in a tight spot.
@@ -285,28 +283,31 @@ _Basic Fantasy Field Guid, p. 7_
   * _Spells:_ 15
 * __Morale:__ 9
 
+
+
 Conclusion
 ----------
 
 ###Experience
 
-* __Each Gorilla:__
-  * _Killed_, 240 XP.
-  * _Subdued_ and returned to the wild, 480 XP.
-* __Each Poacher:__
-  * _Killed_, 25 XP.
-  * _Captured_ and brought to justice, 50 XP.
-* __Gunter Oosthiezen:__
-  * _Killed_, 75 XP.
-  * _Captured_ and brought to justice, 150 XP.
+|Villain           |Result                             |Experience|
+|:-----------------|:----------------------------------|---------:|
+|Guenter Oosthiezen|_Killed_.                          |__240 XP__|
+|                  |_Captured_ and brought to justice. |__480 XP__|
+|Each Poacher      |_Killed_.                          | __25 XP__|
+|                  |_Captured_ and brought to justice. | __50 XP__|
+|Each Gorilla      |_Killed_.                          |__240 XP__|
+|                  |_Subdued_ and returned to the wild.|__480 XP__|
+
+Assuming 3 poachers and 3 gorillas, this short adventure is worth between __1035__ and __2070 XP__.
 
 ###Adventure Seeds
 
 Are your players eager to continue the adventure?
 
-* __Gunter's Revenge:__ If Gunter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Gunter's family is well-connected. Gunter's experience on the _S.S. Cattaro_ and in varioud South Afican jails will level him up.
-* __Lincoln Park Zoo:__ If your players found Gunter's telegram, you might prompt them to investigate the corruption at Chicago's Lincoln Park Zoo that would lead to the Zoo paying for poached animals.
-* __Poaching:__ If your players are outraged by the poaching, you might send them back to South Africa to deal with poachers at the source.
+* __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the _S.S. Cattaro_ and in varioud South Afican jails will level him up.
+* __Lincoln Park Zoo:__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at Chicago's Lincoln Park Zoo that would lead to the Zoo paying for poached animals.
+* __Poaching:__ If your players are outraged by the poaching, you might send them back to Africa to deal with poachers at the source.
 
 
 

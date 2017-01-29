@@ -49,7 +49,7 @@ __Camouflage:__ Characters who wear camouflage or dark clothing should get a +2 
 
 __Higher-Level Play:__ Characters should add an extra point to Armor Class every 6 levels. These extra points would stand in for the +1, +2, and +3 magical armor a character might collect throughout his/her career. This will help offset increases in enemies' Hit Die (and therefore their Attack Bonuses).
 
-__Bullet-Proof Vests:__ Characters who decide to wear modern body armor into a combat situation will receive 1 Hit Die of additional hit points to be rolled and tracked by the Game Master. Once these hit points are gone, the armor is useless and must be replaced. Modern body armor does not increase a character's Armor Class.
+__Bullet-Proof Vests:__ Characters who decide to wear modern body armor into a combat situation will receive 1 Hit Die of additional hit points to be rolled and tracked by the Game Master. Once these hit points are gone, the armor is useless and must be replaced. Modern body armor does not affect a character's Armor Class.
 
 ##Firearms
 
@@ -112,7 +112,7 @@ Game Masters who distribute this supplement to their players can use this sectio
 ###Higher-Level Armor Class
 
 - [ ] Add one point every six levels.
-- [ ] Armor class is what it is.
+- [ ] Armor class is what it is; take cover a lot.
 
 ###Magic
 
