@@ -191,6 +191,8 @@ Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your p
 
 ###Guenter Oosthiezen
 
+>You see a big man levelling his rifle at you! He's wearing khaki shorts and an over-sized khaki shirt belted at the waist... an outfit that serves as a uniform for various military and constublary services throughoug colonized Africa... _He'll have training_, you realize grimly.
+
 Guenter Oosthiezen and several poachers are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to the Chicago Zoo. Guenter's a good shot with his rifle, and his father taught him how to box. He's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
 
 AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F4, Ml 10
