@@ -291,12 +291,14 @@ Conclusion
 ###Experience
 
 * __Each Gorilla:__
-  * Killed, 240 XP.
-  * Subdued and returned to the wild, 480 XP.
+  * _Killed_, 240 XP.
+  * _Subdued_ and returned to the wild, 480 XP.
 * __Each Poacher:__
-  * Killed, 25 XP.
-  * Captured and brought to justice, 50 XP.
-* __Gunter Oosthiezen:__ Killed, 75 XP. Captured and brought to justice, 150 XP.
+  * _Killed_, 25 XP.
+  * _Captured_ and brought to justice, 50 XP.
+* __Gunter Oosthiezen:__
+  * _Killed_, 75 XP.
+  * _Captured_ and brought to justice, 150 XP.
 
 ###Adventure Seeds
 
@@ -320,6 +322,8 @@ Each of the protagonists below were generated with a "standard" spread of _Abili
 ####Micky Henshaw
 
 _Level 3 Wise Guy (Fighter)_
+
+Strong, but simple; Micky solves his problems with his trusty blackjack.
 
 #####Abilities
 
@@ -355,6 +359,8 @@ _Level 3 Wise Guy (Fighter)_
 ####Dr. Patrick Cook
 
 _Level 3 Scientist (Magic User)_
+
+Smart, but unpopular; Patrick can think on his feet.
 
 #####Abilities
 
@@ -395,6 +401,8 @@ _Level 3 Scientist (Magic User)_
 ####Angel Thompson
 
 _Level 3 Burglar (Thief)_
+
+Nimble, but rash; Angel usually escapes the chaos she sows.
 
 #####Abilities
 
@@ -445,6 +453,8 @@ _Level 3 Burglar (Thief)_
 
 _Level 3 Medic (Cleric)_
 
+Wise, but clumsy; Albert would rather help an ally than face an enemy.
+
 #####Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
@@ -482,6 +492,8 @@ _Level 3 Medic (Cleric)_
 ####Tug Smit
 
 _Level 3 Spy (Thief)_
+
+Charming, but sickly; Tug talks first, shoots second, and always from cover.
 
 #####Abilities
 
@@ -529,6 +541,8 @@ _Level 3 Spy (Thief)_
 
 _Level 3 Hunter (Fighter)_
 
+Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
+
 #####Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
@@ -565,7 +579,7 @@ Open Game License
 
 ###Introduction
 
-The _Terror on the Cattaro_ is based on the _[Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)_, which is based on the _System Reference Document v3.5 ("SRD")_, both of which are Open Game Content.
+_Terror on the Cattaro_ is based on the _[Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)_, which is based on the _System Reference Document v3.5 ("SRD")_, both of which are Open Game Content.
 
 __Designation of Open Game Content:__ The entire text as well as all artwork, maps, and floor plans incorporated in _Terror on the Cattaro_ (except the Open Game License, as noted above, and the Product Identity License, below) is Open Game Content, released under the Open Game License, Version 1.0a (reproduced below) as described in Section 1(d) of the License.
 
@@ -603,4 +617,4 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 * _Open Game License v 1.0_, Copyright 2000, Wizards of the Coast, Inc.
 * _System Reference Document_, Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 * _Basic Fantasy Role-Playing Game_, Copyright 2006-2017 Chris Gonnerman.
-* _Terror on the Cattaro_, Copyright 2017 Dustinian Camburides
+* _Terror on the Cattaro_, Copyright 2016-2017 Dustinian Camburides
