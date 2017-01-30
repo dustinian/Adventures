@@ -193,7 +193,9 @@ Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your p
 
 >You see a big man levelling his rifle at you! He's wearing khaki shorts and an over-sized khaki shirt belted at the waist... an outfit that serves as a uniform for various military and constublary services throughoug colonized Africa... _He'll have training_, you realize grimly.
 
-Guenter Oosthiezen and several poachers are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to the Chicago Zoo. Guenter's a good shot with his rifle, and his father taught him how to box. He's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
+Guenter Oosthiezen and several poachers are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to the Chicago Zoo. Guenter's a good shot with his rifle, and his father taught him how to box. He's no pushover.
+
+Player's characters are rewarded for capturing&mdash;rather than killing&mdash;Guenter, but he's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
 
 AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F4, Ml 10
 
@@ -226,7 +228,11 @@ HP 23:
 
 ###Poachers
 
+>You saw these guys board the _Cattaro_ a few days ago, leaning on each other as they drunkenly stumbled onto the ship. But now they have pistols... you hope their marksmanship is as bad as their singing.
+
 Guenter's men are his friends. They're not as skilled as Guenter, but they're loyal to him. They won't readily leave Guenter in a tight spot.
+
+Player's characters are rewarded for capturing&mdash;rather than killing&mdash;the poachers.
 
 AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
 
@@ -256,7 +262,13 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
 
 ###Gorillas
 
-Several gorillas are nailed into a crate in the cargo hold. The crate is much too small for the gorillas, and they're each painfully muzzled. Panicked and enraged, the adventure begins when the three gorillas break free.
+>__Seen from a distance:__ It's hard to see the dark shape in the dark night, but you get a glimpse when it passes near a light... _My God,_ you think. But for the proportions, this could be a man! It moves upright, but also uses long, thickly-muscled arms to propel itself forward.
+>__Seen up close:__ _Gorilla_, you (realize/confirm). You've seen the illustrations; you've heard the stories, but now it's right in front of you, moving and snorting.
+>__Spots a player's character:__ It looks at you, and you're surprised to recognize emotion in its wild eyes. It's manic&mdash;terrified and enraged all at once. It bares its teeth and springs toward you...
+
+These gorillas have been captured, brutalized, starved, and nailed into a hot, dark, heavy crate for days. Terrified to the point of madness, these gorillas now see all mankind as an enemy to fight or flee. But aboard this strange, hollow, moving island, surrounded by water and heat and noise... there is nowhere to flee.
+
+Player's characters are rewarded for subduing&mdash;rather than killing&mdash;these gorillas, but subduing the enraged creatures in this strange environment will be no easy task...
 
 AC 14, HD4, #At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
 _Basic Fantasy Field Guid, p. 7_
