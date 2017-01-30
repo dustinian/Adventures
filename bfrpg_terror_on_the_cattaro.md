@@ -263,7 +263,9 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
 ###Gorillas
 
 >__Seen from a distance:__ It's hard to see the dark shape in the dark night, but you get a glimpse when it passes near a light... _My God,_ you think. But for the proportions, this could be a man! It moves upright, but also uses long, thickly-muscled arms to propel itself forward.
+
 >__Seen up close:__ _Gorilla_, you (realize/confirm). You've seen the illustrations; you've heard the stories, but now it's right in front of you, moving and snorting.
+
 >__Spots a player's character:__ It looks at you, and you're surprised to recognize emotion in its wild eyes. It's manic&mdash;terrified and enraged all at once. It bares its teeth and springs toward you...
 
 These gorillas have been captured, brutalized, starved, and nailed into a hot, dark, heavy crate for days. Terrified to the point of madness, these gorillas now see all mankind as an enemy to fight or flee. But aboard this strange, hollow, moving island, surrounded by water and heat and noise... there is nowhere to flee.
