@@ -591,6 +591,15 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 
 
 
+Props
+-----
+
+###Guenter's Wallet
+
+###Map of the _Cattaro_
+
+
+
 Open Game License
 -----------------
 
