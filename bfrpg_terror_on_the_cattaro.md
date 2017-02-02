@@ -80,7 +80,7 @@ Familiarize yourself with the era, the ship, the crew, and the passengers to hel
 
 ###S.S. Cattaro
 
-The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel.
+The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel. It's the only vessel leaving from South Africa this month that's headed directly for Chicago through the [St. Lawrence River](https://en.wikipedia.org/wiki/Saint_Lawrence_Seaway) and [Welland Canal](https://en.wikipedia.org/wiki/Welland_Canal).
 
 * __Owner:__ Memeler Schiffswerke, Lindenau &amp; Co.
 * __Age:__ Just a year old, completed in 1922.
@@ -171,6 +171,14 @@ Adventure
 ---------
 
 ###Start
+
+>It's 1923; you're aboard a ship&mdash;a cargo vessel, the _S.S. Cattaro_&mdash;bound for Chicago from South Africa.
+
+>Four days into the journey, you find yourself up on the main deck in the early evening, just after dinner. The warm, equatorial breeze has made the night a heavy, sticky one. But it's bright; the moon is nearly full. And as unsettling as it can be to look around and see nothing but water... it's even more unsettling to be cramped below decks.
+
+>If this is your first time buying passage on a cargo vessel, you're probably surprised at the crew. They're not at all like the crisp, helpful crew of a passenger liner. No, they're relaxed, almost lethargic. They worked hard to load the ship back in South Africa, and they'll work hard to unload the ship in Chicago. But the voyage itself is almost a break.
+
+>You startle! A scream! Above you! Up on the officers' deck!
 
 ###Main Deck
 
