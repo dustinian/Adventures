@@ -85,7 +85,7 @@ The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German
 * __Owner:__ Memeler Schiffswerke, Lindenau &amp; Co.
 * __Age:__ Just a year old, completed in 1922.
 * __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
-* __Propulsion:__ Coal-burning triple-expansion steam engine with one propeller.
+* __Propulsion:__ Coal-burning, [triple-expansion steam engine](https://en.wikipedia.org/wiki/Marine_steam_engine) with one propeller.
 
 ###Crew
 
@@ -178,7 +178,11 @@ Adventure
 
 >If this is your first time buying passage on a cargo vessel, you're probably surprised at the crew. They're not at all like the crisp, helpful crew of a passenger liner. No, they're relaxed, almost lethargic. They worked hard to load the ship back in South Africa, and they'll work hard to unload the ship in Chicago. But the voyage itself is almost a break.
 
->You startle! A scream! Above you! Up on the officers' deck!
+>You startle! A scream! Above you! Up on the officers' deck! You crane your neck... people on the Officers' deck are shuffling and jostling.
+
+Let characters with a _Wisdom_ bonus (+1 or higher) to make an _Ability Roll_ to see extra details.
+
+>__Succeed:__ You look up further... What's that? You see a dark figure on top of the bridge. It backs away from the ledge and you lose it...
 
 ###Main Deck
 
