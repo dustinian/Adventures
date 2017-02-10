@@ -17,30 +17,36 @@ Contents
 * Game Master Information
   * Summary
   * Timeline
-* Background
-  * 1923
-  * Cattaro
-  * Crew
-  * Passengers
-  * Popular Names
-* Antagonists
-  * Poachers
-  * Gorillas
-* Adventure
-  * Start
+* Getting Started
+  * Introductions
+  * Luggage
+  * Adventure Begins!
+* Locations
   * Main Deck
   * Officer Deck / Bridge
   * Passenger Cabins
   * Crew Berths
   * Engines
   * Cargo Hold
+* Antagonists
+  * Poachers
+  * Gorillas
 * Conclusion
   * Experience
   * Adventure Seeds
+* Background
+  * 1923
+  * Cattaro
+  * Crew
+  * Passengers
+  * Popular Names
 * Protagonists
   * Americans
   * South Africans
 * Props
+  * Guenter's Wallet
+  * Manifest
+  * Map of the _Cattaro_
 * Open Game License
 
 
@@ -52,13 +58,13 @@ Read before running _Terror on the Cattaro_!
 
 ###Summary
 
-_Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Licoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
+_Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
 
 It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escape from the cargo hold,  kill a passenger, and throw the ship's passengers and crew into a panic.
 
 ###Timeline
 
-Events leading to the adventure:
+In the months and days before the adventure...
 
 * __January 2, 1923:__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
 * __January 30, 1923:__ In Capetown, South Africa, Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
@@ -66,108 +72,37 @@ Events leading to the adventure:
 * __May 22, 1923:__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
 * __Today, May 27, 1923:__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
 
+In the minutes before the adventure, the gorillas...
 
+* __19:23 GMT:__ Break free of their wood shipping crate in the _Hold_.
+* __19:26 GMT:__ Kill a hapless crewman that startled them as they explored the _Hold_.
+* __19:38 GMT:__ Climb out of a small hatch at the top of the _Hold_, finding themselves topside on the _Main Deck_. They remain hidden in the shaddows, terrified of the people they see milling about.
+* __19:40 GMT:__ Scale the railing, desperate to get to the "top" of the _Cattaro_.
+* __19:41 GMT:__ Kill a passenger who spots them on the _Officer's Deck_.
+* __19:42 GMT:__ Scatter after another passenger, who saw the attack from 20-ft away, screams: "It killed [him/her]!"
 
-Background
-----------
+This is when the adventure begins.
 
-Familiarize yourself with the era, the ship, the crew, and the passengers to help you improvise at the table!
+As the adventure progresses, assuming the players' characters don't interfere, the poachers...
 
-###1923
+* __19:43 GMT:__ Realize what must have happened, and head back to their _Cabin_ for their weapons.
+* __19:48 GMT:__ Guenter and his men begin stalking through the ship
 
-* __America:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
-* __South Africa:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
-
-###S.S. Cattaro
-
-The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel. It's the only vessel leaving from South Africa this month that's headed directly for Chicago through the [St. Lawrence River](https://en.wikipedia.org/wiki/Saint_Lawrence_Seaway) and [Welland Canal](https://en.wikipedia.org/wiki/Welland_Canal).
-
-* __Owner:__ Memeler Schiffswerke, Lindenau &amp; Co.
-* __Age:__ Just a year old, completed in 1922.
-* __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
-* __Propulsion:__ Coal-burning, [triple-expansion steam engine](https://en.wikipedia.org/wiki/Marine_steam_engine) with one propeller.
-
-###Crew
-
-Tips for role-playing the crew:
-
-* __Language:__ Most of the German crew speak English, but all can understand Afrikaans (a dialect of Dutch not yet recognized as its own language) with some difficulty.
-* __Politics:__ Keep in mind that the 1920s were a boom for almost everyone _but_ the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
-* __Individual Officers/Crew:__ You might use characters from a favorite book, movie, or TV show to stand in for the ship's crew. For example, give the cast of _The Office_ new names and German accents, and use them as a hapless crew that need all the help they can get.
-
-###Passengers
-
-The players' characters and the poachers are passengers, but there are additional passengers. Tips for role-playing passengers:
-
-* __Common:__ Passengers were common on cargo vessels: Captains were encouraged to squeeze value out of every leg of every trip, so they made sure they sould every square foot of cargo space... and every bed, bunk, and berth. This is before personal lawsuits forced companies to limit liability.
-* __Few:__ But "common" does not mean "plentiful." There simply aren't that many bunks on a cargo vessel. Between the players' characters... there may be a dozen other passengers.
-* __Individual Passengers:__ Again, use small groups of characters from a favorite book, movie, or TV show to stand in for the passengers travelling together. Be sure to pull passengers from several sources... a few from this book... a few from that show.
-
-###Popular Names
-
-10 male, female, and last names for Germans, Americans, and South Africans that were popular in 1923.
-
-####German Crew
-
-Germans aboard the _S.S. Cattaro_ are officers and crew.
-
-| d10  |   Male   |  Female  |   Last   |
-|:----:|:--------:|:--------:|:--------:|
-|__1__ | Hans     | Ursula   | Schmidt  |
-|__2__ | Karl     | Ilse     | Fischer  |
-|__3__ | Werner   | Hildegard| Weber    |
-|__4__ | Gerhard  | Gerda    | Meyer    |
-|__5__ | Wilhelm  | Ingeborg | Wagner   |
-|__6__ | Curt     | Irmgard  | Schulz   |
-|__7__ | Helmut   | Helga    | Hoffman  |
-|__8__ | Ernst    | Gertrud  | Schaefer |
-|__9__ | Rudolf   | Liselotte| Richter  |
-|__10__| Otto     | Erika    | Klein    |
-
-####American Passengers
-
-Americans aboard the _S.S. Cattaro_ are probably returning home from a:
-
-* Safari vacation.
-* Scientific expedition.
-* Smuggling trip.
-
-| d10  |   Male   |  Female  |   Last   |
-|:----:|:--------:|:--------:|:--------:|
-|__1__ | John     | Mary     | Smith    |
-|__2__ | William  | Anna     | Johnson  |
-|__3__ | James    | Margaret | Williams |
-|__4__ | George   | Helen    | Jones    |
-|__5__ | Charles  | Elizabeth| Brown    |
-|__6__ | Joseph   | Ruth     | David    |
-|__7__ | Frank    | Florence | Miller   |
-|__8__ | Robert   | Ethel    | Wilson   |
-|__9__ | Edward   | Emma     | Moore    |
-|__10__| Henry    | Marie    | Taylor   |
-
-####South African Passengers
-
-South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
-
-* Attend a profesional/academic event.
-* Purchase manufactured goods sans tariffs.
-
-| d10  |   Male   |  Female  |   Last   |
-|:----:|:--------:|:--------:|:--------:|
-|__1__ | Daan     | Lotte    | Naidoo   |
-|__2__ | Sem      | Isa      | Govender |
-|__3__ | Bram     | Lieke    | Botha    |
-|__4__ | Levi     | Eva      | Pillay   |
-|__5__ | Luuk     | Sanne    | Muller   |
-|__6__ | Lucas    | Femke    | Pretorius|
-|__7__ | Liam     | Esmee    | Fourie   |
-|__8__ | Stijn    | Nina     | Venter   |
-|__9__ | Finn     | Britt    | Nel      |
-|__10__| Ruben    | Lana     | Moodley  |
+As the adventure progresses, assuming the players' characters don't interfere, the gorillas...
 
 
 
-Adventure
+Getting Started
+---------------
+
+###Introductions
+
+###Luggage
+
+###Adventure Begins
+
+
+Locations
 ---------
 
 ###Start
@@ -178,26 +113,30 @@ Adventure
 
 >If this is your first time buying passage on a cargo vessel, you're probably surprised at the crew. They're not at all like the crisp, helpful crew of a passenger liner. No, they're relaxed, almost lethargic. They worked hard to load the ship back in South Africa, and they'll work hard to unload the ship in Chicago. But the voyage itself is almost a break.
 
->You startle! A scream! Above you! Up on the officers' deck! You crane your neck... people on the Officers' deck are shuffling and jostling.
+>You startle! A scream! Above you! Up on the _Officers' Deck_! You crane your neck... people on the _Officers' Deck_ are shuffling and jostling.
 
 Let characters with a _Wisdom_ bonus (+1 or higher) to make an _Ability Roll_ to see extra details.
 
->__Succeed:__ You look up further... What's that? You see a dark figure on top of the bridge. It backs away from the ledge and you lose it...
+>__Success:__ You look up further... What's that? You see a dark figure on top of the bridge. It backs away from the ledge and you lose it...
 
 ###Main Deck
 
-###Officer Deck / Bridge
+###Officer's Deck
 
-###Passenger Deck
+###Bridge
+
+###Cabins
+
+###Berths
 
 ###Engines
 
-###Cargo Hold
+###Hold
 
 
 
-Villains
---------
+Antagonists
+-----------
 
 Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your players' characters.
 
@@ -336,6 +275,105 @@ Are your players eager to continue the adventure?
 * __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the _S.S. Cattaro_ and in varioud South Afican jails will level him up.
 * __Lincoln Park Zoo:__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at Chicago's Lincoln Park Zoo that would lead to the Zoo paying for poached animals.
 * __Poaching:__ If your players are outraged by the poaching, you might send them back to Africa to deal with poachers at the source.
+
+
+
+Background
+----------
+
+Familiarize yourself with the era, the ship, the crew, and the passengers to help you improvise at the table!
+
+###1923
+
+* __America:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
+* __South Africa:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
+
+###S.S. Cattaro
+
+The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel. It's the only vessel leaving from South Africa this month that's headed directly for Chicago through the [St. Lawrence River](https://en.wikipedia.org/wiki/Saint_Lawrence_Seaway) and [Welland Canal](https://en.wikipedia.org/wiki/Welland_Canal).
+
+* __Owner:__ Memeler Schiffswerke, Lindenau &amp; Co.
+* __Age:__ Just a year old, completed in 1922.
+* __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
+* __Propulsion:__ Coal-burning, [triple-expansion steam engine](https://en.wikipedia.org/wiki/Marine_steam_engine) with one propeller.
+
+###Crew
+
+Tips for role-playing the crew:
+
+* __Language:__ Most of the German crew speak English, but all can understand Afrikaans (a dialect of Dutch not yet recognized as its own language) with some difficulty.
+* __Politics:__ Keep in mind that the 1920s were a boom for almost everyone _but_ the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
+* __Individual Officers/Crew:__ You might use characters from a favorite book, movie, or TV show to stand in for the ship's crew. For example, give the cast of _The Office_ new names and German accents, and use them as a hapless crew that need all the help they can get.
+
+###Passengers
+
+The players' characters and the poachers are passengers, but there are additional passengers. Tips for role-playing passengers:
+
+* __Common:__ Passengers were common on cargo vessels: Captains were encouraged to squeeze value out of every leg of every trip, so they made sure they sould every square foot of cargo space... and every bed, bunk, and berth. This is before personal lawsuits forced companies to limit liability.
+* __Few:__ But "common" does not mean "plentiful." There simply aren't that many bunks on a cargo vessel. Between the players' characters... there may be a dozen other passengers.
+* __Individual Passengers:__ Again, use small groups of characters from a favorite book, movie, or TV show to stand in for the passengers travelling together. Be sure to pull passengers from several sources... a few from this book... a few from that show.
+
+###Popular Names
+
+10 male, female, and last names for Germans, Americans, and South Africans that were popular in 1923.
+
+####German Crew
+
+Germans aboard the _S.S. Cattaro_ are officers and crew.
+
+| d10  |   Male   |  Female  |   Last   |
+|:----:|:--------:|:--------:|:--------:|
+|__1__ | Hans     | Ursula   | Schmidt  |
+|__2__ | Karl     | Ilse     | Fischer  |
+|__3__ | Werner   | Hildegard| Weber    |
+|__4__ | Gerhard  | Gerda    | Meyer    |
+|__5__ | Wilhelm  | Ingeborg | Wagner   |
+|__6__ | Curt     | Irmgard  | Schulz   |
+|__7__ | Helmut   | Helga    | Hoffman  |
+|__8__ | Ernst    | Gertrud  | Schaefer |
+|__9__ | Rudolf   | Liselotte| Richter  |
+|__10__| Otto     | Erika    | Klein    |
+
+####American Passengers
+
+Americans aboard the _S.S. Cattaro_ are probably returning home from a:
+
+* Safari vacation.
+* Scientific expedition.
+* Smuggling trip.
+
+| d10  |   Male   |  Female  |   Last   |
+|:----:|:--------:|:--------:|:--------:|
+|__1__ | John     | Mary     | Smith    |
+|__2__ | William  | Anna     | Johnson  |
+|__3__ | James    | Margaret | Williams |
+|__4__ | George   | Helen    | Jones    |
+|__5__ | Charles  | Elizabeth| Brown    |
+|__6__ | Joseph   | Ruth     | David    |
+|__7__ | Frank    | Florence | Miller   |
+|__8__ | Robert   | Ethel    | Wilson   |
+|__9__ | Edward   | Emma     | Moore    |
+|__10__| Henry    | Marie    | Taylor   |
+
+####South African Passengers
+
+South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
+
+* Attend a profesional/academic event.
+* Purchase manufactured goods sans tariffs.
+
+| d10  |   Male   |  Female  |   Last   |
+|:----:|:--------:|:--------:|:--------:|
+|__1__ | Daan     | Lotte    | Naidoo   |
+|__2__ | Sem      | Isa      | Govender |
+|__3__ | Bram     | Lieke    | Botha    |
+|__4__ | Levi     | Eva      | Pillay   |
+|__5__ | Luuk     | Sanne    | Muller   |
+|__6__ | Lucas    | Femke    | Pretorius|
+|__7__ | Liam     | Esmee    | Fourie   |
+|__8__ | Stijn    | Nina     | Venter   |
+|__9__ | Finn     | Britt    | Nel      |
+|__10__| Ruben    | Lana     | Moodley  |
 
 
 
@@ -608,7 +646,10 @@ Props
 
 ###Guenter's Wallet
 
+###Manifest
+
 ###Map of the _Cattaro_
+
 
 
 
