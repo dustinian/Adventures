@@ -23,11 +23,11 @@ Contents
   * Adventure Begins!
 * Locations
   * Main Deck
-  * Officer Deck / Bridge
-  * Passenger Cabins
-  * Crew Berths
-  * Engines
-  * Cargo Hold
+  * Officers' Deck
+  * Bridge
+  * Cabins
+  * Engine Room
+  * Hold
 * Antagonists
   * Poachers
   * Gorillas
@@ -64,7 +64,7 @@ It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chic
 
 ###Timeline
 
-In the months and days before the adventure...
+In the __months and days__ before the adventure...
 
 * __January 2, 1923:__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
 * __January 30, 1923:__ In Capetown, South Africa, Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
@@ -72,7 +72,7 @@ In the months and days before the adventure...
 * __May 22, 1923:__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
 * __Today, May 27, 1923:__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
 
-In the minutes before the adventure, the gorillas...
+In the __minutes__ before the adventure, the __gorillas__...
 
 * __19:23 GMT:__ Break free of their wood shipping crate in the _Hold_.
 * __19:26 GMT:__ Kill a hapless crewman that startled them as they explored the _Hold_.
@@ -81,14 +81,27 @@ In the minutes before the adventure, the gorillas...
 * __19:41 GMT:__ Kill a passenger who spots them on the _Officer's Deck_.
 * __19:42 GMT:__ Scatter after another passenger, who saw the attack from 20-ft away, screams: "It killed [him/her]!"
 
-This is when the adventure begins.
+This is when the __adventure begins__. The timeline below describes what will happen __if the players' characters do not interfere__. These events __should be changed__ as the poachers and gorillas __react to the players' characters' actions__.
 
-As the adventure progresses, assuming the players' characters don't interfere, the poachers...
+As the adventure progresses, __Guenter__...
 
-* __19:43 GMT:__ Realize what must have happened, and head back to their _Cabin_ for their weapons.
-* __19:48 GMT:__ Guenter and his men begin stalking through the ship
+* __19:42 GMT:__ Orders his men to search the ship for the escaped gorillas.
+* __19:43 GMT:__ Joins the crowd on the _Officers' Deck_ to see how the crew will react.
+* __19:45 GMT:__ Observes the captain's interaction with the players' characters.
+* __19:48 GMT:__ Retrieves his own weapons from his _Cabin_.
+* __19:55 GMT:__ Takes the Captain hostage on the _Bridge_.
+* __20:00 GMT:__ Attempts to bribe the Captain into letting them recapture the gorillas without incident.
+* __20:02 GMT:__ Hears gunshots from the main deck and curses the incompetence of his men for killing a valuable gorilla.
+* __20:17 GMT:__ Hears gunshots from just outside the _Bridge_ and bursts outside to yell at his men that they'd better take the last gorilla alive.
 
-As the adventure progresses, assuming the players' characters don't interfere, the gorillas...
+As the adventure progresses, the __poachers__...
+
+* __19:43 GMT:__ Head back to their _Cabin_ for their weapons.
+* __19:48 GMT:__ Begin searching the ship.
+* __20:02 GMT:__ Shoot and kill a gorilla that's climbed the fore jib on the _Main Deck_.
+* __20:17 GMT:__ Shoot and kill a gorilla that's climbed on top of the _Bridge_.
+* __20:31 GMT:__ Subdue a gorilla that's cornered in the _Engine Room_.
+* __20:40 GMT:__ Nail the last gorilla back into a crate in the _Hold_.
 
 
 
@@ -127,9 +140,7 @@ Let characters with a _Wisdom_ bonus (+1 or higher) to make an _Ability Roll_ to
 
 ###Cabins
 
-###Berths
-
-###Engines
+###Engine Room
 
 ###Hold
 
