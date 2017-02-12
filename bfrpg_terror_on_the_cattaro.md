@@ -99,11 +99,15 @@ As the adventure progresses, the __poachers__...
 * __19:43 GMT:__ Head back to their _Cabin_ for their weapons.
 * __19:48 GMT:__ Begin searching the ship.
 * __20:02 GMT:__ Shoot and kill a gorilla that's climbed the fore jib on the _Main Deck_.
+* __20:09 GMT:__ Encounter and threaten crewman who are also sweeping the ship.
 * __20:17 GMT:__ Shoot and kill a gorilla that's climbed on top of the _Bridge_.
 * __20:31 GMT:__ Subdue a gorilla that's cornered in the _Engine Room_.
 * __20:40 GMT:__ Nail the last gorilla back into a crate in the _Hold_.
 
+As the adventure progresses, the __crew__...
 
+* __19:43 GMT:__ Begin herding passengers and non-essential crew to their cabins.
+* __19:47 GMT:__ Begin sweeping the ship, armed only with flashlights and improvised weapons (pipes, wrenches).
 
 Getting Started
 ---------------
