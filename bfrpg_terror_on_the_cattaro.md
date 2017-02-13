@@ -64,7 +64,9 @@ It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chic
 
 ###Timeline
 
-In the __months and days__ before the adventure...
+Do __not__ obey the following timeline precicely... or at all, if you don't care to. Read through the below once or twice to give yourself a rough idea for how the _Non-Player Characters_ will behave during the adventure. 
+
+####Months and days before...
 
 * __January 2, 1923:__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
 * __January 30, 1923:__ In Capetown, South Africa, Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
@@ -72,7 +74,11 @@ In the __months and days__ before the adventure...
 * __May 22, 1923:__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
 * __Today, May 27, 1923:__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
 
-In the __minutes__ before the adventure, the __gorillas__...
+####Minutes before...
+
+While the players' characters are having dinner in the _Galley_, relaxing in their _Cabins_, or enjoying the night air on the _Main Deck_...
+
+#####Gorillas...
 
 * __19:23 GMT:__ Break free of their wood shipping crate in the _Hold_.
 * __19:26 GMT:__ Kill a hapless crewman that startled them as they explored the _Hold_.
@@ -81,9 +87,11 @@ In the __minutes__ before the adventure, the __gorillas__...
 * __19:41 GMT:__ Kill a passenger who spots them on the _Officer's Deck_.
 * __19:42 GMT:__ Scatter after another passenger, who saw the attack from 20-ft away, screams: "It killed [him/her]!"
 
-This is when the __adventure begins__. The timeline below describes what will happen __if the players' characters do not interfere__. These events __should be changed__ as the poachers and gorillas __react to the players' characters' actions__.
+####During the adventure...
 
-As the adventure progresses, __Guenter__...
+The adventure has begun. If the players' characters __do not interfere__, Guenter, the poachers, and the crew take the following actions. These actions __should change__ as the poachers and gorillas __react__ to the players' characters' actions. If your group refuses to engage with the initial hook, the murder on the _Officers' Deck__, you might have them witness or participate in one or more of the actions below.
+
+#####Guenter...
 
 * __19:42 GMT:__ Orders his men to search the ship for the escaped gorillas.
 * __19:43 GMT:__ Joins the crowd on the _Officers' Deck_ to see how the crew will react.
@@ -94,7 +102,7 @@ As the adventure progresses, __Guenter__...
 * __20:02 GMT:__ Hears gunshots from the main deck and curses the incompetence of his men for killing a valuable gorilla.
 * __20:17 GMT:__ Hears gunshots from just outside the _Bridge_ and bursts outside to yell at his men that they'd better take the last gorilla alive.
 
-As the adventure progresses, the __poachers__...
+#####Poachers...
 
 * __19:43 GMT:__ Head back to their _Cabin_ for their weapons.
 * __19:48 GMT:__ Begin searching the ship.
@@ -104,25 +112,39 @@ As the adventure progresses, the __poachers__...
 * __20:31 GMT:__ Subdue a gorilla that's cornered in the _Engine Room_.
 * __20:40 GMT:__ Nail the last gorilla back into a crate in the _Hold_.
 
-As the adventure progresses, the __crew__...
+#####Crew
 
-* __19:43 GMT:__ Begin herding passengers and non-essential crew to their cabins.
+* __19:43 GMT:__ Begin herding passengers and non-essential crew to their _Cabins_.
 * __19:47 GMT:__ Begin sweeping the ship, armed only with flashlights and improvised weapons (pipes, wrenches).
+* __20:02 GMT:__ Investigate gunshots on the _Main Deck_.
+* __20:04 GMT:__ Spot armed poachers and watch them while hiding.
+* __20:09 GMT:__ Confront poachers, ultimately relenting.
+* __20:10 GMT:__ Return to cabins to guard other crew and passengers while poachers continue to search ship.
+
+
 
 Getting Started
 ---------------
 
+Suggestions for starting your session...
+
 ###Introductions
+
+Ask the players to introduce their characters. Decide whether they know each other before the adventure, or if they'll meet as the adventure progresses.
 
 ###Luggage
 
+Ask the players to describe the possessions their characters would have:
+
+* On them at all times
+* Packed away in their _Cabin_
+* Stowed in the _Hold_
+
+###Money
+
+There's no opportunity to make any purchases during _Terror on the Cattaro_, but your players might want to know how much ready money they have for bribes and such. When they ask about money, have them roll one d6 plus another d6 for every _Wisdom_ point above 10. Multiply by this by 10 for their starting money in US Dollars.
+
 ###Adventure Begins
-
-
-Locations
----------
-
-###Start
 
 >It's 1923; you're aboard a ship&mdash;a cargo vessel, the _S.S. Cattaro_&mdash;bound for Chicago from South Africa.
 
@@ -136,17 +158,49 @@ Let characters with a _Wisdom_ bonus (+1 or higher) to make an _Ability Roll_ to
 
 >__Success:__ You look up further... What's that? You see a dark figure on top of the bridge. It backs away from the ledge and you lose it...
 
-###Main Deck
 
-###Officer's Deck
+
+Locations
+---------
+
+Descriptions of the _Cattaro_.
+
+__None of the descriptions below mention the antagonists__ (Guenter, the poachers, or the gorillas). You should decide where the players' characters will encounter the antagonists based on:
+
+* What the antagonists are doing
+* How much time has lapsed
+* How they're reacting to the players' characters actions
+
+If you can't decide, you might to roll an antagonists' location (provided roughly top to bottom, fore to aft)...
+
+| d8 |   Location    |
+|---:|:--------------|
+| 1  |Bridge         |
+| 2  |Officers' Deck |
+| 3  |Main Deck, Fore|
+| 4  |Main Deck, Aft |
+| 5  |Galley         |
+| 6  |Cabins         |
+| 7  |Hold           |
+| 8  |Engine Room    |
 
 ###Bridge
 
+###Officers' Deck
+
+###Main Deck
+
+####Fore
+
+####Aft
+
+###Galley
+
 ###Cabins
 
-###Engine Room
-
 ###Hold
+
+###Engine Room
 
 
 
@@ -712,3 +766,4 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 * _System Reference Document_, Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 * _Basic Fantasy Role-Playing Game_, Copyright 2006-2017 Chris Gonnerman.
 * _Terror on the Cattaro_, Copyright 2016-2017 Dustinian Camburides
+
