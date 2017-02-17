@@ -14,20 +14,22 @@ Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfant
 Contents
 --------
 
-* Game Master Information
-  * Summary
-  * Timeline
+* Summary
+* Timeline
+  * Before
+  * During
 * Getting Started
   * Introductions
   * Luggage
   * Adventure Begins!
 * Locations
-  * Main Deck
-  * Officers' Deck
   * Bridge
+  * Officers' Deck
+  * Main Deck
+  * Galley
   * Cabins
-  * Engine Room
   * Hold
+  * Engine Room
 * Antagonists
   * Poachers
   * Gorillas
@@ -51,34 +53,31 @@ Contents
 
 
 
-Game Master Information
------------------------
-
-Read before running _Terror on the Cattaro_!
-
-###Summary
+Summary
+-------
 
 _Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
 
-It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chicago, IL from Durban, South Africa. Four days into the six-day trans-Atlantic journey, poached gorillas escape from the cargo hold,  kill a passenger, and throw the ship's passengers and crew into a panic.
+It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, poached gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
 
-###Timeline
 
-Do __not__ obey the following timeline precicely... or at all, if you don't care to. Read through the below once or twice to give yourself a rough idea for how the _Non-Player Characters_ will behave during the adventure. 
 
-####Months and days before...
+Timeline
+--------
 
-* __January 2, 1923:__ An overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas delivered before the fourth of July... no questions asked.
-* __January 30, 1923:__ In Capetown, South Africa, Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
-* __May 7, 1923:__ Guenter and his men finally capture several gorillas in the [Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo).
-* __May 22, 1923:__  In Durban, South Africa, Guenter and his men load the gorillas into a wooden crate and onto the _S.S. Cattaro_, purposefully mis-labelling them as goats to avoid exotic animal taxes, tariffs, and prohibitions.
-* __Today, May 27, 1923:__ Four days into the trans-Atlantic journey, the terrified, malnourished gorillas escape...
+Outlines how the _Non-Player Characters_ will behave during the adventure. Do __not__ obey the following timeline if you don't care to.
 
-####Minutes before...
+###Before
 
-While the players' characters are having dinner in the _Galley_, relaxing in their _Cabins_, or enjoying the night air on the _Main Deck_...
+In the months and days before the adventure...
 
-#####Gorillas...
+* __1923 JAN 02:__ _Chicago, United States_. Overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas... no questions asked.
+* __1923 FEB 18:__ _Capetown, South Africa_. Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
+* __1923 MAY 07:__ _[Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo)_. Guenter and his men finally capture several gorillas.
+* __1923 MAY 22:__  _Durban, South Africa_. They smuggle the gorillas aboard the _S.S. Cattaro_, purposefully mis-labelling the crate as goats.
+* __1923 MAY 27:__ _S.S. Cattaro_. The terrified, malnourished gorillas escape...
+
+While the players' characters are having dinner in the _Galley_, relaxing in their _Cabins_, or enjoying the night air on the _Main Deck_, the __Gorillas__...
 
 * __19:23 GMT:__ Break free of their wood shipping crate in the _Hold_.
 * __19:26 GMT:__ Kill a hapless crewman that startled them as they explored the _Hold_.
@@ -87,11 +86,11 @@ While the players' characters are having dinner in the _Galley_, relaxing in the
 * __19:41 GMT:__ Kill a passenger who spots them on the _Officer's Deck_.
 * __19:42 GMT:__ Scatter after another passenger, who saw the attack from 20-ft away, screams: "It killed [him/her]!"
 
-####During the adventure...
+###During
 
 The adventure has begun. If the players' characters __do not interfere__, Guenter, the poachers, and the crew take the following actions. These actions __should change__ as the poachers and gorillas __react__ to the players' characters' actions. If your group refuses to engage with the initial hook, the murder on the _Officers' Deck__, you might have them witness or participate in one or more of the actions below.
 
-#####Guenter...
+####Guenter...
 
 * __19:42 GMT:__ Orders his men to search the ship for the escaped gorillas.
 * __19:43 GMT:__ Joins the crowd on the _Officers' Deck_ to see how the crew will react.
@@ -102,7 +101,7 @@ The adventure has begun. If the players' characters __do not interfere__, Guente
 * __20:02 GMT:__ Hears gunshots from the main deck and curses the incompetence of his men for killing a valuable gorilla.
 * __20:17 GMT:__ Hears gunshots from just outside the _Bridge_ and bursts outside to yell at his men that they'd better take the last gorilla alive.
 
-#####Poachers...
+####Poachers...
 
 * __19:43 GMT:__ Head back to their _Cabin_ for their weapons.
 * __19:48 GMT:__ Begin searching the ship.
@@ -112,7 +111,7 @@ The adventure has begun. If the players' characters __do not interfere__, Guente
 * __20:31 GMT:__ Subdue a gorilla that's cornered in the _Engine Room_.
 * __20:40 GMT:__ Nail the last gorilla back into a crate in the _Hold_.
 
-#####Crew
+####Crew
 
 * __19:43 GMT:__ Begin herding passengers and non-essential crew to their _Cabins_.
 * __19:47 GMT:__ Begin sweeping the ship, armed only with flashlights and improvised weapons (pipes, wrenches).
@@ -136,9 +135,9 @@ Ask the players to introduce their characters. Decide whether they know each oth
 
 Ask the players to describe the possessions their characters would have:
 
-* On them at all times
-* Packed away in their _Cabin_
-* Stowed in the _Hold_
+* On them at all times.
+* Packed away in their _Cabin_.
+* Stowed in the _Hold_.
 
 ###Money
 
@@ -163,15 +162,15 @@ Let characters with a _Wisdom_ bonus (+1 or higher) to make an _Ability Roll_ to
 Locations
 ---------
 
-Descriptions of the _Cattaro_.
+Descriptions of the _Cattaro_...
 
 __None of the descriptions below mention the antagonists__ (Guenter, the poachers, or the gorillas). You should decide where the players' characters will encounter the antagonists based on:
 
-* What the antagonists are doing
-* How much time has lapsed
-* How they're reacting to the players' characters actions
+* What the antagonists are doing...
+* How much time has lapsed...
+* How they're reacting to the players' characters actions...
 
-If you can't decide, you might to roll an antagonists' location (provided roughly top to bottom, fore to aft)...
+If you can't decide, you might roll antagonists' locations (listed top to bottom, fore to aft)...
 
 | d8 |   Location    |
 |---:|:--------------|
@@ -213,7 +212,7 @@ Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your p
 
 >You see a big man levelling his rifle at you! He's wearing khaki shorts and an over-sized khaki shirt belted at the waist... an outfit that serves as a uniform for various military and constublary services throughoug colonized Africa... _He'll have training_, you realize grimly.
 
-Guenter Oosthiezen and several poachers are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to the Chicago Zoo. Guenter's a good shot with his rifle, and his father taught him how to box. He's no pushover.
+Guenter Oosthiezen and several poachers are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to Chicago's Licoln Park Zoo. Guenter's a good shot with his rifle, and his father taught him how to box. He's no pushover.
 
 Player's characters are rewarded for capturing&mdash;rather than killing&mdash;Guenter, but he's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
 
