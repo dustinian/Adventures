@@ -38,7 +38,7 @@ Contents
   * Adventure Seeds
 * Background
   * 1923
-  * Cattaro
+  * S.S. Cattaro
   * Crew
   * Passengers
   * Popular Names
@@ -47,7 +47,7 @@ Contents
   * South Africans
 * Props
   * Guenter's Wallet
-  * Manifest
+  * Shipping Manifest
   * Map of the _Cattaro_
 * Open Game License
 
@@ -58,7 +58,7 @@ Summary
 
 _Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
 
-It's 1923; the players' characters are aboard the _S.S. Cattaro_, bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, poached gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
+It's 1923; the players' characters are aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_, bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, poached gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
 
 
 
@@ -74,8 +74,8 @@ In the months and days before the adventure...
 * __1923 JAN 02:__ _Chicago, United States_. Overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas... no questions asked.
 * __1923 FEB 18:__ _Capetown, South Africa_. Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
 * __1923 MAY 07:__ _[Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo)_. Guenter and his men finally capture several gorillas.
-* __1923 MAY 22:__  _Durban, South Africa_. They smuggle the gorillas aboard the _S.S. Cattaro_, purposefully mis-labelling the crate as goats.
-* __1923 MAY 27:__ _S.S. Cattaro_. The terrified, malnourished gorillas escape...
+* __1923 MAY 22:__  _Durban, South Africa_. They smuggle the gorillas aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_, purposefully mis-labelling the crate as goats.
+* __1923 MAY 27:__ _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_. The terrified, malnourished gorillas escape...
 
 While the players' characters are having dinner in the _Galley_, relaxing in their _Cabins_, or enjoying the night air on the _Main Deck_, the __Gorillas__...
 
@@ -88,7 +88,7 @@ While the players' characters are having dinner in the _Galley_, relaxing in the
 
 ###During
 
-The adventure has begun. If the players' characters __do not interfere__, Guenter, the poachers, and the crew take the following actions. These actions __should change__ as the poachers and gorillas __react__ to the players' characters' actions. If your group refuses to engage with the initial hook, the murder on the _Officers' Deck__, you might have them witness or participate in one or more of the actions below.
+The adventure has begun. If the players' characters __do not interfere__, Guenter, the poachers, and the crew take the following actions. These actions __should change__ as the poachers and gorillas __react__ to the players' characters' actions. If your group refuses to engage with the initial hook, the murder on the _Officers' Deck_, you might have them witness or participate in one or more of the actions below.
 
 ####Guenter...
 
@@ -136,7 +136,7 @@ Ask the players to introduce their characters. Decide whether they know each oth
 Ask the players to describe the possessions their characters would have:
 
 * On them at all times.
-* Packed away in their _Cabin_.
+* Packed away in their _Cabins_.
 * Stowed in the _Hold_.
 
 ###Money
@@ -145,7 +145,7 @@ There's no opportunity to make any purchases during _Terror on the Cattaro_, but
 
 ###Adventure Begins
 
->It's 1923; you're aboard a ship&mdash;a cargo vessel, the _S.S. Cattaro_&mdash;bound for Chicago from South Africa.
+>It's 1923; you're aboard a ship&mdash;a cargo vessel, the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_&mdash;bound for Chicago from South Africa.
 
 >Four days into the journey, you find yourself up on the main deck in the early evening, just after dinner. The warm, equatorial breeze has made the night a heavy, sticky one. But it's bright; the moon is nearly full. And as unsettling as it can be to look around and see nothing but water... it's even more unsettling to be cramped below decks.
 
@@ -164,7 +164,7 @@ Locations
 
 Descriptions of the _Cattaro_...
 
-__None of the descriptions below mention the antagonists__ (Guenter, the poachers, or the gorillas). You should decide where the players' characters will encounter the antagonists based on:
+You should decide where the players' characters will encounter the antagonists based on:
 
 * What the antagonists are doing...
 * How much time has lapsed...
@@ -172,16 +172,16 @@ __None of the descriptions below mention the antagonists__ (Guenter, the poacher
 
 If you can't decide, you might roll antagonists' locations (listed top to bottom, fore to aft)...
 
-| d8 |   Location    |
-|---:|:--------------|
-| 1  |Bridge         |
-| 2  |Officers' Deck |
-| 3  |Main Deck, Fore|
-| 4  |Main Deck, Aft |
-| 5  |Galley         |
-| 6  |Cabins         |
-| 7  |Hold           |
-| 8  |Engine Room    |
+| d8  |   Location    |
+|:---:|:--------------|
+|  1  |Bridge         |
+|  2  |Officers' Deck |
+|  3  |Main Deck, Fore|
+|  4  |Main Deck, Aft |
+|  5  |Galley         |
+|  6  |Cabins         |
+|  7  |Hold           |
+|  8  |Engine Room    |
 
 ###Bridge
 
@@ -212,7 +212,7 @@ Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your p
 
 >You see a big man levelling his rifle at you! He's wearing khaki shorts and an over-sized khaki shirt belted at the waist... an outfit that serves as a uniform for various military and constublary services throughoug colonized Africa... _He'll have training_, you realize grimly.
 
-Guenter Oosthiezen and several poachers are aboard the _S.S. Cattaro_ trying to smuggle several gorillas to Chicago's Licoln Park Zoo. Guenter's a good shot with his rifle, and his father taught him how to box. He's no pushover.
+Guenter Oosthiezen and several poachers are aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ trying to smuggle several gorillas to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo). Guenter's a good shot with his rifle, and his father taught him how to box. He's no pushover.
 
 Player's characters are rewarded for capturing&mdash;rather than killing&mdash;Guenter, but he's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
 
@@ -338,10 +338,10 @@ Assuming 3 poachers and 3 gorillas, this short adventure is worth between __1035
 
 ###Adventure Seeds
 
-Are your players eager to continue the adventure?
+Continue the adventure...
 
-* __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the _S.S. Cattaro_ and in varioud South Afican jails will level him up.
-* __Lincoln Park Zoo:__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at Chicago's Lincoln Park Zoo that would lead to the Zoo paying for poached animals.
+* __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ and in varioud South Afican jails will level him up.
+* __[Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo):__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) that would lead to the Zoo paying for poached animals.
 * __Poaching:__ If your players are outraged by the poaching, you might send them back to Africa to deal with poachers at the source.
 
 
@@ -349,7 +349,7 @@ Are your players eager to continue the adventure?
 Background
 ----------
 
-Familiarize yourself with the era, the ship, the crew, and the passengers to help you improvise at the table!
+Familiarize yourself with the era, the ship, the crew, and the passengers...
 
 ###1923
 
@@ -387,7 +387,7 @@ The players' characters and the poachers are passengers, but there are additiona
 
 ####German Crew
 
-Germans aboard the _S.S. Cattaro_ are officers and crew.
+Germans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ are officers and crew.
 
 | d10  |   Male   |  Female  |   Last   |
 |:----:|:--------:|:--------:|:--------:|
@@ -404,7 +404,7 @@ Germans aboard the _S.S. Cattaro_ are officers and crew.
 
 ####American Passengers
 
-Americans aboard the _S.S. Cattaro_ are probably returning home from a:
+Americans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ are probably returning home from a:
 
 * Safari vacation.
 * Scientific expedition.
@@ -425,7 +425,7 @@ Americans aboard the _S.S. Cattaro_ are probably returning home from a:
 
 ####South African Passengers
 
-South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
+South Africans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ are probably leaving home to:
 
 * Attend a profesional/academic event.
 * Purchase manufactured goods sans tariffs.
@@ -448,9 +448,9 @@ South Africans aboard the _S.S. Cattaro_ are probably leaving home to:
 Protagonists
 ------------
 
-Your players may prefer to roll their own _Basic Fantasy Role-Playing Game_ characters, customizing them with rules from the _Cops &amp; Robbers_ supplement. But these characters are provided in case your players want to start playing immediately.
+Optional, pre-generated characters for immediate play...
 
-Each of the protagonists below were generated with a "standard" spread of _Ability Scores_ from the world's most popular role-playing game: 18, 16, 14, 11, 11, 8.
+* _Note: Characters were pre-generated with a "standard" spread of __Ability Scores__ from the world's most popular role-playing game: 18, 16, 14, 11, 11, 8._
 
 ###Americans
 
@@ -484,10 +484,6 @@ Strong, but simple; Micky solves his problems with his trusty blackjack.
 
 * __Armor Class:__ 14
 * __Hit Points:__ 20
-
-#####Equipment
-
-* __Money:__ $100
 
 
 
@@ -526,10 +522,6 @@ Smart, but unpopular; Patrick can think on his feet.
 
 * __Armor Class:__ 12
 * __Hit Points:__ 11
-
-#####Equipment
-
-* __Money:__ $100
 
 
 
@@ -576,10 +568,6 @@ Nimble, but rash; Angel usually escapes the chaos she sows.
 * __Armor Class:__ 15
 * __Hit Points:__ 11
 
-#####Equipment
-
-* __Money:__ $100
-
 
 
 ###South Africans
@@ -617,10 +605,6 @@ Wise, but clumsy; Albert would rather help an ally than face an enemy.
 
 * __Armor Class:__ 12
 * __Hit Points:__ 17
-
-#####Equipment
-
-* __Money:__ $100
 
 
 
@@ -666,10 +650,6 @@ Charming, but sickly; Tug talks first, shoots second, and always from cover.
 * __Armor Class:__ 13
 * __Hit Points:__ 5
 
-#####Equipment
-
-* __Money:__ $100
-
 
 
 ####Rita Pillay
@@ -703,18 +683,16 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 * __Armor Class:__ 15
 * __Hit Points:__ 17
 
-#####Equipment
-
-* __Money:__ $100
-
 
 
 Props
 -----
 
+Optional ideas for hand-outs...
+
 ###Guenter's Wallet
 
-###Manifest
+###Shipping Manifest
 
 ###Map of the _Cattaro_
 
