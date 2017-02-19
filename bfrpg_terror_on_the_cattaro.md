@@ -692,22 +692,21 @@ Optional ideas for hand-outs...
 
 ###Guenter's Wallet
 
-Reveals Guenter's name, origin, and goal.
+Reveals Guenter's name, origin, and goal. Use an old wallet, or [make a wallet out of construction paper](http://www.instructables.com/id/Paper-Wallet/).
 
-May Be Found...
+It may contain...
 
-* On Guenter's body.
-* In Guenter's _Cabin_.
-* Around the shipping crate.
-
-Description...
-
-* __Wallet:__ Use an old wallet, or [make a wallet out of construction paper](http://www.instructables.com/id/Paper-Wallet/).
 * __Ticket:__ Reveals Guenter's destination, and cabin number.
 * __Telegram:__ Reveals Guenter's goal. May reveal that the "monsters" are gorillas. Print a [telegram template](https://www.google.com/search?q=telegram+template) on the thinnest, cheapest paper you can find.
 * __Identication:__ Reveals Guenter's name.
 * __Family photo:__ Humanizes Guenter. Print a [1913 family photo](https://www.google.com/search?tbm=isch&q=1913+family+photo) on card stock, and then varnish with polyacrylic.
 * __Cash:__ Adds verisimilitude. Print [images of South African Pounds](https://www.google.com/search?tbm=isch&q=findSomeImage) on parchment paper and cut them out.
+
+It may be found...
+
+* On Guenter's body.
+* In Guenter's _Cabin_.
+* Around the shipping crate.
 
 ###Shipping Manifest
 
