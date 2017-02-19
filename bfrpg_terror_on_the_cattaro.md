@@ -65,7 +65,7 @@ It's 1923; the players' characters are aboard the [_S.S. Cattaro_](https://en.wi
 Timeline
 --------
 
-Outlines how the _Non-Player Characters_ will behave during the adventure. Do __not__ obey the following timeline if you don't care to.
+What the _Non-Player Characters_ did, and what they're doing...
 
 ###Before
 
@@ -125,15 +125,15 @@ The adventure has begun. If the players' characters __do not interfere__, Guente
 Getting Started
 ---------------
 
-Suggestions for starting your session...
+Starting your session...
 
 ###Introductions
 
-Ask the players to introduce their characters. Decide whether they know each other before the adventure, or if they'll meet as the adventure progresses.
+Ask the players to introduce their characters. Do they know each other? What do they look like? What were they doing in Africa?
 
 ###Luggage
 
-Ask the players to describe the possessions their characters would have:
+Ask the players to describe what their characters would have:
 
 * On them at all times.
 * Packed away in their _Cabins_.
@@ -187,11 +187,9 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 
 ###Officers' Deck
 
-###Main Deck
+###Main Deck, Fore
 
-####Fore
-
-####Aft
+###Main Deck, Aft
 
 ###Galley
 
@@ -688,7 +686,7 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 Props
 -----
 
-Optional ideas for hand-outs...
+Optional hand-outs...
 
 ###Guenter's Wallet
 
@@ -699,7 +697,7 @@ It may contain...
 * __Ticket:__ Reveals Guenter's destination, and cabin number.
 * __Telegram:__ Reveals Guenter's goal. May reveal that the "monsters" are gorillas. Print a [telegram template](https://www.google.com/search?q=telegram+template) on the thinnest, cheapest paper you can find.
 * __Identication:__ Reveals Guenter's name.
-* __Family photo:__ Humanizes Guenter. Print a [1913 family photo](https://www.google.com/search?tbm=isch&q=1913+family+photo) on card stock, and then varnish with polyacrylic.
+* __Family photo:__ Humanizes Guenter. Print a [1913 family photo](https://www.google.com/search?tbm=isch&q=1913+family+photo) on card stock, then varnish with polyacrylic.
 * __Cash:__ Adds verisimilitude. Print [images of South African Pounds](https://www.google.com/search?tbm=isch&q=findSomeImage) on parchment paper and cut them out.
 
 It may be found...
