@@ -56,9 +56,9 @@ Contents
 Summary
 -------
 
-_Terror on the Cattaro_ pits your player characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
+_Terror on the Cattaro_ pits your players' characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
 
-It's 1923; the players' characters are aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_, bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, poached gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
+It's 1923; the players' characters are aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)), bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, the gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
 
 
 
@@ -74,8 +74,8 @@ In the months and days before the adventure...
 * __1923 JAN 02:__ _Chicago, United States_. Overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas... no questions asked.
 * __1923 FEB 18:__ _Capetown, South Africa_. Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
 * __1923 MAY 07:__ _[Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo)_. Guenter and his men finally capture several gorillas.
-* __1923 MAY 22:__  _Durban, South Africa_. They smuggle the gorillas aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_, purposefully mis-labelling the crate as goats.
-* __1923 MAY 27:__ _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_. The terrified, malnourished gorillas escape...
+* __1923 MAY 22:__  _Durban, South Africa_. They smuggle the gorillas aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)), purposefully mis-labelling the crate as goats.
+* __1923 MAY 27:__ [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)). The terrified, malnourished gorillas escape...
 
 While the players' characters are having dinner in the _Galley_, relaxing in their _Cabins_, or enjoying the night air on the _Main Deck_, the __Gorillas__...
 
@@ -145,7 +145,7 @@ There's no opportunity to make any purchases during _Terror on the Cattaro_, but
 
 ###Adventure Begins
 
->It's 1923; you're aboard a ship&mdash;a cargo vessel, the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_&mdash;bound for Chicago from South Africa.
+>It's 1923; you're aboard a ship&mdash;a cargo vessel, the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922))&mdash;bound for Chicago from South Africa.
 
 >Four days into the journey, you find yourself up on the main deck in the early evening, just after dinner. The warm, equatorial breeze has made the night a heavy, sticky one. But it's bright; the moon is nearly full. And as unsettling as it can be to look around and see nothing but water... it's even more unsettling to be cramped below decks.
 
@@ -212,7 +212,7 @@ Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your p
 
 >You see a big man levelling his rifle at you! He's wearing khaki shorts and an over-sized khaki shirt belted at the waist... an outfit that serves as a uniform for various military and constublary services throughoug colonized Africa... _He'll have training_, you realize grimly.
 
-Guenter Oosthiezen and several poachers are aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ trying to smuggle several gorillas to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo). Guenter's a good shot with his rifle, and his father taught him how to box. He's no pushover.
+Guenter Oosthiezen and several poachers are aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) trying to smuggle several gorillas to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo). Guenter's a good shot with his rifle, and his father taught him how to box. He's no pushover.
 
 Player's characters are rewarded for capturing&mdash;rather than killing&mdash;Guenter, but he's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
 
@@ -340,7 +340,7 @@ Assuming 3 poachers and 3 gorillas, this short adventure is worth between __1035
 
 Continue the adventure...
 
-* __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ and in varioud South Afican jails will level him up.
+* __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) and in varioud South Afican jails will level him up.
 * __[Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo):__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) that would lead to the Zoo paying for poached animals.
 * __Poaching:__ If your players are outraged by the poaching, you might send them back to Africa to deal with poachers at the source.
 
@@ -387,7 +387,7 @@ The players' characters and the poachers are passengers, but there are additiona
 
 ####German Crew
 
-Germans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ are officers and crew.
+Germans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) are officers and crew.
 
 | d10  |   Male   |  Female  |   Last   |
 |:----:|:--------:|:--------:|:--------:|
@@ -404,7 +404,7 @@ Germans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(19
 
 ####American Passengers
 
-Americans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ are probably returning home from a:
+Americans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) are probably returning home from a:
 
 * Safari vacation.
 * Scientific expedition.
@@ -425,7 +425,7 @@ Americans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(
 
 ####South African Passengers
 
-South Africans aboard the _[S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922))_ are probably leaving home to:
+South Africans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) are probably leaving home to:
 
 * Attend a profesional/academic event.
 * Purchase manufactured goods sans tariffs.
@@ -694,26 +694,20 @@ Optional ideas for hand-outs...
 
 Reveals Guenter's name, origin, and goal.
 
-####May Be Found...
+May Be Found...
 
 * On Guenter's body.
 * In Guenter's _Cabin_.
 * Around the shipping crate.
 
-####Contents...
-
-* __Ticket:__ Reveals Guenter's destination, and cabin number.
-* __Telegram:__ Reveals Guenter's goal. May reveal that the "monsters" are gorillas.
-* __Identication:__ Reveals Guenter's name.
-* __Family photo:__ Humanizes Guenter.
-* __Cash:__ Adds verisimilitude.
-
-####Creating...
+Description...
 
 * __Wallet:__ Use an old wallet, or [make a wallet out of construction paper](http://www.instructables.com/id/Paper-Wallet/).
-* __Telegram:__ Print a [telegram template](https://www.google.com/search?q=telegram+template) on the thinnest, cheapest paper you can find.
-* __Family Photo:__ Print a [1913 family photo](https://www.google.com/search?tbm=isch&q=1913+family+photo) on card stock, and then varnish with polyacrylic.
-* __Cash:__ Print [images of South African Pounds](https://www.google.com/search?tbm=isch&q=findSomeImage) on parchment paper and cut them out.
+* __Ticket:__ Reveals Guenter's destination, and cabin number.
+* __Telegram:__ Reveals Guenter's goal. May reveal that the "monsters" are gorillas. Print a [telegram template](https://www.google.com/search?q=telegram+template) on the thinnest, cheapest paper you can find.
+* __Identication:__ Reveals Guenter's name.
+* __Family photo:__ Humanizes Guenter. Print a [1913 family photo](https://www.google.com/search?tbm=isch&q=1913+family+photo) on card stock, and then varnish with polyacrylic.
+* __Cash:__ Adds verisimilitude. Print [images of South African Pounds](https://www.google.com/search?tbm=isch&q=findSomeImage) on parchment paper and cut them out.
 
 ###Shipping Manifest
 
