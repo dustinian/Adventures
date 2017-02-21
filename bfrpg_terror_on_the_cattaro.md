@@ -184,9 +184,9 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 
 ###Bridge
 
->A few instruments are scattered about, but several features grab your attention:
+>This is a busy room, but several features grab your attention:
 
->* __Controls:__ A large, wooden wheel in the center of the room, with a huge, expensive-looking compass next to it.
+>* __Control:__ A large, wooden wheel in the center of the room, with a huge, expensive-looking compass next to it.
 >* __Communications:__ Another sailor is manning the wireless, clicking away on the telegraph machine.
 >* __Engineering:__ A panel filled with gauges.
 >* __Navigation:__ A wooden table, bolted to the floor, with one map clamped to its surface and several more maps stowed under it.
@@ -197,9 +197,13 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 
 ###Main Deck, Fore
 
->The fore of the _Main Deck_ is dominated by a jib crane, currently locked down for travel. You saw this crane working relentlessly when the _Cattaro_ was loading back in _Durban._
+>The fore of the _Main Deck_ is dominated by the jib crane, currently locked down for travel. You saw this crane working relentlessly when the _Cattaro_ was loading back in _Durban_.
+
+>A rail keeps passengers and crew from going overboard, but there's also a rail surrounding the _Hold_ doors, which cover the cargo stored below.
 
 ###Main Deck, Aft
+
+>The
 
 ###Galley
 
