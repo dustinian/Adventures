@@ -47,8 +47,7 @@ Contents
   * South Africans
 * Props
   * Guenter's Wallet
-  * Shipping Manifest
-  * Map of the _Cattaro_
+  * Shipping Receipt
 * Open Game License
 
 
@@ -185,9 +184,20 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 
 ###Bridge
 
+>A few instruments are scattered about, but several features grab your attention:
+
+>* __Controls:__ A large, wooden wheel in the center of the room, with a huge, expensive-looking compass next to it.
+>* __Communications:__ Another sailor is manning the wireless, clicking away on the telegraph machine.
+>* __Engineering:__ A panel filled with gauges.
+>* __Navigation:__ A wooden table, bolted to the floor, with one map clamped to its surface and several more maps stowed under it.
+
 ###Officers' Deck
 
+>Lifeboats. That's the first thing you see when you rush up the narrow stairway. You'd seen them from the _Main Deck_, but now that you're up here... you didn't realize there were so many. All the lifeboats create lots of nooks and crannys for anyone looking for a bit of privacy.
+
 ###Main Deck, Fore
+
+>The fore of the _Main Deck_ is dominated by a jib crane, currently locked down for travel. You saw this crane working relentlessly when the _Cattaro_ was loading back in _Durban._
 
 ###Main Deck, Aft
 
@@ -196,6 +206,8 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 ###Cabins
 
 ###Hold
+
+
 
 ###Engine Room
 
@@ -694,11 +706,11 @@ Reveals Guenter's name, origin, and goal. Use an old wallet, or [make a wallet o
 
 It may contain...
 
-* __Ticket:__ Reveals Guenter's destination, and cabin number.
+* __Ticket:__ Reveals Guenter's destination and cabin number.
 * __Telegram:__ Reveals Guenter's goal. May reveal that the "monsters" are gorillas. Print a [telegram template](https://www.google.com/search?q=telegram+template) on the thinnest, cheapest paper you can find.
 * __Identication:__ Reveals Guenter's name.
 * __Family photo:__ Humanizes Guenter. Print a [1913 family photo](https://www.google.com/search?tbm=isch&q=1913+family+photo) on card stock, then varnish with polyacrylic.
-* __Cash:__ Adds verisimilitude. Print [images of South African Pounds](https://www.google.com/search?tbm=isch&q=findSomeImage) on parchment paper and cut them out.
+* __Cash:__ Adds verisimilitude. Print [images of South African Pounds](https://www.google.com/search?tbm=isch&q=south+african+pound) on parchment paper and cut them out.
 
 It may be found...
 
@@ -706,10 +718,17 @@ It may be found...
 * In Guenter's _Cabin_.
 * Around the shipping crate.
 
-###Shipping Manifest
+###Shipping Receipt
 
-###Map of the _Cattaro_
+Reveals Guenter claimed to be transporting goats... proof that he's smuggling the gorillas.
 
+There are three copies of the receipt. They may be found...
+
+* __Handling Copy:__ Stapled to the crate.
+* __Manifest Copy:__ Tucked into the ship's manifest on the _Bridge_ (along with every other receipt from every other crate, so you might consider asking for an _Ability Roll_ to locate it).
+* __Owner Copy:__ Tucked away in Guenter's cabin or on Guenter's person.
+
+Print a basic receipt template, and use a fountain pen to fill it in with impeccable handwriting. If you don't have a fountain pen, consider using a very fine paintbrush and watered-down black paint.
 
 
 
