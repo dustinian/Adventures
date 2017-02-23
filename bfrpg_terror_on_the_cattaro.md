@@ -223,7 +223,9 @@ Immediately after the murder...
 
 ###Hold
 
->
+>The biggest room on the ship... isn't that big, you decide. About the size of a good, long barn. Smaller than a warehouse.
+
+>But it's absolutely stacked with crates and boxes with only narrow walkways in between.
 
 Smashed crate...
 
@@ -231,7 +233,7 @@ Smashed crate...
 
 ###Engine Room
 
->
+>This small, dim room is someone's idea of hell. It's not just hot; it's a thick, damp, sweltering heat. You're immediately wet. You can't tell if it's because of the steam, or your own sweat. Coal dust from the boiler sticks to everything. You have to time your words between the HISS and CHUFF of each of the three steam cylinders in the triple-expansion engine. Engineerss scurry back and forth, adjusting valves, and shoveling coal into the boiler. One of them stops to acknowledge you with a nod, and you wonder how he manages to act human in this miserable place.
 
 
 
