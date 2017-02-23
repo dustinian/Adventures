@@ -195,25 +195,43 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 
 >Lifeboats. That's the first thing you see when you rush up the narrow stairway. You'd seen them from the _Main Deck_, but now that you're up here... you didn't realize there were so many. All the lifeboats create lots of nooks and crannys for anyone looking for a bit of privacy.
 
+Immediately after the murder...
+
+>
+
 ###Main Deck, Fore
 
 >The fore of the _Main Deck_ is dominated by the jib crane, currently locked down for travel. You saw this crane working relentlessly when the _Cattaro_ was loading back in _Durban_.
 
->A rail keeps passengers and crew from going overboard, but there's also a rail surrounding the _Hold_ doors, which cover the cargo stored below.
+>A rail keeps passengers and crew from going overboard, and another rail surrounds the _Hold_ doors, which cover the cargo stored below.
 
 ###Main Deck, Aft
 
->The
+>The _Cattaro_ is using the aft section of the _Main Deck_ as supplamental cargo storage. Crates are lashed to the deck in short stacks.
+
+>A pair of anchors&mdash;starboard and port&mdash;are stowed here as well.
 
 ###Galley
 
+>Low tables and benches are bolted to the floor in this long, narrow room. At the far end of the room is a compact kitchen with a sink, one large burner, and a small square of counter space.
+
+>Nobody's going to prepare a five-course meal in this kitchen, but it's perfectly serviceable for making large pots of hearty stew or porridge, which, in your experience, is exactly what the cook does every day.
+
 ###Cabins
+
+>
 
 ###Hold
 
+>
 
+Smashed crate...
+
+>
 
 ###Engine Room
+
+>
 
 
 
