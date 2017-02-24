@@ -154,7 +154,7 @@ There's no opportunity to make any purchases during _Terror on the Cattaro_, but
 
 Let characters with a _Wisdom_ bonus (+1 or higher) to make an _Ability Roll_ to see extra details.
 
->__Success:__ You look up further... What's that? You see a dark figure on top of the bridge. It backs away from the ledge and you lose it...
+>You look up further... What's that? You see a dark figure on top of the bridge. It backs away from the ledge and you lose it...
 
 
 
@@ -197,7 +197,11 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 
 Immediately after the murder...
 
->
+>The crew are moving everyone away from the aft section of the _Officers' Deck_. You shoulder your way through the crowd...
+
+Describe the murdered passenger's corpse.
+
+The crew are overwhelmed by this situation. They should ask the players' characters for help. If the players' characters decline, the crew asks them to return to their _Cabins_. Events play out as described in the _Timeline_.
 
 ###Main Deck, Fore
 
@@ -219,17 +223,29 @@ Immediately after the murder...
 
 ###Cabins
 
->
+>The cabins vary in size, but each contains multiple berths.
+
+Each player's character shares a cabin with one or more other passenger.
 
 ###Hold
 
 >The biggest room on the ship... isn't that big, you decide. About the size of a good, long barn. Smaller than a warehouse.
 
->But it's absolutely stacked with crates and boxes with only narrow walkways in between.
+>But it's absolutely stacked with crates and boxes with only narrow walkways in between. Each stack is held in place with thick cargo nets, lashed tightly to the deck.
+
+>The smell is overwhelming. Warm, rotting vegetables. Manure and wet hay. You hear livestock bleating and grunting in their crates. It's the smell of anything anyone might want to ship crammed together in a warm, sealed room.
 
 Smashed crate...
 
->
+>The crate was beaten open... one side of it hammered away from the inside, exposed nails jutting out. When you peer into the crate, the smell of filth and spoor hits  you. Animals... large animals... were in this crate.
+
+Successful intelligence check on the spoor...
+
+>The spoor has a sickly sweet smell... it's the spoor of a herbivore.
+
+Successful wisdom check on the nails...
+
+>Looking closely, you see a few short, brown-black hairs clinging to one of the nails.
 
 ###Engine Room
 
