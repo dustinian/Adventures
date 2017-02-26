@@ -3,7 +3,7 @@ Terror on the Cattaro
 
 _Hunt down the monsters behind a brutal murder at sea..._
 
-An adventure for three player characters at level three.
+A 1920s pulp adventure for three player characters at level three.
 
 by Dustinian Camburides
 
