@@ -269,11 +269,11 @@ Player's characters are rewarded for capturing&mdash;rather than killing&mdash;G
 AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F4, Ml 10
 
 HP 23:
-:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
-:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
-:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
-:white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
-:white_medium_small_square::white_medium_small_square::white_medium_small_square:
+&square;&square;&square;&square;&square;
+&square;&square;&square;&square;&square;
+&square;&square;&square;&square;&square;
+&square;&square;&square;&square;&square;
+&square;&square;&square;
 
 ####Offense
 
@@ -305,9 +305,9 @@ Player's characters are rewarded for capturing&mdash;rather than killing&mdash;t
 
 AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
 
-* HP 7 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square:
-* HP 3 :white_medium_small_square::white_medium_small_square::white_medium_small_square:
-* HP 5 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+* HP 7 &square;&square;&square;&square;&square; &square;&square;
+* HP 3 &square;&square;&square;
+* HP 5 &square;&square;&square;&square;&square;
 
 ####Offense
 
@@ -344,9 +344,9 @@ Player's characters are rewarded for subduing&mdash;rather than killing&mdash;th
 AC 14, HD4, #At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
 _Basic Fantasy Field Guid, p. 7_
 
-* HP 19 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
-* HP 16 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square:
-* HP 10 :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square: :white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square::white_medium_small_square:
+* HP 19 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;
+* HP 16 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;
+* HP 10 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square;
 
 ####Offense
 
@@ -571,7 +571,7 @@ Smart, but unpopular; Patrick can think on his feet.
 #####Defense
 
 * __Armor Class:__ 12
-* __Hit Points:__ 11
+* __Hit Points:__ 11 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;
 
 
 
@@ -616,7 +616,7 @@ Nimble, but rash; Angel usually escapes the chaos she sows.
 #####Defense
 
 * __Armor Class:__ 15
-* __Hit Points:__ 11
+* __Hit Points:__ 11 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;
 
 
 
@@ -654,7 +654,7 @@ Wise, but clumsy; Albert would rather help an ally than face an enemy.
 #####Defense
 
 * __Armor Class:__ 12
-* __Hit Points:__ 17
+* __Hit Points:__ 17 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;
 
 
 
@@ -698,7 +698,7 @@ Charming, but sickly; Tug talks first, shoots second, and always from cover.
 #####Defense
 
 * __Armor Class:__ 13
-* __Hit Points:__ 5
+* __Hit Points:__ 5 &square;&square;&square;&square;&square;
 
 
 
@@ -731,7 +731,7 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 #####Defense
 
 * __Armor Class:__ 15
-* __Hit Points:__ 17
+* __Hit Points:__ 17 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;
 
 
 
@@ -815,5 +815,6 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 * _Open Game License v 1.0_, Copyright 2000, Wizards of the Coast, Inc.
 * _System Reference Document_, Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 * _Basic Fantasy Role-Playing Game_, Copyright 2006-2017 Chris Gonnerman.
-* _Terror on the Cattaro_, Copyright 2016-2017 Dustinian Camburides
-
+* _Basic Fantasy Field Guide of Creatures Malevolent and Benign_, Copyright 2010-2016 Chris Gonnerman, R. Kevin Smoot, James Lemon, and Contributors.
+* _Cops and Robbers_, Copyright 2015-2017 Dustinian Camburides.
+* _Terror on the Cattaro_, Copyright 2016-2017 Dustinian Camburides.
