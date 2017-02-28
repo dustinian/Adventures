@@ -3,7 +3,7 @@ Terror on the Cattaro
 
 _Hunt down the monsters behind a brutal murder at sea..._
 
-A 1920s pulp adventure for three player characters at level three.
+A 1920s pulp adventure for three player characters at level three, _Terror on the Cattaro_ pits your players' characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
 
 by Dustinian Camburides
 
@@ -14,32 +14,32 @@ Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfant
 Contents
 --------
 
-* [Summary](#summary)
-* [Timeline](#timeline)
-* [Getting Started](#getting-started)
-* [Locations](#locations)
-* [Antagonists](#antagonists)
-* [Conclusion](#conclusion)
-* [Background](#background)
-* [Protagonists](#protagonists)
-* [Props](#props)
-* [Open Game License](#open-game-license)
+* [Summary](#summary): For Game Masters' eyes only...
+* [Timeline](#timeline): Before and during the adventure...
+* [Getting Started](#getting-started): Kicking off your session...
+* [Locations](#locations): Places aboard the _Cattaro_...
+* [Antagonists](#antagonists): Descriptions, motivations, and statistics...
+* [Conclusion](#conclusion): Recommended experience and continuing the adventure...
+* [Background](#background): The era, the ship, the crew, and the passengers...
+* [Protagonists](#protagonists): Optional, pre-generated characters for immediate play...
+* [Props](#props): Optional hand-outs...
+* [Open Game License](#open-game-license): Version 1.0A
 
 
 
 Summary
 -------
 
-_Terror on the Cattaro_ pits your players' characters against South African poachers and the terrified, starving gorillas they're trying to smuggle to Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo).
+_For Game Masters' eyes only..._
 
-It's 1923; the players' characters are aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)), bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, the gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
+It's 1923; the players' characters are aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)), bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, smuggled gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
 
 
 
 Timeline
 --------
 
-What the _Non-Player Characters_ did, and what they're doing...
+_Before and during the adventure..._
 
 ###Before
 
@@ -99,7 +99,7 @@ The adventure has begun. If the players' characters __do not interfere__, Guente
 Getting Started
 ---------------
 
-Starting your session...
+_Kicking off your session..._
 
 ###Introductions
 
@@ -136,7 +136,7 @@ Let characters with a _Wisdom_ bonus (+1 or higher) to make an _Ability Roll_ to
 Locations
 ---------
 
-Descriptions of the _Cattaro_...
+_Places aboard the Cattaro..._
 
 You should decide where the players' characters will encounter the antagonists based on:
 
@@ -230,6 +230,8 @@ Successful wisdom check on the nails...
 
 Antagonists
 -----------
+
+_Descriptions, motivations, and statistics..._
 
 Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your players' characters.
 
@@ -348,7 +350,9 @@ _Basic Fantasy Field Guid, p. 7_
 Conclusion
 ----------
 
-###Experience
+_Recommended experience and further adventures..._
+
+###Recommended Experience
 
 |Villain           |Result                             |Experience|
 |:-----------------|:----------------------------------|---------:|
@@ -361,9 +365,7 @@ Conclusion
 
 Assuming 3 poachers and 3 gorillas, this short adventure is worth between __1035__ and __2070 XP__.
 
-###Adventure Seeds
-
-Continue the adventure...
+###Further Adventures
 
 * __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) and in varioud South Afican jails will level him up.
 * __[Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo):__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) that would lead to the Zoo paying for poached animals.
@@ -374,7 +376,7 @@ Continue the adventure...
 Background
 ----------
 
-Familiarize yourself with the era, the ship, the crew, and the passengers...
+_The era, the ship, the crew, and the passengers..._
 
 ###1923
 
@@ -473,9 +475,9 @@ South Africans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Fron
 Protagonists
 ------------
 
-Optional, pre-generated characters for immediate play...
+_Optional, pre-generated characters for immediate play..._
 
-* _Note: Characters were pre-generated with a "standard" spread of __Ability Scores__ from the world's most popular role-playing game: 18, 16, 14, 11, 11, 8._
+* _Note: Characters were pre-generated with a "standard" spread of Ability Scores from the world's most popular role-playing game: 18, 16, 14, 11, 11, 8._
 
 ###Americans
 
@@ -713,7 +715,7 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 Props
 -----
 
-Optional hand-outs...
+_Optional hand-outs..._
 
 ###Guenter's Wallet
 
