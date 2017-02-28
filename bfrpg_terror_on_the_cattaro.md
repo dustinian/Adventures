@@ -14,41 +14,16 @@ Designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfant
 Contents
 --------
 
-* Summary
-* Timeline
-  * Before
-  * During
-* Getting Started
-  * Introductions
-  * Luggage
-  * Adventure Begins!
-* Locations
-  * Bridge
-  * Officers' Deck
-  * Main Deck
-  * Galley
-  * Cabins
-  * Hold
-  * Engine Room
-* Antagonists
-  * Poachers
-  * Gorillas
-* Conclusion
-  * Experience
-  * Adventure Seeds
-* Background
-  * 1923
-  * S.S. Cattaro
-  * Crew
-  * Passengers
-  * Popular Names
-* Protagonists
-  * Americans
-  * South Africans
-* Props
-  * Guenter's Wallet
-  * Shipping Receipt
-* Open Game License
+* [Summary](#summary)
+* [Timeline](#timeline)
+* [Getting Started](#getting-started)
+* [Locations](#locations)
+* [Antagonists](#antagonists)
+* [Conclusion](#conclusion)
+* [Background](#background)
+* [Protagonists](#protagonists)
+* [Props](#props)
+* [Open Game License](#open-game-license)
 
 
 
@@ -70,11 +45,11 @@ What the _Non-Player Characters_ did, and what they're doing...
 
 In the months and days before the adventure...
 
-* __1923 JAN 02:__ _Chicago, United States_. Overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) offers good money for black-market gorillas... no questions asked.
-* __1923 FEB 18:__ _Capetown, South Africa_. Guenter Oosthiezen and his poachers hear of the rich American's offer, and take the contract.
+* __1923 JAN 02:__ _Chicago, United States_. Overzealous boardmember of Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) seeks black-market gorillas... no questions asked.
+* __1923 FEB 18:__ _Capetown, South Africa_. Guenter Oosthiezen and his poachers take the contract.
 * __1923 MAY 07:__ _[Belgian Congo](https://en.wikipedia.org/wiki/Belgian_Congo)_. Guenter and his men finally capture several gorillas.
-* __1923 MAY 22:__  _Durban, South Africa_. They smuggle the gorillas aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)), purposefully mis-labelling the crate as goats.
-* __1923 MAY 27:__ [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)). The terrified, malnourished gorillas escape...
+* __1923 MAY 22:__  _Durban, South Africa_. They smuggle the gorillas aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)).
+* __1923 MAY 27:__ [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)). The terrified  gorillas escape in a frenzy...
 
 While the players' characters are having dinner in the _Galley_, relaxing in their _Cabins_, or enjoying the night air on the _Main Deck_, the __Gorillas__...
 
@@ -110,7 +85,7 @@ The adventure has begun. If the players' characters __do not interfere__, Guente
 * __20:31 GMT:__ Subdue a gorilla that's cornered in the _Engine Room_.
 * __20:40 GMT:__ Nail the last gorilla back into a crate in the _Hold_.
 
-####Crew
+####Crew...
 
 * __19:43 GMT:__ Begin herding passengers and non-essential crew to their _Cabins_.
 * __19:47 GMT:__ Begin sweeping the ship, armed only with flashlights and improvised weapons (pipes, wrenches).
@@ -816,5 +791,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 * _System Reference Document_, Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 * _Basic Fantasy Role-Playing Game_, Copyright 2006-2017 Chris Gonnerman.
 * _Basic Fantasy Field Guide of Creatures Malevolent and Benign_, Copyright 2010-2016 Chris Gonnerman, R. Kevin Smoot, James Lemon, and Contributors.
-* _Cops and Robbers_, Copyright 2015-2017 Dustinian Camburides.
+* _Cops &amp; Robbers_, Copyright 2015-2017 Dustinian Camburides.
 * _Terror on the Cattaro_, Copyright 2016-2017 Dustinian Camburides.
