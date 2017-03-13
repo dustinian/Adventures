@@ -4,7 +4,7 @@ Envionment Rolls
 ###Against an obstacle...
 
 * Open a locked door.
-* Navigate a hairpin curve.
+* Navigate a hairpin turn.
 * Pass a test.
 
 ###Sample DC
