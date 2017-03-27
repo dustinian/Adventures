@@ -509,7 +509,7 @@ Strong, but simple; Micky solves his problems with his trusty blackjack.
 * __Initiative:__ 1d6+1
 * __Attack Bonus:__ +2
 * __Pre-Calculated Attacks:__
-  * _Revolver:_ +3, 1d6+1
+  * _Revolver:_ +3, 1d6
   * _Blackjack:_ +5, 1d4+3
   * _Unarmed:_ +5, 1d3+3 subduing
 
@@ -762,7 +762,7 @@ There are three copies of the receipt. They may be found...
 * __Manifest Copy:__ Tucked into the ship's manifest on the _Bridge_ (along with every other receipt from every other crate, so you might consider asking for an _Ability Roll_ to locate it).
 * __Owner Copy:__ Tucked away in Guenter's cabin or on Guenter's person.
 
-Print a basic receipt template, and use a fountain pen to fill it in with impeccable handwriting. If you don't have a fountain pen, consider using a very fine paintbrush and watered-down black paint.
+Print a basic receipt template, and use a fountain pen to fill it in with impeccable handwriting. If you don't have a fountain pen, consider using a very fine paintbrush with india ink or diluted paint.
 
 
 
