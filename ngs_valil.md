@@ -144,7 +144,9 @@ These "adventures" are short outlines, with a few bullets on:
 
 
 
-
+* __Rumor:__ One of the tax collectors on the waterfront is lining 'is own pockets, 'e is. Them poor fishermen is 'aving to pay twice, they are. 'Aving to burn their boats for firewood and go to work on the docks, they are. Won't be long there won't be no fish for no eating.
+* __Rumor:__ I've done a spot of time in the dungeons under the Sherriff's keep, and I tell you them's 'aunted! Ain't no floor _lower_ than the duneon, but a cellmate got 'isself taken! And we 'eard 'im screaming under the floor as summat carried 'im away!
+* __Rumor:__ Men go missing working for the Merchant's guild, and they're as secretive as a foxes. They're up to no good, mark my words. No good at all.
 
 
 ###Rat Infestation
@@ -153,6 +155,7 @@ A rat problem has gotten out of hand in the waterfront district.
 
 ####Hooks
 
+* __Rumor:__ Don't eat or drink anything from any Inn or Tavern near the river! The ships have brought in rats lately, and the riverside businesses are overrun!
 * __Hired:__ An inkeeper or bartender hires the players to clear the rats out of his/her basement.
 * __Attacked:__ Rats swarm the players one evening in their room(s).
 
@@ -270,6 +273,7 @@ Caravans are being waylaid just outside town with frightening regularity.
 
 ####Hooks
 
+* __Rumor:__ Hear about them caravans gone missing? It's little green men what done it! Caravans outside the city, going or coming, makes no difference! My cousin saw it from a distance, but he's sure: small green men burst out of the bushes and killed everyone in one of them caravans. All the coins, food, and weapons picked clean in three heartbeats.
 * __Hired:__ A merchant hires the players to guard a caravan.
 * __Hired:__ The town guard hires the players to stamp out the mystery attacks.
 * __Investigate:__ Players look into the soaring prices of local goods.
@@ -360,7 +364,9 @@ Description
 
 (introduce puzzles)
 
-* __Digging Sounds:__ My husband guards one of the gates to the city. When he's on duty, he has to sleep there. In the night, they hear digging sounds, deep under the gatehouse. Somebody is digging a tunnel somewhere. They've told the captain, but he thinks they're hearing things!
+####Hooks
+
+* __Rumor:__ My husband guards one of the gates to the city. When he's on duty, he has to sleep there. In the night, they hear digging sounds, deep under the gatehouse. Somebody is digging a tunnel somewhere. They've told the captain, but he thinks they're hearing things!
 
 ####Monsters
 
@@ -399,6 +405,8 @@ Description
 
 
 ###Royal Taxation
+
+####Hooks
 
 ####Monsters
 
@@ -493,7 +501,9 @@ Description
 
 dungeon underneath the castle, generations ago a prince dabbled in necromancy, and he hid another dungeon under the real "dungeon." he still inhabits the under-dungeon as a lich, and his creations can be heard moving below when you're in the over-dungeon. also prisoners and guards go missing from the over-dungeon with frightening regularity...
 
-* __Haunted Dungeons:__ I've done a spot of time in the dungeons under the Sherriff's keep, and I tell you them's 'aunted! Ain't no floor _lower_ than the duneon, but a cellmate got 'isself taken! And we 'eard 'im screaming under the floor as summat carried 'im away!
+####Hooks
+
+* __Rumor:__ I've done a spot of time in the dungeons under the Sherriff's keep, and I tell you them's 'aunted! Ain't no floor _lower_ than the duneon, but a cellmate got 'isself taken! And we 'eard 'im screaming under the floor as summat carried 'im away!
 
 ####Monsters
 
@@ -586,7 +596,9 @@ Description
 
 ###Demon Damnation
 
-* __Merchant's Guild:__ Men go missing working for the Merchant's guild, and they're as secretive as a foxes. They're up to no good, mark my words.
+####Hooks
+
+* __Rumor:__ Men go missing working for the Merchant's guild, and they're as secretive as a foxes. They're up to no good, mark my words.
 
 ####Monsters
 

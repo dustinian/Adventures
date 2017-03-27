@@ -32,7 +32,7 @@ Summary
 
 _For Game Masters' eyes only..._
 
-It's 1923; the players' characters are aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)), bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, smuggled gorillas escape from the cargo hold, kill a passenger, and throw the ship's passengers and crew into a panic.
+It's 1923; the players' characters are aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)), bound for Chicago, Illinois from Durban, South Africa. Four days into the six-day, trans-Atlantic journey, smuggled gorillas escape from the cargo hold, kill a passenger, and throw the ship into a panic.
 
 
 
@@ -222,6 +222,10 @@ Successful wisdom check on the nails...
 
 >Looking closely, you see a few short, brown-black hairs clinging to one of the nails.
 
+Crewman's body...
+
+>Another body! This poor fellow has been dead for some minutes; he's gone cold and pale. Clearly a crewman, probably working down...
+
 ###Engine Room
 
 >This small, dim room is someone's idea of hell. It's not just hot; it's a thick, damp, sweltering heat. You're immediately wet. You can't tell if it's because of the steam, or your own sweat. Coal dust from the boiler sticks to everything. You have to time your words between the HISS and CHUFF of each of the three steam cylinders in the triple-expansion engine. Engineerss scurry back and forth, adjusting valves, and shoveling coal into the boiler. One of them stops to acknowledge you with a nod, and you wonder how he manages to act human in this miserable place.
@@ -316,7 +320,7 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
 
 These gorillas have been captured, brutalized, starved, and nailed into a hot, dark, heavy crate for days. Terrified to the point of madness, these gorillas now see all mankind as an enemy to fight or flee. But aboard this strange, hollow, moving island, surrounded by water and heat and noise... there is nowhere to flee.
 
-Player's characters are rewarded for subduing&mdash;rather than killing&mdash;these gorillas, but subduing the enraged creatures in this strange environment will be no easy task...
+Remember that [Dian Fossey](https://en.wikipedia.org/wiki/Dian_Fossey)'s groundbreaking research won't happen for another fifty years, so most people still see gorillas as frightening monsters that are likely to kill people they encounter. Therefore, players' characters who wish to subdue or capture&mdash;rather than kill&mdash these gorillas will meet with resistance from passengers and crew. But reward them with double the experience points for any gorillas they capture. Of course, subduing the enraged creatures in this strange environment will be no easy task...
 
 AC 14, HD4, #At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
 _Basic Fantasy Field Guid, p. 7_
@@ -367,8 +371,8 @@ Assuming 3 poachers and 3 gorillas, this short adventure is worth between __1035
 
 ###Further Adventures
 
-* __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) and in varioud South Afican jails will level him up.
-* __[Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo):__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at Chicago's [Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo) that would lead to the Zoo paying for poached animals.
+* __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) and in varioud South Afican jails will level him up. How might the players' characters react when they learn that they're Guenter's new prey?
+* __[Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo):__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at the zoo. Most zoo officials are highly-ethical naturalists horrified by the prospect of black-market animals... but there is this one member of the board with ties to organized crime and a desire to curry favor with the mayor's office...
 * __Poaching:__ If your players are outraged by the poaching, you might send them back to Africa to deal with poachers at the source.
 
 
@@ -503,9 +507,11 @@ Strong, but simple; Micky solves his problems with his trusty blackjack.
 #####Offense
 
 * __Initiative:__ 1d6+1
-* __Revolver:__ +1, 1d6+1
-* __Blackjack:__ +5, 1d4+3
-* __Unarmed:__ +5, 1d3+3 subduing
+* __Attack Bonus:__ +2
+* __Pre-Calculated Attacks:__
+  * _Revolver:_ +3, 1d6+1
+  * _Blackjack:_ +5, 1d4+3
+  * _Unarmed:_ +5, 1d3+3 subduing
 
 #####Defense
 
@@ -542,8 +548,10 @@ Smart, but unpopular; Patrick can think on his feet.
 #####Offense
 
 * __Initiative:__ 1d6
-* __Improvised:__ +1, 1d4
-* __Unarmed:__ +1, 1d3
+* __Attack Bonus:__ +1
+* __Pre-Calculated Attacks:__
+  * _Improvised:_ +1, 1d4
+  * _Unarmed:_ +1, 1d3
 
 #####Defense
 
@@ -586,9 +594,12 @@ Nimble, but rash; Angel usually escapes the chaos she sows.
 #####Offense
 
 * __Initiative:__ 1d6+3
-* __Pistol:__ +3, 1d6
-* __Knife:__ +2, 1d4
-* __Unarmed:__ +2, 1d3
+* __Attack Bonus:__ +2
+* __Pre-Calculated Attacks:__
+  * __Pistol:__ +5, 1d6
+  * __Knife:__ +2, 1d4
+    * _Thrown:_ +5, 1d4
+  * __Unarmed:__ +2, 1d3
 
 #####Defense
 
@@ -625,8 +636,10 @@ Wise, but clumsy; Albert would rather help an ally than face an enemy.
 #####Offense
 
 * __Initiative:__ 1d6-1
-* __Billy Club:__ +2, 1d6
-* __Unarmed:__ +2, 1d3
+* __Attack Bonus:__ +2
+* __Pre-Calculated Attacks:__
+  * _Cane:_ +2, 1d6
+  * _Unarmed:_ +2, 1d3
 
 #####Defense
 
@@ -669,8 +682,10 @@ Charming, but sickly; Tug talks first, shoots second, and always from cover.
 #####Offense
 
 * __Initiative:__ 1d6+2
-* __Pistol:__ +2, 1d6
-* __Dagger:__ +2, 1d4
+* __Attack Bonus:__ +3
+* __Pre-Calculated Attacks:__
+  * _Pistol:_ +4, 1d6
+  * _Stiletto:_ +2, 1d4
 
 #####Defense
 
@@ -701,9 +716,11 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 #####Offense
 
 * __Initiative:__ 1d6+3
-* __Rifle:__ +3, 1d8
-* __Machete:__ +4, 1d6+2
-* __Unarmed:__ +4, 1d3+2
+* __Attack Bonus:__ +2
+* __Pre-Calculated Attacks:__
+  * _Rifle:_ +5, 1d8
+  * _Machete:_ +4, 1d6+2
+  * _Unarmed:_ +4, 1d3+2
 
 #####Defense
 
