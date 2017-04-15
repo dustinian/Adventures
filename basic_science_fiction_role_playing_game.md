@@ -13,9 +13,9 @@ Contents
 Players
 -------
 
-###Technology
+### Technology
 
-###Currency
+### Currency
 
 Use Credits (CR) instead of Silver Pieces (SP). Therefore:
 

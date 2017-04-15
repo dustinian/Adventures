@@ -30,22 +30,22 @@ DriveThruRPG copies to backers.
 
 _Send all Kickstarter backers a free copy of the NGS PDF through DriveThruRPG. You wouldn't lose any sales, since each recipient would already have DRM-free PDFs anyway, and you might drive positive reviews on DriveThruRPG!_
 
-###Background
+### Background
 
 [DriveThruRPG](http://www.drivethrurpg) only allows users that own copies of a document to review it. NGS only has one review on DriveThruRPG today.
 
-###Goal
+### Goal
 
 Increase Core Rulebook sales.
 
-###Objectives
+### Objectives
 
 Encourage purchases by allowing kickstarter backers to leave positive reviews.
 
 * __Send a voucher__ for a free copy of the rules through DriveThruRPG to all Kickstarter backers.
 * __Send out an update__ on [Kickstarter](http://www.kickstarter.com) encouraging users to claim the PDF and review it!
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
@@ -55,7 +55,7 @@ Encourage purchases by allowing kickstarter backers to leave positive reviews.
 * _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
 * _All dollars are USD._
 
-###Estimated Revenue
+### Estimated Revenue
 
 Let's assume an additional 100 sales based solely on the reviews. At $9.99 that's an annual revenut of $999.
 
@@ -66,24 +66,24 @@ Sell NGS through Lulu.
 
 _Sell NGS print-on-demand through [Lulu.com](http://www.lulu.com)._
 
-###Background
+### Background
 
 [Lulu.com](http://www.lulu.com) is a print-on-demand publisher that offers a free marketplace for authors to sell print copies of their books.
 
-###Goal
+### Goal
 
 Increase Core Rulebook sales.
 
-###Objectives
+### Objectives
 
 Offer print-on-demand copies of the NGS Core Rulebook through an additional supplier. Many other games are sole through Lulu... OSRIC and BFRPG, for example.
 
-###Requirements
+### Requirements
 
 * Well-formatted .PDFs to upload to Lulu.
   * _Note: My understanding is that Lulu's requirements are less exacting than DTRPG's, so the current DTRPG .PDFs should work._
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
@@ -92,7 +92,7 @@ Offer print-on-demand copies of the NGS Core Rulebook through an additional supp
 * _Internal Labor: Estimated using the [2014 National Average Wage Index](https://www.ssa.gov/oact/cola/AWI.html), which lists the national average salary in 2014 as $46,481.52 per year, or $22.35 per hour._
 * _All dollars are USD._
 
-###Estimated Revenue
+### Estimated Revenue
 
 Let's assume an additional 100 sales based solely on the new sales channel. At $9.99 that's an annual revenut of $999.
 
@@ -103,24 +103,24 @@ Release free rules.
 
 _Write and distribute a very short "quick start" guide on [venturelandgames.com](http://www.venturelandgames.com)._
 
-###Background
+### Background
 
 Many games offer abridged, "quick start" .PDFs, allowing potential customers to "try before [they] buy."
 
-###Goal
+### Goal
 
 Increase Core Rulebook sales.
 
-###Objectives
+### Objectives
 
 Allow gamers to explore NGS by:
 
 * __Running a one-shot__ before purchasing the core rulebook.
 * __Recruiting new players__ without requiring an immediate purchase.
 
-###Requirements
+### Requirements
 
-####Minimum
+#### Minimum
 
 The free rules should contain, at a minimum:
 
@@ -132,7 +132,7 @@ The free rules should contain, at a minimum:
 * __Narrative Accolades:__ Brief description of awarding and using _Narrative Accolades_.
 * __Advertisement:__ Full-page describing the additional content available in the core rulebook, including _Advancement Rules_, more _Narrative Abilities_, _Settings_, etc.
 
-####Preferred
+#### Preferred
 
 The free rules may also contain:
 
@@ -140,7 +140,7 @@ The free rules may also contain:
 * __Narrative Abilities:__ Ten _Narrative Abilities_ to support _Character Creation_.
 * __Scenario:__ One _Scenario_, compatible with the _Sample Characters_.
 
-####Existing Quick Start Guide
+#### Existing Quick Start Guide
 
 The "NGS Quick Start Guide" that came out with the Kickstarter is probably overkill. It's 27 pages, which isn't easily printable. And it includes pretty much all of Character Creation, including advancement. I would:
 
@@ -148,7 +148,7 @@ The "NGS Quick Start Guide" that came out with the Kickstarter is probably overk
 * Include only one method of _Character Creation_.
 * Simplify the language around _Opposed Rolls_ and _Unopposed Rolls_.
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
@@ -162,7 +162,7 @@ The "NGS Quick Start Guide" that came out with the Kickstarter is probably overk
 * _Bandwidth: Estimated using [Amazon Web Services Pricing Sheet](https://aws.amazon.com/s3/pricing/)._
 * _All dollars are USD._
 
-###Estimated Revenue
+### Estimated Revenue
 
 Let's assume a 2.5% conversion rate on 10,000 downloads in a year. At $9.99, that's an annual revenue of $2,497.50.
 
@@ -171,26 +171,26 @@ Let's assume a 2.5% conversion rate on 10,000 downloads in a year. At $9.99, tha
 Participate in [Free RPG Day](http://www.freerpgday.com).
 ---------------------------------------------------------
 
-###Background
+### Background
 
 [Free RPG Day](http://www.freerpgday.com) is an annual RPG promotion; publishers and retailers team up to offer free RPG material to customers.
 
-###Goal
+### Goal
 
 Increase Core Rulebook sales.
 
-###Objectives
+### Objectives
 
 Allow gamers to discover NGS by:
 
 * __Taking home an NGS booklet__ that includes a brief rules summary and a one-shot.
 * __Seeing NGS listed as a supporter__ on [www.freerpgday.com](http://www.freerpgday.com).
 
-###Requirements
+### Requirements
 
 Based on the [2016 Sponsorship Form](http://www.freerpgday.com/FreeRPGDaySponsorshipForm.pdf), the relevant requirements are:
 
-####Minimum
+#### Minimum
 
 * 16 pages
 * 700 copies
@@ -201,12 +201,12 @@ Based on the [2016 Sponsorship Form](http://www.freerpgday.com/FreeRPGDaySponsor
 * Must arrive in Ft. Wayne, Indiana 6-8 weeks before Free RPG Day
 * No MSRP or $0.00 MSRP
 
-####Preferred
+#### Preferred
 
 * Include adventure and pre-generated characters
 * 10pt C1S color cover
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
@@ -223,7 +223,7 @@ Based on the [2016 Sponsorship Form](http://www.freerpgday.com/FreeRPGDaySponsor
 
 * _Note: Printing costs increase if multiples of 700 copies are provided, because the copies must then be shrink-wrapped in groups._
 
-###Estimated Revenue
+### Estimated Revenue
 
 
 
@@ -238,24 +238,24 @@ Ways Venture Land Games could publicize this subreddit (or some other online for
 * Add a link from [venturelandgames.com](http://www.venturelandgames.com).
 * Tweet the link from @VentureLandRPGs.
 
-###Background
+### Background
 
-###Goal
+### Goal
 
-###Objectives
+### Objectives
 
-###Requirements
+### Requirements
 
-####Minimum
+#### Minimum
 
-####Preferred
+#### Preferred
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
-###Estimated Revenue
+### Estimated Revenue
 
 
 
@@ -264,91 +264,91 @@ Participate in a [Bundle of Holding](http://www.bundleofholding.com).
 
 [Bundle of Holding](http://www.bundleofholding.com) releases one or two "bundles" of RPG .PDFs per month. Usually they'll release bundles of a lot of .PDFs for one game, but occasionally they'll release "indie" bundles of a bunch of different systems. NGS would fit into one of those rather nicely, and Bundle of Holding is quite popular. This would add quite a few folks interested in the NGS system.
 
-###Background
+### Background
 
-###Goal
+### Goal
 
-###Objectives
+### Objectives
 
-###Requirements
+### Requirements
 
-####Minimum
+#### Minimum
 
-####Preferred
+#### Preferred
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
-###Estimated Revenue
+### Estimated Revenue
 
 
 
 Create new supplements.
 -----------------------
 
-###Background
+### Background
 
-###Goal
+### Goal
 
-###Objectives
+### Objectives
 
-###Requirements
+### Requirements
 
-####Minimum
+#### Minimum
 
-####Preferred
+#### Preferred
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
-###Estimated Revenue
+### Estimated Revenue
 
 
 
 Create new resources.
 ---------------------
 
-###Background
+### Background
 
-###Goal
+### Goal
 
-###Objectives
+### Objectives
 
-###Requirements
+### Requirements
 
-####Minimum
+#### Minimum
 
-####Preferred
+#### Preferred
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
 
-###Estimated Revenue
+### Estimated Revenue
 
 
 
 Create License
 --------------
 
-###Background
+### Background
 
-###Goal
+### Goal
 
-###Objectives
+### Objectives
 
-###Requirements
+### Requirements
 
-####Minimum
+#### Minimum
 
-####Preferred
+#### Preferred
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
@@ -362,7 +362,7 @@ Create License
 * _External Labor: Estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
 * _All dollars are USD._
 
-###Estimated Revenue
+### Estimated Revenue
 
 
 
@@ -371,27 +371,27 @@ Acquire license to minor IP.
 
 _Team up with an indie ebook author to offer the "offical" RPG (a setting for NGS with accompanying "quick start" rules) for their book series._
 
-###Background
+### Background
 
 There are a lot of indie authors pushing very high-quality ebooks on [Amazon.com](http://www.amazon.com), and others. Examples:
 
 * [Drew Hayes'](https://www.amazon.com/Drew-Hayes/e/B00C3NDBPS/ref=sr_tc_2_0?qid=1473098657&sr=8-2-ent) [Fred, the Vampire Accountant](https://www.amazon.com/Utterly-Uninteresting-Unadventurous-Vampire-Accountant-ebook/dp/B00M6AM6Q8/ref=la_B00C3NDBPS_1_3?s=books&ie=UTF8&qid=1473098665&sr=1-3) series.
-* [Drew Hayes'](https://www.amazon.com/Drew-Hayes/e/B00C3NDBPS/ref=sr_tc_2_0?qid=1473098657&sr=8-2-ent) [Super Powereds](https://www.amazon.com/Super-Powereds-Year-Drew-Hayes-ebook/dp/B00BIJ05F2/ref=la_B00C3NDBPS_1_6?s=books&ie=UTF8&qid=1473098665&sr=1-6#nav-subnav) series.
+* [Drew Hayes'](https://www.amazon.com/Drew-Hayes/e/B00C3NDBPS/ref=sr_tc_2_0?qid=1473098657&sr=8-2-ent) [Super Powereds](https://www.amazon.com/Super-Powereds-Year-Drew-Hayes-ebook/dp/B00BIJ05F2/ref=la_B00C3NDBPS_1_6?s=books&ie=UTF8&qid=1473098665&sr=1-6# nav-subnav) series.
 * [Lindsay Buroker's](https://www.amazon.com/Lindsay-Buroker/e/B004FSRHUE/ref=sr_tc_2_0?qid=1473098908&sr=1-2-ent) [Fallen Empire](https://www.amazon.com/Star-Nomad-Fallen-Empire-Book-ebook/dp/B01FWOW72W/ref=la_B004FSRHUE_1_5?s=books&ie=UTF8&qid=1473098917&sr=1-5) series.
 * [Lindsay Buroker's](https://www.amazon.com/Lindsay-Buroker/e/B004FSRHUE/ref=sr_tc_2_0?qid=1473098908&sr=1-2-ent) [Dragon Blood](https://www.amazon.com/Balanced-Blades-Edge-Dragon-Blood-ebook/dp/B00JBVUJM8/ref=la_B004FSRHUE_1_35?s=books&ie=UTF8&qid=1473099016&sr=1-35&refinements=p_82%3AB004FSRHUE) series.
 
-###Goal
+### Goal
 
 Increase Core Rulebook sales.
 
-###Objectives
+### Objectives
 
 Share your audience with an indie author, and gain the indie author's audience by:
 
 * __Sending an update__ on Kickstarter communicating the new product/license and linking to the authors' book series.
 * __Drafting an update__ for the author to send to subscribers communicating the new product with their readers.
 
-###Itemized, Estimated Cost
+### Itemized, Estimated Cost
 
 |Category         |Description                     |Quantity|Measure     |Rate   |Subtotal     |
 |:----------------|:-------------------------------|-------:|:-----------|------:|------------:|
@@ -406,7 +406,7 @@ Share your audience with an indie author, and gain the indie author's audience b
 * _External Labor: Estimated by adding a 30% markup to the Internal Labor estimate, or $29.06 per hour._
 * _All dollars are USD._
 
-###Estimated Revenue
+### Estimated Revenue
 
 Let's assume 1,000 new sales from the crossover audience. At $9.99 that's $9,990.
 

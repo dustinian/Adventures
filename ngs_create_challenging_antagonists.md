@@ -69,7 +69,7 @@ Mechanical Abilities
 
 Mechanical Abilities represent a character's (PC or NPC) ability perform any heroic action, such as picking a lock _(Note: Most mundane actions, such as opening a door, don't even require a roll.)_
 
-###Rating
+### Rating
 
 The "rating" represents a character's "floor" for that Mechanical Ability... for unopposed (environment) rolls, a player always at least rolls his or her "rating" for that Mechanical Ability.
 Calculate a Mechanical Ability's "rating" by adding the die contribution to the priority. Ratings are presented below. Example: a character with a d8 + 4 in "Physicality" would have a "rating" of 6 (intersection of "d8" and "+4" below).
@@ -92,7 +92,7 @@ Starting player characters have a total rating of __14__. For example:
 |  Extraordinary  | d6  |   +4    | __5__|
 |__Total:__       |     |         |__14__|
 
-###Accuracy
+### Accuracy
 
 When one character attacks another, they make opposed Mechanical Ability rolls. Below, I've plotted the "accuracy" of each possible die (d6, d8, etc.) and Priority (+1, +2, etc.). For example, a character attacking with "d12 + 3" will hit a character defending with "d8 + 4" 54% of the time.
 
@@ -120,7 +120,7 @@ When one character attacks another, they make opposed Mechanical Ability rolls. 
 | __d12__  |__+3__|   98%  |  94%  |  83%  |  71%  |  92%  |  86%  |  75%  |  63%  |  84%  |  78%  |  67%  |  54%  |  77%  |  70%  |  58%  |  46%  |  69%  |  62%  |  50%  |  38%  |
 | __d12__  |__+4__|  100%  |  98%  |  94%  |  83%  |  96%  |  92%  |  86%  |  75%  |  90%  |  84%  |  78%  |  67%  |  83%  |  77%  |  70%  |  58%  |  75%  |  69%  |  62%  |  50%  |
 
-###Damage
+### Damage
 
 When one character hits another (after winning the Mechanical Ability check), damage is automatically determined by the attacking and defending die. For example, if a character rolling "d12 + 3" succesfully hit a character rolling "d8 + 4," the defending character would take three damage (intersection of "d12" and "d8" below).
 
@@ -132,7 +132,7 @@ When one character hits another (after winning the Mechanical Ability check), da
 |__d10__|  4  |  3  |  2  |  1  |  1  |
 |__d12__|  5  |  4  |  3  |  2  |  1  |
 
-###Combat
+### Combat
 
 
 

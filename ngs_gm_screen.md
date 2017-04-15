@@ -1,28 +1,28 @@
 Envionment Rolls
 ----------------
 
-###Against an obstacle...
+### Against an obstacle...
 
 * Open a locked door.
 * Navigate a hairpin turn.
 * Pass a test.
 
-###Sample DC
+### Sample DC
 
-####Physicality
+#### Physicality
 
-####Intellect
+#### Intellect
 
-####Personality
+#### Personality
 
-####Extraordinary
+#### Extraordinary
 
 
 
 Opposed Rolls
 -------------
 
-###Against an opponent...
+### Against an opponent...
 
 * Attack a bandit.
 * Trick a guard.
@@ -33,7 +33,7 @@ Opposed Rolls
 Combat
 ------
 
-###Damage
+### Damage
 
 <table>
 	<thead>

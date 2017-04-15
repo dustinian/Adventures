@@ -1,21 +1,21 @@
-﻿#Cops and Robbers
+﻿# Cops and Robbers
 
 A one-page supplement designed for use with the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org).
 
 By Dustinian Camburides
 
-##Introduction
+## Introduction
 
 The [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org) (BFRPG) is intended to run a high medieval fantasy game, so--naturally--it's going to take some customization to run a game with firearms and limited magic. This supplement assumes some familiarity with the BFRPG rules as written. I strongly recommend running a few sessions of the [Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)--or at least building a few characters--before using these rules.
 
-##Short, Short Version
+## Short, Short Version
 
 * Calculate AC as 11 + DEX + CON (CON is optional).
 * Substitute light crossbows (1d6 damage) for small firearms (pistols).
 * Substitute heavy crossbows (1d8 damage) for large firearms (rifles, shotguns).
 * Use fantastic and magical mechanics, but change the descriptions (exa: A _Fireball_ spell becomes a Molotov Cocktail).
 
-##Rolling Characters
+## Rolling Characters
 
 For the most part, players should roll characters according the rules in the _Basic Fantasy Role-Playing Game_.
 
@@ -33,7 +33,7 @@ __Currency:__ If you want your prices to feel more 1920s/1930s/1940s, cut starti
 
 __Equipment:__ Try to find the closest piece of _Basic Fantasy Role-Playing Game_ equipment you can, and use that cost/weight/damage. For example, a "canteen" should cost $1 since a "wineskin/waterskin" costs $1. A "Flashlight" should cost $5 because a "lantern" costs $5. A "baseball bat" is a good stand in for a "mace." Etc. _Note: Specific discussions of armor and firearms are below._
 
-##Armor Class
+## Armor Class
 
 __Calculation:__ Since it's impractical for a 1920's character to purchase and wear plate mail, Armor Class should be calculated as: 11 + DEX + CON (CON is optional), where DEX and CON are the Dexterity and Constitution Modifiers. _Note: Round down._
 
@@ -51,7 +51,7 @@ __Higher-Level Play:__ Characters should add an extra point to Armor Class every
 
 __Bullet-Proof Vests:__ Characters who decide to wear modern body armor into a combat situation will receive 1 Hit Die of additional hit points to be rolled and tracked by the Game Master. Once these hit points are gone, the armor is useless and must be replaced. Modern body armor does not affect a character's Armor Class.
 
-##Firearms
+## Firearms
 
 Rather than creating a lengthy firearms table, let's keep this simple: Light Crossbows stand in for pistols, and Heavy Crossbows stand in for anything bigger.
 
@@ -75,7 +75,7 @@ __Customizing Firearm Mechanics:__ Players may wish to customize their character
 
 __Bazookas, Dynamite, Grenades, etc.:__ The "Fireball" spell can be used to simulate explosives. Explosives should require a full round to reload (in the case of the bazooka) or prepare to throw (in the case of dynamite or a grenade). Don't forget the "Grenade-Like Missiles" and "Missiles that Miss" rules in the _Basic Fantasy Role-Playing Game, 3rd Edition_ on page 47.
 
-##Magic
+## Magic
 
 Magic should be used largely "as-is." Game Masters may opt to:
 
@@ -84,11 +84,11 @@ Magic should be used largely "as-is." Game Masters may opt to:
 * Keep magic, but it's rare (think "Indiana Jones" or "H.P. Lovecraft).
 * Keep magic, and it's common (think "Star Wars").
 
-##Game Master Decisions
+## Game Master Decisions
 
 Game Masters who distribute this supplement to their players can use this section to mark the options above they're using:
 
-###Decade
+### Decade
 
 - [ ] Western: 1860s-1890s
 - [ ] Industrial: 1900s-1910s
@@ -98,23 +98,23 @@ Game Masters who distribute this supplement to their players can use this sectio
 - [ ] Business Boom: 1980s-1990s
 - [ ] Modern: 2000s+
 
-###Fantasy Races
+### Fantasy Races
 
 - [ ] Fantasy races allowed as they are.
 - [ ] Use the mechanics, but call it something else.
 
-###Currency Multiplier
+### Currency Multiplier
 
 - [ ] Half: A dollar goes a long way.
 - [ ] No multiplier: A dollar is a dollar.
 - [ ] Double: Inflation's a pain.
 	
-###Higher-Level Armor Class
+### Higher-Level Armor Class
 
 - [ ] Add one point every six levels.
 - [ ] Armor class is what it is; take cover a lot.
 
-###Magic
+### Magic
 
 - [ ] Magic is allowed as-is.
 - [ ] Use the mechanics, but call it something else.
@@ -122,7 +122,7 @@ Game Masters who distribute this supplement to their players can use this sectio
 Open Game License
 -----------------
 
-###Introduction
+### Introduction
 
 _Cops and Robbers_ is based on the _[Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)_, which is based on the _System Reference Document v3.5 ("SRD")_, both of which are Open Game Content.
 
@@ -130,7 +130,7 @@ __Designation of Open Game Content:__ The entire text as well as all artwork inc
 
 More information on the Open Game License can be found at: [http://www.wizards.com/d20](http://www.wizards.com/d20).
 
-###Open Game License Version 1.0A
+### Open Game License Version 1.0A
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 
@@ -157,7 +157,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 13. __Termination:__ This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
 14. __Reformation:__ If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
-###Copyright Notice
+### Copyright Notice
 
 * _Open Game License v 1.0_, Copyright 2000, Wizards of the Coast, Inc.
 * _System Reference Document_, Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.

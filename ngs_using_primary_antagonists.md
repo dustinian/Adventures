@@ -59,7 +59,7 @@ Primary Antagonist Opposed Roll Accuracy Table
 Observation
 -----------
 
-###_Primary Antagonists_ are daunting, to say the least.
+### _Primary Antagonists_ are daunting, to say the least.
 
 Based on the chart above, assuming four d8+4 player characters are in a very advantageous position (+2 on opposed rolls), they still only have a 31% chance of hitting a _Primary Antagonist._ If those player characters engage the _Primary Antagonist_ in a fair fight, they only have a 13% chance of hitting. This means, on average, the players will miss 2-7 times per hit.
 
@@ -67,7 +67,7 @@ Based on the chart above, assuming four d8+4 player characters are in a very adv
 House Rule
 ----------
 
-###Every time your players "hit" your _Primary Antagonist_, subtract one from its _Priority_.
+### Every time your players "hit" your _Primary Antagonist_, subtract one from its _Priority_.
 
 For example, if your d8 players hit your d6+8 _Primary Antagonist_, downgrade the antagonist to d6+7... then d6+6, and so on.
 

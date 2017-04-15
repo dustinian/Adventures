@@ -41,7 +41,7 @@ Timeline
 
 _Before and during the adventure..._
 
-###Before
+### Before
 
 In the months and days before the adventure...
 
@@ -60,11 +60,11 @@ While the players' characters are having dinner in the _Galley_, relaxing in the
 * __19:41 GMT:__ Kill a passenger who spots them on the _Officer's Deck_.
 * __19:42 GMT:__ Scatter after another passenger, who saw the attack from 20-ft away, screams: "It killed [him/her]!"
 
-###During
+### During
 
 The adventure has begun. If the players' characters __do not interfere__, Guenter, the poachers, and the crew take the following actions. These actions __should change__ as the poachers and gorillas __react__ to the players' characters' actions. If your group refuses to engage with the initial hook, the murder on the _Officers' Deck_, you might have them witness or participate in one or more of the actions below.
 
-####Guenter...
+#### Guenter...
 
 * __19:42 GMT:__ Orders his men to search the ship for the escaped gorillas.
 * __19:43 GMT:__ Joins the crowd on the _Officers' Deck_ to see how the crew will react.
@@ -75,7 +75,7 @@ The adventure has begun. If the players' characters __do not interfere__, Guente
 * __20:02 GMT:__ Hears gunshots from the main deck and curses the incompetence of his men for killing a valuable gorilla.
 * __20:17 GMT:__ Hears gunshots from just outside the _Bridge_ and bursts outside to yell at his men that they'd better take the last gorilla alive.
 
-####Poachers...
+#### Poachers...
 
 * __19:43 GMT:__ Head back to their _Cabin_ for their weapons.
 * __19:48 GMT:__ Begin searching the ship.
@@ -85,7 +85,7 @@ The adventure has begun. If the players' characters __do not interfere__, Guente
 * __20:31 GMT:__ Subdue a gorilla that's cornered in the _Engine Room_.
 * __20:40 GMT:__ Nail the last gorilla back into a crate in the _Hold_.
 
-####Crew...
+#### Crew...
 
 * __19:43 GMT:__ Begin herding passengers and non-essential crew to their _Cabins_.
 * __19:47 GMT:__ Begin sweeping the ship, armed only with flashlights and improvised weapons (pipes, wrenches).
@@ -101,11 +101,11 @@ Getting Started
 
 _Kicking off your session..._
 
-###Introductions
+### Introductions
 
 Ask the players to introduce their characters. Do they know each other? What do they look like? What were they doing in Africa?
 
-###Luggage
+### Luggage
 
 Ask the players to describe what their characters would have:
 
@@ -113,11 +113,11 @@ Ask the players to describe what their characters would have:
 * Packed away in their _Cabins_.
 * Stowed in the _Hold_.
 
-###Money
+### Money
 
 There's no opportunity to make any purchases during _Terror on the Cattaro_, but your players might want to know how much ready money they have for bribes and such. When they ask about money, have them roll one d6 plus another d6 for every _Wisdom_ point above 10. Multiply by this by 10 for their starting money in US Dollars.
 
-###Adventure Begins
+### Adventure Begins
 
 >It's 1923; you're aboard a ship&mdash;a cargo vessel, the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922))&mdash;bound for Chicago from South Africa.
 
@@ -157,7 +157,7 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 |  7  |Hold           |
 |  8  |Engine Room    |
 
-###Bridge
+### Bridge
 
 >This is a busy room, but several features grab your attention:
 
@@ -166,7 +166,7 @@ If you can't decide, you might roll antagonists' locations (listed top to bottom
 >* __Engineering:__ A panel filled with gauges.
 >* __Navigation:__ A wooden table, bolted to the floor, with one map clamped to its surface and several more maps stowed under it.
 
-###Officers' Deck
+### Officers' Deck
 
 >Lifeboats. That's the first thing you see when you rush up the narrow stairway. You'd seen them from the _Main Deck_, but now that you're up here... you didn't realize there were so many. All the lifeboats create lots of nooks and crannys for anyone looking for a bit of privacy.
 
@@ -178,31 +178,31 @@ Describe the murdered passenger's corpse.
 
 The crew are overwhelmed by this situation. They should ask the players' characters for help. If the players' characters decline, the crew asks them to return to their _Cabins_. Events play out as described in the _Timeline_.
 
-###Main Deck, Fore
+### Main Deck, Fore
 
 >The fore of the _Main Deck_ is dominated by the jib crane, currently locked down for travel. You saw this crane working relentlessly when the _Cattaro_ was loading back in _Durban_.
 
 >A rail keeps passengers and crew from going overboard, and another rail surrounds the _Hold_ doors, which cover the cargo stored below.
 
-###Main Deck, Aft
+### Main Deck, Aft
 
 >The _Cattaro_ is using the aft section of the _Main Deck_ as supplamental cargo storage. Crates are lashed to the deck in short stacks.
 
 >A pair of anchors&mdash;starboard and port&mdash;are stowed here as well.
 
-###Galley
+### Galley
 
 >Low tables and benches are bolted to the floor in this long, narrow room. At the far end of the room is a compact kitchen with a sink, one large burner, and a small square of counter space.
 
 >Nobody's going to prepare a five-course meal in this kitchen, but it's perfectly serviceable for making large pots of hearty stew or porridge, which, in your experience, is exactly what the cook does every day.
 
-###Cabins
+### Cabins
 
 >The cabins vary in size, but each contains multiple berths.
 
 Each player's character shares a cabin with one or more other passenger.
 
-###Hold
+### Hold
 
 >The biggest room on the ship... isn't that big, you decide. About the size of a good, long barn. Smaller than a warehouse.
 
@@ -226,7 +226,7 @@ Crewman's body...
 
 >Another body! This poor fellow has been dead for some minutes; he's gone cold and pale. Clearly a crewman, probably working down...
 
-###Engine Room
+### Engine Room
 
 >This small, dim room is someone's idea of hell. It's not just hot; it's a thick, damp, sweltering heat. You're immediately wet. You can't tell if it's because of the steam, or your own sweat. Coal dust from the boiler sticks to everything. You have to time your words between the HISS and CHUFF of each of the three steam cylinders in the triple-expansion engine. Engineerss scurry back and forth, adjusting valves, and shoveling coal into the boiler. One of them stops to acknowledge you with a nod, and you wonder how he manages to act human in this miserable place.
 
@@ -239,7 +239,7 @@ _Descriptions, motivations, and statistics..._
 
 Adjust the number of _Poachers_ and/or _Gorillas_ up or down to challenge your players' characters.
 
-###Guenter Oosthiezen
+### Guenter Oosthiezen
 
 >You see a big man levelling his rifle at you! He's wearing khaki shorts and an over-sized khaki shirt belted at the waist... an outfit that serves as a uniform for various military and constublary services throughoug colonized Africa... _He'll have training_, you realize grimly.
 
@@ -247,7 +247,7 @@ Guenter Oosthiezen and several poachers are aboard the [_S.S. Cattaro_](https://
 
 Player's characters are rewarded for capturing&mdash;rather than killing&mdash;Guenter, but he's eager for his payday, and&mdash;after all the trouble he's gone to&mdash;he's willing to just about anything to finish what he started.
 
-AC 15, HD4, #At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F4, Ml 10
+AC 15, HD4, # At 1 (Rifle/Fisticuffs), Dam 1d8/1d4+2, Mv 40', Sv F4, Ml 10
 
 HP 23:
 &square;&square;&square;&square;&square;
@@ -256,7 +256,7 @@ HP 23:
 &square;&square;&square;&square;&square;
 &square;&square;&square;
 
-####Offense
+#### Offense
 
 * __Initiative:__ 1d6+4
 * __Movement:__ 30-ft
@@ -264,7 +264,7 @@ HP 23:
   * __Rifle:__ +4, 1d8
   * __Fisticuffs:__ +4, 1d4+4
 
-####Defense
+#### Defense
 
 * __Armor Class:__ 15
 * __Hit Die:__ 4
@@ -276,7 +276,7 @@ HP 23:
   * _Spells:_ 15
 * __Morale:__ 10
 
-###Poachers
+### Poachers
 
 >You saw these guys board the _Cattaro_ a few days ago, leaning on each other as they drunkenly stumbled onto the ship. But now they have pistols... you hope their marksmanship is as bad as their singing.
 
@@ -284,13 +284,13 @@ Guenter's men are his friends. They're not as skilled as Guenter, but they're lo
 
 Player's characters are rewarded for capturing&mdash;rather than killing&mdash;the poachers.
 
-AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
+AC 12, HD1, # At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
 
 * HP 7 &square;&square;&square;&square;&square; &square;&square;
 * HP 3 &square;&square;&square;
 * HP 5 &square;&square;&square;&square;&square;
 
-####Offense
+#### Offense
 
 * __Initiative:__ 1d6+1
 * __Movement:__ 30-ft
@@ -298,7 +298,7 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
   * __Pistol:__ +1, 1d6
   * __Brawl:__ +1, 1d4
 
-####Defense
+#### Defense
 
 * __Armor Class:__ 12
 * __Hit Die:__ 1
@@ -310,7 +310,7 @@ AC 12, HD1, #At 1 (Pistol/Brawl), Dam 1d6/1d4, Mv 40', Sv F1, Ml 9
   * _Spells:_ 17
 * __Morale:__ 9
 
-###Gorillas
+### Gorillas
 
 >__Seen from a distance:__ It's hard to see the dark shape in the dark night, but you get a glimpse when it passes near a light... _My God,_ you think. But for the proportions, this could be a man! It moves upright, but also uses long, thickly-muscled arms to propel itself forward.
 
@@ -322,14 +322,14 @@ These gorillas have been captured, brutalized, starved, and nailed into a hot, d
 
 Remember that [Dian Fossey](https://en.wikipedia.org/wiki/Dian_Fossey)'s groundbreaking research won't happen for another fifty years, so most people still see gorillas as frightening monsters that are likely to kill people they encounter. Therefore, players' characters who wish to subdue or capture&mdash;rather than kill&mdash these gorillas will meet with resistance from passengers and crew. But reward them with double the experience points for any gorillas they capture. Of course, subduing the enraged creatures in this strange environment will be no easy task...
 
-AC 14, HD4, #At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
+AC 14, HD4, # At 2 (Claw/Bite), Dam 1d8/1d6, Mv 40', Sv F4, Ml 7
 _Basic Fantasy Field Guid, p. 7_
 
 * HP 19 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;
 * HP 16 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;
 * HP 10 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square;
 
-####Offense
+#### Offense
 
 * __Initiative:__ 1d6+4
 * __Movement:__ 40-ft
@@ -337,7 +337,7 @@ _Basic Fantasy Field Guid, p. 7_
   * __Claw:__ +4, 1d8
   * __Bite:__ +4, 1d6
 
-####Defense
+#### Defense
 
 * __Armor Class:__ 14
 * __Hit Die:__ 4
@@ -356,7 +356,7 @@ Conclusion
 
 _Recommended experience and further adventures..._
 
-###Recommended Experience
+### Recommended Experience
 
 |Villain           |Result                             |Experience|
 |:-----------------|:----------------------------------|---------:|
@@ -369,7 +369,7 @@ _Recommended experience and further adventures..._
 
 Assuming 3 poachers and 3 gorillas, this short adventure is worth between __1035__ and __2070 XP__.
 
-###Further Adventures
+### Further Adventures
 
 * __Guenter's Revenge:__ If Guenter is brought to justice, he'll be a free man within a year; poaching laws in South Africa in 1923 aren't strict, and Guenter's family is well-connected. Guenter's experience on the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) and in varioud South Afican jails will level him up. How might the players' characters react when they learn that they're Guenter's new prey?
 * __[Lincoln Park Zoo](https://en.wikipedia.org/wiki/Lincoln_Park_Zoo):__ If your players found Guenter's telegram, you might prompt them to investigate the corruption at the zoo. Most zoo officials are highly-ethical naturalists horrified by the prospect of black-market animals... but there is this one member of the board with ties to organized crime and a desire to curry favor with the mayor's office...
@@ -382,12 +382,12 @@ Background
 
 _The era, the ship, the crew, and the passengers..._
 
-###1923
+### 1923
 
 * __America:__ [The 1920s](https://en.wikipedia.org/wiki/1920s) were a period of economic, artistic, and political boom following the end of the [Great War](https://en.wikipedia.org/wiki/World_War_I). The national [prohibition of alcohol](https://en.wikipedia.org/wiki/Prohibition_in_the_United_States) has been in place since 1919. Refugees from Eastern Europe have sparked national debate on what will become the [Immigration Act of 1924](https://en.wikipedia.org/wiki/Immigration_Act_of_1924).
 * __South Africa:__ The [Union of South Africa](https://en.wikipedia.org/wiki/Union_of_South_Africa) is a self-governing dominion of the British Empire. The official languages are Dutch and English (Afrikaans won't be recognized until 1925). Jan Smuts is the Prime Minister, and the currency is the South African Pound (exchanged for about $5 US).
 
-###S.S. Cattaro
+### S.S. Cattaro
 
 The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German cargo vessel. It's the only vessel leaving from South Africa this month that's headed directly for Chicago through the [St. Lawrence River](https://en.wikipedia.org/wiki/Saint_Lawrence_Seaway) and [Welland Canal](https://en.wikipedia.org/wiki/Welland_Canal).
 
@@ -396,7 +396,7 @@ The [S.S. Cattaro](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) is a German
 * __Dimensions:__ 227-ft long, 34-ft wide, and 20-ft deep.
 * __Propulsion:__ Coal-burning, [triple-expansion steam engine](https://en.wikipedia.org/wiki/Marine_steam_engine) with one propeller.
 
-###Crew
+### Crew
 
 Tips for role-playing the crew:
 
@@ -404,7 +404,7 @@ Tips for role-playing the crew:
 * __Politics:__ Keep in mind that the 1920s were a boom for almost everyone _but_ the Germans. After The Great War, the German government took on tremendous debt under the treaty of Versailles. This leaves many Germans poor, dissafected, and ripe for the new, aggressive Nazi Party (active since 1920, but won't sieze power until 1933). The crew may resent player characters who appear wealthy.
 * __Individual Officers/Crew:__ You might use characters from a favorite book, movie, or TV show to stand in for the ship's crew. For example, give the cast of _The Office_ new names and German accents, and use them as a hapless crew that need all the help they can get.
 
-###Passengers
+### Passengers
 
 The players' characters and the poachers are passengers, but there are additional passengers. Tips for role-playing passengers:
 
@@ -412,11 +412,11 @@ The players' characters and the poachers are passengers, but there are additiona
 * __Few:__ But "common" does not mean "plentiful." There simply aren't that many bunks on a cargo vessel. Between the players' characters... there may be a dozen other passengers.
 * __Individual Passengers:__ Again, use small groups of characters from a favorite book, movie, or TV show to stand in for the passengers travelling together. Be sure to pull passengers from several sources... a few from this book... a few from that show.
 
-###Popular Names
+### Popular Names
 
 10 male, female, and last names for Germans, Americans, and South Africans that were popular in 1923.
 
-####German Crew
+#### German Crew
 
 Germans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) are officers and crew.
 
@@ -433,7 +433,7 @@ Germans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1
 |__9__ | Rudolf   | Liselotte| Richter  |
 |__10__| Otto     | Erika    | Klein    |
 
-####American Passengers
+#### American Passengers
 
 Americans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) are probably returning home from a:
 
@@ -454,7 +454,7 @@ Americans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_
 |__9__ | Edward   | Emma     | Moore    |
 |__10__| Henry    | Marie    | Taylor   |
 
-####South African Passengers
+#### South African Passengers
 
 South Africans aboard the [_S.S. Cattaro_](https://en.wikipedia.org/wiki/SS_Frontier_(1922)) are probably leaving home to:
 
@@ -483,15 +483,15 @@ _Optional, pre-generated characters for immediate play..._
 
 * _Note: Characters were pre-generated with a "standard" spread of Ability Scores from the world's most popular role-playing game: 18, 16, 14, 11, 11, 8._
 
-###Americans
+### Americans
 
-####Micky Henshaw
+#### Micky Henshaw
 
 _Level 3 Wise Guy (Fighter)_
 
 Strong, but simple; Micky solves his problems with his trusty blackjack.
 
-#####Abilities
+##### Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
@@ -504,7 +504,7 @@ Strong, but simple; Micky solves his problems with his trusty blackjack.
 
 * __Ability Roll Target:__ 16
 
-#####Offense
+##### Offense
 
 * __Initiative:__ 1d6+1
 * __Attack Bonus:__ +2
@@ -513,20 +513,20 @@ Strong, but simple; Micky solves his problems with his trusty blackjack.
   * _Blackjack:_ +5, 1d4+3
   * _Unarmed:_ +5, 1d3+3 subduing
 
-#####Defense
+##### Defense
 
 * __Armor Class:__ 14
 * __Hit Points:__ 20
 
 
 
-####Dr. Patrick Cook
+#### Dr. Patrick Cook
 
 _Level 3 Scientist (Magic User)_
 
 Smart, but unpopular; Patrick can think on his feet.
 
-#####Abilities
+##### Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
@@ -539,13 +539,13 @@ Smart, but unpopular; Patrick can think on his feet.
 
 * __Ability Roll Target:__ 16
 
-#####Spells
+##### Spells
 
 * __Magic Missile:__ Once per day, use your knowledge of physics to improvise a rocket or projectile that unerringly strikes any target you can see within 130-ft, dealing 1d6+1 points of damage.
 * __Sleep:__ Oncer per day, use your knowledge of chemistry to thow a vial of "knockout gas" up to 90-ft away, attempting to put air-breathing creatures in a 30-ft radius to sleep for 15 _rounds_ (150 seconds). Creatures that make _Saving Throws_ against _Spells (Charm, Fear)_ to resist the gas.
 * __Mirror Image:__ Once per day, use your knowledge of psychology to take advantage of reflective surfaces, lighting, ambient noise, and improvised props to create the illusion that you're in 1d4 places at once for 3 _turns_ (30 minutes). Enemies attempting to attack you always attack one of these illusions instead. Illusions are immediately broken once hit.
 
-#####Offense
+##### Offense
 
 * __Initiative:__ 1d6
 * __Attack Bonus:__ +1
@@ -553,20 +553,20 @@ Smart, but unpopular; Patrick can think on his feet.
   * _Improvised:_ +1, 1d4
   * _Unarmed:_ +1, 1d3
 
-#####Defense
+##### Defense
 
 * __Armor Class:__ 12
 * __Hit Points:__ 11 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;
 
 
 
-####Angel Thompson
+#### Angel Thompson
 
 _Level 3 Burglar (Thief)_
 
 Nimble, but rash; Angel usually escapes the chaos she sows.
 
-#####Abilities
+##### Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
@@ -579,7 +579,7 @@ Nimble, but rash; Angel usually escapes the chaos she sows.
 
 * __Ability Roll Target:__ 16
 
-#####Skills
+##### Skills
 
 |     Skill       | d%  |
 |:----------------|:---:|
@@ -591,7 +591,7 @@ Nimble, but rash; Angel usually escapes the chaos she sows.
 |__Hide__         | 20% |
 |__Listen__       | 38% |
 
-#####Offense
+##### Offense
 
 * __Initiative:__ 1d6+3
 * __Attack Bonus:__ +2
@@ -601,22 +601,22 @@ Nimble, but rash; Angel usually escapes the chaos she sows.
     * _Thrown:_ +5, 1d4
   * __Unarmed:__ +2, 1d3
 
-#####Defense
+##### Defense
 
 * __Armor Class:__ 15
 * __Hit Points:__ 11 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;
 
 
 
-###South Africans
+### South Africans
 
-####Albert Kruger
+#### Albert Kruger
 
 _Level 3 Medic (Cleric)_
 
 Wise, but clumsy; Albert would rather help an ally than face an enemy.
 
-#####Abilities
+##### Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
@@ -629,11 +629,11 @@ Wise, but clumsy; Albert would rather help an ally than face an enemy.
 
 * __Ability Roll Target:__ 16
 
-#####Spells
+##### Spells
 
 * __Cure Light Wounds:__ Twice per day, heal 1d6+1 hit points of damage.
 
-#####Offense
+##### Offense
 
 * __Initiative:__ 1d6-1
 * __Attack Bonus:__ +2
@@ -641,20 +641,20 @@ Wise, but clumsy; Albert would rather help an ally than face an enemy.
   * _Cane:_ +2, 1d6
   * _Unarmed:_ +2, 1d3
 
-#####Defense
+##### Defense
 
 * __Armor Class:__ 12
 * __Hit Points:__ 17 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;
 
 
 
-####Tug Smit
+#### Tug Smit
 
 _Level 3 Spy (Thief)_
 
 Charming, but sickly; Tug talks first, shoots second, and always from cover.
 
-#####Abilities
+##### Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
@@ -667,7 +667,7 @@ Charming, but sickly; Tug talks first, shoots second, and always from cover.
 
 * __Ability Roll Target:__ 16
 
-#####Skills
+##### Skills
 
 |     Skill       | d%  |
 |:----------------|:---:|
@@ -679,7 +679,7 @@ Charming, but sickly; Tug talks first, shoots second, and always from cover.
 |__Hide__         | 20% |
 |__Listen__       | 38% |
 
-#####Offense
+##### Offense
 
 * __Initiative:__ 1d6+2
 * __Attack Bonus:__ +3
@@ -687,20 +687,20 @@ Charming, but sickly; Tug talks first, shoots second, and always from cover.
   * _Pistol:_ +4, 1d6
   * _Stiletto:_ +2, 1d4
 
-#####Defense
+##### Defense
 
 * __Armor Class:__ 13
 * __Hit Points:__ 5 &square;&square;&square;&square;&square;
 
 
 
-####Rita Pillay
+#### Rita Pillay
 
 _Level 3 Hunter (Fighter)_
 
 Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 
-#####Abilities
+##### Abilities
 
 | Ability | Score | Bonus / Penalty |       Save Against      | Saving Throw Target |
 |:-------:|:-----:|:---------------:|:------------------------|:-------------------:|
@@ -713,7 +713,7 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
 
 * __Ability Roll Target:__ 16
 
-#####Offense
+##### Offense
 
 * __Initiative:__ 1d6+3
 * __Attack Bonus:__ +2
@@ -722,7 +722,7 @@ Agile, but uncouth; the only thing Rita "gets" about people is how to stop them.
   * _Machete:_ +4, 1d6+2
   * _Unarmed:_ +4, 1d3+2
 
-#####Defense
+##### Defense
 
 * __Armor Class:__ 15
 * __Hit Points:__ 17 &square;&square;&square;&square;&square; &square;&square;&square;&square;&square; &square;&square;
@@ -734,7 +734,7 @@ Props
 
 _Optional hand-outs..._
 
-###Guenter's Wallet
+### Guenter's Wallet
 
 Reveals Guenter's name, origin, and goal. Use an old wallet, or [make a wallet out of construction paper](http://www.instructables.com/id/Paper-Wallet/).
 
@@ -752,7 +752,7 @@ It may be found...
 * In Guenter's _Cabin_.
 * Around the shipping crate.
 
-###Shipping Receipt
+### Shipping Receipt
 
 Reveals Guenter claimed to be transporting goats... proof that he's smuggling the gorillas.
 
@@ -769,7 +769,7 @@ Print a basic receipt template, and use a fountain pen to fill it in with impecc
 Open Game License
 -----------------
 
-###Introduction
+### Introduction
 
 _Terror on the Cattaro_ is based on the _[Basic Fantasy Role-Playing Game](http://www.basicfantasy.org)_, which is based on the _System Reference Document v3.5 ("SRD")_, both of which are Open Game Content.
 
@@ -777,7 +777,7 @@ __Designation of Open Game Content:__ The entire text as well as all artwork, ma
 
 More information on the Open Game License can be found at: [http://www.wizards.com/d20](http://www.wizards.com/d20).
 
-###Open Game License Version 1.0A
+### Open Game License Version 1.0A
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 
@@ -804,7 +804,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 13. __Termination:__ This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
 14. __Reformation:__ If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
-###Copyright Notice
+### Copyright Notice
 
 * _Open Game License v 1.0_, Copyright 2000, Wizards of the Coast, Inc.
 * _System Reference Document_, Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
