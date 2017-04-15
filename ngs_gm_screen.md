@@ -11,7 +11,11 @@ Envionment Rolls
 
 ####Physicality
 
-####
+####Intellect
+
+####Personality
+
+####Extraordinary
 
 
 
