@@ -57,345 +57,207 @@ Any other thoughts/ideas/soundbites that could add those "Marvel" touches to thi
 Thanks for thoughts, and I hope you can use the framework for a fun one-shot.
 
 
-{
-"name": "Chain Devil",
-"size": "Medium",
-"type": "fiend",
-"subtype": "devil",
-"alignment": "lawful evil",
-"armor_class": 16,
-"hit_points": 85,
-"hit_dice": "10d8",
-"speed": "30 ft.",
-"strength": 18,
-"dexterity": 15,
-"constitution": 18,
-"intelligence": 11,
-"wisdom": 12,
-"charisma": 14,
-"damage_vulnerabilities": "",
-"damage_resistances": "cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
-"damage_immunities": "fire, poison",
-"condition_immunities": "poisoned",
-"senses": "darkvision 120 ft., passive Perception 8",
-"languages": "Infernal, telepathy 120 ft.",
-"challenge_rating": "11",
-"special_abilities": [
-{
-"name": "Devil's Sight",
-"desc": "Magical darkness doesn't impede the devil's darkvision.",
-"attack_bonus": 0
-},
-{
-"name": "Magic Resistance",
-"desc": "The devil has advantage on saving throws against spells and other magical effects.",
-"attack_bonus": 0
-}
-],
-"actions": [
-{
-"name": "Multiattack",
-"desc": "The devil makes two attacks with its chains.",
-"attack_bonus": 0
-},
-{
-"name": "Chain",
-"desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.",
-"attack_bonus": 8,
-"damage_dice": "2d6",
-"damage_bonus": 4
-},
-{
-"name": "Animate Chains (Recharges after a Short or Long Rest)",
-"desc": "Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.\nEach animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.",
-"attack_bonus": 0
-}
-],
-"reactions": [
-{
-"name": "Unnerving Mask",
-"desc": "When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.",
-"attack_bonus": 0
-}
-]
-},
+
+### Chain Devil
+
+Medium Fiend (Devil), Lawful Evil
+
+#### Defense
+
+* __Armor Class:__ 16
+* __Hit Points:__ 85 (10d8)
+  * __Immune:__ fire, poison
+  * __Resists:__ cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered.
+* __Speed:__ 30 ft.
+
+#### Abilities
+
+| STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|  18  |  15  |  18  |  11  |  12  |  14  |
+|__+4__|__+2__|__+4__|      |      |__+2__|
+
+#### Senses / Communication
+
+* __Senses:__ Darkvision 120 ft., passive perception 8
+* __Languages:__ Infernal, telepathy 120 ft.
+* __Challenge:__ 11
+
+#### Special Abilities
+
+* __Devil's Sight:__ Magical darkness doesn't impede the devil's darkvision.
+* __Magic Resistance:__ The devil has advantage on saving throws against spells and other magical effects.
+
+#### Actions
+
+* __Multiattack:__ The devil makes two attacks with its chains.
+* __Chain:__ Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
+* __Animate Chains (Recharges after a Short or Long Rest):__ Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.\nEach animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+
+#### Reactions
+
+* __Unnerving Mask:__ When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 
 
-{
-"name": "Black Pudding",
-"size": "Large",
-"type": "ooze",
-"subtype": "",
-"alignment": "unaligned",
-"armor_class": 7,
-"hit_points": 85,
-"hit_dice": "10d10",
-"speed": "20 ft., climb 20 ft.",
-"strength": 16,
-"dexterity": 5,
-"constitution": 16,
-"intelligence": 1,
-"wisdom": 6,
-"charisma": 1,
-"damage_vulnerabilities": "",
-"damage_resistances": "",
-"damage_immunities": "acid, cold, lightning, slashing",
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone",
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8",
-"languages": "",
-"challenge_rating": "4",
-"special_abilities": [
-{
-"name": "Amorphous",
-"desc": "The pudding can move through a space as narrow as 1 inch wide without squeezing.",
-"attack_bonus": 0
-},
-{
-"name": "Corrosive Form",
-"desc": "A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage. The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.",
-"attack_bonus": 0,
-"damage_dice": "1d8"
-},
-{
-"name": "Spider Climb",
-"desc": "The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
-"attack_bonus": 0
-}
-],
-"actions": [
-{
-"name": "Pseudopod",
-"desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.",
-"attack_bonus": 5,
-"damage_dice": "1d6 + 4d8",
-"damage_bonus": 3
-}
-],
-"reactions": [
-{
-"name": "Split",
-"desc": "When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.",
-"attack_bonus": 0
-}
-]
-},
+
+### Black Pudding
+
+Large Ooze, Unaligned.
+__AC:__ 7
+__HP:__ 85 (10d10
+__Movement:__ 20 ft., climb 20 ft.
+
+#### Abilities
+
+| STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|  16  |   5  |  16  |   1  |   6  |   1  |
+|__+3__|__-3__|__+3__|__-5__|__-2__|__-5__|
+
+  * __Immune:__ acid, cold, lightning, slashing
+  * __Immune:__ blinded, charmed, deafened, exhaustion, frightened, prone
+* __Senses:__ blindsight 60 ft. (blind beyond this radius), passive Perception 8
+* __Challenge:__ 4
+
+#### Special Abilities
+
+* __Amorphous:__ The pudding can move through a space as narrow as 1 inch wide without squeezing.
+* __Corrosive Form:__ A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage. The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
+* __Spider Climb:__ The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+#### Actions
+
+* __Pseudopod:__ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+
+#### Reactions
+
+* __Split:__ When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 
 
-{
-"name": "Phase Spider",
-"size": "Large",
-"type": "monstrosity",
-"subtype": "",
-"alignment": "unaligned",
-"armor_class": 13,
-"hit_points": 32,
-"hit_dice": "5d10",
-"speed": "30 ft., climb 30 ft.",
-"strength": 15,
-"dexterity": 15,
-"constitution": 12,
-"intelligence": 6,
-"wisdom": 10,
-"charisma": 6,
-"stealth": 6,
-"damage_vulnerabilities": "",
-"damage_resistances": "",
-"damage_immunities": "",
-"condition_immunities": "",
-"senses": "darkvision 60 ft., passive Perception 10",
-"languages": "",
-"challenge_rating": "3",
-"special_abilities": [
-{
-"name": "Ethereal Jaunt",
-"desc": "As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.",
-"attack_bonus": 0
-},
-{
-"name": "Spider Climb",
-"desc": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
-"attack_bonus": 0
-},
-{
-"name": "Web Walker",
-"desc": "The spider ignores movement restrictions caused by webbing.",
-"attack_bonus": 0
-}
-],
-"actions": [
-{
-"name": "Bite",
-"desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
-"attack_bonus": 4,
-"damage_dice": "1d10",
-"damage_bonus": 2
-}
-]
-},
+
+### Phase Spider
+
+Large monstrosity () unaligned
+
+__AC:__ 13
+__HP:__ 32 (5d10
+__Movement:__ 30 ft., climb 30 ft.
+
+#### Abilities
+
+| STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|  15  |  15  |  12  |   6  |  10  |   6  |
+|__+2__|__+2__|__+1__|__-2__|      |__-2__|
+
+#### Skills
+
+* Stealth: 6
+
+* __Senses:__ darkvision 60 ft., passive Perception 10
+* __Challenge:__ 3
+
+#### Special Abilities
+
+* __Ethereal Jaunt:__ As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
+* __Spider Climb:__ The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+* __Web Walker:__ The spider ignores movement restrictions caused by webbing.
+
+#### Actions
+* __Bite:__ Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 
-{
-"name": "Ghast",
-"size": "Medium",
-"type": "undead",
-"subtype": "",
-"alignment": "chaotic evil",
-"armor_class": 13,
-"hit_points": 36,
-"hit_dice": "8d8",
-"speed": "30 ft.",
-"strength": 16,
-"dexterity": 17,
-"constitution": 10,
-"intelligence": 11,
-"wisdom": 10,
-"charisma": 8,
-"damage_vulnerabilities": "",
-"damage_resistances": "",
-"damage_immunities": "necrotic",
-"condition_immunities": "poisoned",
-"senses": "darkvision 60 ft., passive Perception 10",
-"languages": "Common",
-"challenge_rating": "2",
-"special_abilities": [
-{
-"name": "Stench",
-"desc": "Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.",
-"attack_bonus": 0
-},
-{
-"name": "Turn Defiance",
-"desc": "The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.",
-"attack_bonus": 0
-}
-],
-"actions": [
-{
-"name": "Bite",
-"desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.",
-"attack_bonus": 3,
-"damage_dice": "2d8",
-"damage_bonus": 3
-},
-{
-"name": "Claws",
-"desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
-"attack_bonus": 5,
-"damage_dice": "2d6",
-"damage_bonus": 3
-}
-]
-},
+
+### Ghast
+
+Medium undead () chaotic evil
+__AC:__ 13
+__HP:__ 36 (8d8
+__Movement:__ 30 ft.
+
+#### Abilities
+
+| STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|  16  |  17  |  10  |  11  |  10  |   8  |
+|__+3__|__+3__|      |      |      |__-1__|
+
+  * __Immune:__ necrotic
+  * __Immune:__ poisoned
+* __Senses:__ darkvision 60 ft., passive Perception 10
+* __Languages:__ Common
+* __Challenge:__ 2
+
+#### Special Abilities
+
+* __Stench:__ Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
+* __Turn Defiance:__ The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.
+
+#### Actions
+
+* __Bite:__ Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.
+* __Claws:__ Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 
-{
-"name": "Bandit",
-"size": "Medium",
-"type": "humanoid",
-"subtype": "any race",
-"alignment": "any non-lawful alignment",
-"armor_class": 12,
-"hit_points": 11,
-"hit_dice": "2d8",
-"speed": "30 ft.",
-"strength": 11,
-"dexterity": 12,
-"constitution": 12,
-"intelligence": 10,
-"wisdom": 10,
-"charisma": 10,
-"damage_vulnerabilities": "",
-"damage_resistances": "",
-"damage_immunities": "",
-"condition_immunities": "",
-"senses": "passive Perception 10",
-"languages": "any one language (usually Common)",
-"challenge_rating": "1/8",
-"actions": [
-{
-"name": "Scimitar",
-"desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.",
-"attack_bonus": 3,
-"damage_dice": "1d6",
-"damage_bonus": 1
-},
-{
-"name": "Light Crossbow",
-"desc": "Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
-"attack_bonus": 3,
-"damage_dice": "1d8",
-"damage_bonus": 1
-}
-]
-},
+
+### Bandit
+
+Medium humanoid (any race) any non-lawful alignment
+
+__AC:__ 12
+__HP:__ 11 (2d8
+__Movement:__ 30 ft.
+
+#### Abilities
+
+| STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|  11  |  12  |  12  |  10  |  10  |  10  |
+|      |__+1__|__+1__|      |      |      |
+
+* __Senses:__ passive Perception 10
+* __Languages:__ any one language (usually Common)
+* __Challenge:__ 1/8
+
+#### Actions
+
+* __Scimitar:__ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+* __Light Crossbow:__ Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 
 
-{
-"name": "Gladiator",
-"size": "Medium",
-"type": "humanoid",
-"subtype": "any race",
-"alignment": "any alignment",
-"armor_class": 16,
-"hit_points": 112,
-"hit_dice": "15d8",
-"speed": "30 ft.",
-"strength": 18,
-"dexterity": 15,
-"constitution": 16,
-"intelligence": 10,
-"wisdom": 12,
-"charisma": 15,
-"strength_save": 7,
-"dexterity_save": 5,
-"constitution_save": 6,
+
+### Gladiator
+
+Medium humanoid (any race) any alignment
+__AC:__ 16
+__HP:__ 112 (15d8
+__Movement:__ 30 ft.
+
+#### Abilities
+
+|  Ability   | STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----------:|:----:|:----:|:----:|:----:|:----:|:----:|
+|__Score__   |  18  |  15  |  16  |  10  |  12  |  15  |
+|__Modifier__|__+4__|__+2__|__+3__|      |__+1__|__+2__|
+|__Save__    | _+7_ | _+5_ | _+6_ |      |      |      |
+
 "athletics": 10,
 "intimidation": 5,
-"damage_vulnerabilities": "",
-"damage_resistances": "",
-"damage_immunities": "",
-"condition_immunities": "",
-"senses": "passive Perception 11",
-"languages": "any one language (usually Common)",
-"challenge_rating": "5",
-"special_abilities": [
-{
-"name": "Brave",
-"desc": "The gladiator has advantage on saving throws against being frightened.",
-"attack_bonus": 0
-},
-{
-"name": "Brute",
-"desc": "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).",
-"attack_bonus": 0
-}
-],
-"actions": [
-{
-"name": "Multiattack",
-"desc": "The gladiator makes three melee attacks or two ranged attacks.",
-"attack_bonus": 0
-},
-{
-"name": "Spear",
-"desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.",
-"attack_bonus": 7,
-"damage_dice": "2d6",
-"damage_bonus": 4
-},
-{
-"name": "Shield Bash",
-"desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
-"attack_bonus": 7,
-"damage_dice": "2d4",
-"damage_bonus": 4
-}
-],
-"reactions": [
-{
-"name": "Parry",
-"desc": "The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.",
-"attack_bonus": 0
-}
-]
-},
+* __Senses:__ passive Perception 11
+* __Languages:__ any one language (usually Common)
+* __Challenge:__ 5
+
+#### Special Abilities
+
+* __Brave:__ The gladiator has advantage on saving throws against being frightened.
+* __Brute:__ A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
+
+#### Actions
+
+* __Multiattack:__ The gladiator makes three melee attacks or two ranged attacks.
+* __Spear:__ Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+* __Shield Bash:__ Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+#### Reactions
+
+* __Parry:__ The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
