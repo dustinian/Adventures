@@ -1,36 +1,68 @@
-﻿# Avengers Planar Incursion
+﻿Avengers Planar Incursion
+=========================
 
-## Summary
+
+
+Summary
+-------
 
 An Avengers one-shot using Tribality's [5E Avengers Builds](http://tribality.com/2015/05/03/avengers-assemble-character-builds-for-dd-5e).
 
-## Setting
+
+
+Setting
+-------
 
 [Hammerfast](http://nentirvale.wikidot.com/hammerfast), in the [Nentir Vale](http://nentirvale.wikidot.com/setting).
 
 I've wanted to run Mike Mearls' "Hammerfast" supplement for years, and the Avengers need a good, fleshed-out urban environment for their adventures.
 
-## Hook
 
-Mission from god(s).
 
-Since this is a one-shot, the Avengers are already a team, members of "The Holy Order of the Shield." They're sent to Hammerfast by Abbot Nicholas the Furious to investigate a planar incursion detected by the seers.
+Hook
+----
 
-## DM Notes
+__Mission from god(s).__ Abbot _Nicholas the Furious_ of _The Holy Order of the Shield_ sends the _Avengers_, the order's most elite warriors, to investigate a planar incursion detected by the order's seers.
 
-* Kleitos Caiside, a bitter warlock, briefly opened a portal during a ritual gone awry.
-* A symbiotic entity slipped through, joined with Kleitos, and turned his bitterness into homicidal rage.
-* The symbiote is using Kleitos to wreak havoc on this plane, sewing thieves, bandits, and wretches with its offspring.
-* The symbiote offspring that Kleitos implanted in his first victim--his former manservant--is near full maturity. See the henchman under "Villains."
-* Other, less mature, symbiote offspring are causing problems in Hammerfast as well. See the minions under "Villains."
-* Are these symbiots on a cheerful, bloody rampage, sewing terror throughout Hammerfast? Or is the parent symbiote/Kleitos playing it safe and keeping the minions under wraps (but still with minor killings here and there), sewing more rumors than terror? You decide!
 
-## Plot
 
-Search and destroy.
-The PCs will follow the trail of bodies and/or follow their investigation with city officials to eventually discover a group of minions, then the main henchman, then the super-villain himself.
+Background
+----------
 
-## Villains
+In _Hammerfast_:
+
+* __Carnage:__ A bitter, antisocial warlock, _Kleitos Caiside_, briefly opened a portal during a ritual gone awry.
+  * A _Symbiote_ slipped through, joined with _Kleitos_, and turned his bitterness into homicidal rage. _Kleitos_ refers to his new "self" as _Carnage_.
+  * Seers of _The Holy Order of the Shield_ detected the breach and alerted their abbot, _Nicholas the Furious_.
+* __Three Days Ago:__ The _Symbiote_ started using _Kleitos_ to create and spread offspring:
+  * __Henchmen:__ The _Symbiote_ offspring that Kleitos implanted in his first victim&mdash;his former manservant&mdash;is near full maturity.
+  * __Minions:__ Other, less mature, _Symbiote_ offspring are causing problems in _Hammerfast_ as well.
+* Are these _Symbiotes_ on a cheerful, bloody rampage, sewing terror throughout _Hammerfast_? Or is the parent _Symbiote_/_Kleitos_ playing it safe and keeping the minions under wraps (but with minor killings here and there), sewing more rumors than terror? __You decide!__
+
+
+
+Plot
+----
+
+__Search and destroy.__ The Players' Characters will follow the trail of bodies and/or follow their investigation to discover a group of __Minions__, then the main __Henchman__, then __Kleitos__ himself.
+
+1. Optional: Opening fight against the _Cult of Hydra_.
+2. Briefing by Abbot _Nicholas the Furious_.
+3. Discovering the __Minions__.
+4. Discovering the __Henchman__.
+5. Discovering __Carnage__.
+
+
+
+Optional: Opening fight against the _Cult of Hydra_.
+----------------------------------------------------
+
+
+
+
+
+Villains
+--------
 
 [Carnage](https://en.wikipedia.org/wiki/Carnage_\(comics\)).
 
@@ -60,7 +92,7 @@ Thanks for thoughts, and I hope you can use the framework for a fun one-shot.
 
 ### Chain Devil
 
-Medium Fiend (Devil), Lawful Evil
+Medium Fiend (Devil), Lawful Evil.
 
 #### Defense
 
@@ -72,10 +104,10 @@ Medium Fiend (Devil), Lawful Evil
 
 #### Abilities
 
-| STR  | DEX  | CON  | INT  | WIS  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  18  |  15  |  18  |  11  |  12  |  14  |
-|__+4__|__+2__|__+4__|      |      |__+2__|
+|  Ability   | STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----------:|:----:|:----:|:----:|:----:|:----:|:----:|
+|__Score__   |  18  |  15  |  18  |  11  |  12  |  14  |
+|__Modifier__|__+4__|__+2__|__+4__|      |      |__+2__|
 
 #### Senses / Communication
 
@@ -103,19 +135,24 @@ Medium Fiend (Devil), Lawful Evil
 ### Black Pudding
 
 Large Ooze, Unaligned.
-__AC:__ 7
-__HP:__ 85 (10d10
-__Movement:__ 20 ft., climb 20 ft.
+
+#### Defense
+
+* __Armor Class:__ 7
+* __Hit Points:__ 85 (10d10
+  * __Immune:__ acid, cold, lightning, slashing
+  * __Immune:__ blinded, charmed, deafened, exhaustion, frightened, prone
+* __Speed:__ 20 ft., climb 20 ft.
 
 #### Abilities
 
-| STR  | DEX  | CON  | INT  | WIS  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  16  |   5  |  16  |   1  |   6  |   1  |
-|__+3__|__-3__|__+3__|__-5__|__-2__|__-5__|
+|  Ability   | STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----------:|:----:|:----:|:----:|:----:|:----:|:----:|
+|__Score__   |  16  |   5  |  16  |   1  |   6  |   1  |
+|__Modifier__|__+3__|__-3__|__+3__|__-5__|__-2__|__-5__|
 
-  * __Immune:__ acid, cold, lightning, slashing
-  * __Immune:__ blinded, charmed, deafened, exhaustion, frightened, prone
+#### Senses / Communication
+
 * __Senses:__ blindsight 60 ft. (blind beyond this radius), passive Perception 8
 * __Challenge:__ 4
 
@@ -137,22 +174,26 @@ __Movement:__ 20 ft., climb 20 ft.
 
 ### Phase Spider
 
-Large monstrosity () unaligned
+Large Monstrosity, Unaligned
 
-__AC:__ 13
-__HP:__ 32 (5d10
-__Movement:__ 30 ft., climb 30 ft.
+#### Defense
+
+* __Armor Class:__ 13
+* __Hit Points:__ 32 (5d10
+* __Speed:__ 30 ft., climb 30 ft.
 
 #### Abilities
 
-| STR  | DEX  | CON  | INT  | WIS  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  15  |  15  |  12  |   6  |  10  |   6  |
-|__+2__|__+2__|__+1__|__-2__|      |__-2__|
+|  Ability   | STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----------:|:----:|:----:|:----:|:----:|:----:|:----:|
+|__Score__   |  15  |  15  |  12  |   6  |  10  |   6  |
+|__Modifier__|__+2__|__+2__|__+1__|__-2__|      |__-2__|
 
 #### Skills
 
 * Stealth: 6
+
+#### Senses / Communication
 
 * __Senses:__ darkvision 60 ft., passive Perception 10
 * __Challenge:__ 3
@@ -170,20 +211,24 @@ __Movement:__ 30 ft., climb 30 ft.
 
 ### Ghast
 
-Medium undead () chaotic evil
-__AC:__ 13
-__HP:__ 36 (8d8
-__Movement:__ 30 ft.
+Medium Undead, Chaotic Evil
+
+#### Defense
+
+* __Armor Class:__ 13
+* __Hit Points:__ 36 (8d8
+  * __Immune:__ Necrotic, Poison.
+* __Speed:__ 30 ft.
 
 #### Abilities
 
-| STR  | DEX  | CON  | INT  | WIS  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  16  |  17  |  10  |  11  |  10  |   8  |
-|__+3__|__+3__|      |      |      |__-1__|
+|  Ability   | STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----------:|:----:|:----:|:----:|:----:|:----:|:----:|
+|__Score__   |  16  |  17  |  10  |  11  |  10  |   8  |
+|__Modifier__|__+3__|__+3__|      |      |      |__-1__|
 
-  * __Immune:__ necrotic
-  * __Immune:__ poisoned
+#### Senses / Communication
+
 * __Senses:__ darkvision 60 ft., passive Perception 10
 * __Languages:__ Common
 * __Challenge:__ 2
@@ -202,18 +247,22 @@ __Movement:__ 30 ft.
 
 ### Bandit
 
-Medium humanoid (any race) any non-lawful alignment
+Medium Humanoid (any race), Any non-lawful alignment
 
-__AC:__ 12
-__HP:__ 11 (2d8
-__Movement:__ 30 ft.
+#### Defense
+
+* __Armor Class:__ 12
+* __Hit Points:__ 11 (2d8
+* __Speed:__ 30 ft.
 
 #### Abilities
 
-| STR  | DEX  | CON  | INT  | WIS  | CHA  |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|  11  |  12  |  12  |  10  |  10  |  10  |
-|      |__+1__|__+1__|      |      |      |
+|  Ability   | STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----------:|:----:|:----:|:----:|:----:|:----:|:----:|
+|__Score__   |  11  |  12  |  12  |  10  |  10  |  10  |
+|__Modifier__|      |__+1__|__+1__|      |      |      |
+
+#### Senses / Communication
 
 * __Senses:__ passive Perception 10
 * __Languages:__ any one language (usually Common)
@@ -229,9 +278,12 @@ __Movement:__ 30 ft.
 ### Gladiator
 
 Medium humanoid (any race) any alignment
-__AC:__ 16
-__HP:__ 112 (15d8
-__Movement:__ 30 ft.
+
+#### Defense
+
+* __Armor Class:__ 16
+* __Hit Points:__ 112 (15d8
+* __Speed:__ 30 ft.
 
 #### Abilities
 
@@ -241,8 +293,14 @@ __Movement:__ 30 ft.
 |__Modifier__|__+4__|__+2__|__+3__|      |__+1__|__+2__|
 |__Save__    | _+7_ | _+5_ | _+6_ |      |      |      |
 
-"athletics": 10,
-"intimidation": 5,
+#### Skills
+
+* __Athletics:__ 10
+* __Intimidation:__ 5
+
+
+#### Senses / Communication
+
 * __Senses:__ passive Perception 11
 * __Languages:__ any one language (usually Common)
 * __Challenge:__ 5
