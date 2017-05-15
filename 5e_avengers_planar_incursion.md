@@ -1,28 +1,46 @@
 ﻿Avengers Planar Incursion
 =========================
 
+_An Avengers one-shot using Tribality's [5E Avengers Builds](http://tribality.com/2015/05/03/avengers-assemble-character-builds-for-dd-5e)._
+
 
 
 Summary
 -------
 
-An Avengers one-shot using Tribality's [5E Avengers Builds](http://tribality.com/2015/05/03/avengers-assemble-character-builds-for-dd-5e).
+__Mission from god(s).__ Abbot _Nicholas the Furious_ of _The Holy Order of the Shield_ sends the _Avengers_, the order's most elite warriors, to investigate a planar incursion detected by the order's seers.
 
 
 
 Setting
 -------
 
-[Hammerfast](http://nentirvale.wikidot.com/hammerfast), in the [Nentir Vale](http://nentirvale.wikidot.com/setting).
+Any city or town, including, but not limited to:
 
-I've wanted to run Mike Mearls' "Hammerfast" supplement for years, and the Avengers need a good, fleshed-out urban environment for their adventures.
+* [Hammerfast](http://nentirvale.wikidot.com/hammerfast), in the [Nentir Vale](http://nentirvale.wikidot.com/setting)
+* [Waterdeep](), on the [Sword Coast]() of the [Forgotten Realms]().
 
 
 
-Hook
-----
+Outline/Antagonists
+-------------------
 
-__Mission from god(s).__ Abbot _Nicholas the Furious_ of _The Holy Order of the Shield_ sends the _Avengers_, the order's most elite warriors, to investigate a planar incursion detected by the order's seers.
+1. __The Cult of Hydra:__ Like the second _[Avengers](https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron)_ movie, open in the middle of an action scene. This is an easy fight; a blowout to let players test-drive their high-level characters.
+2. __The Covered Minions:__ Find thugs and bandits covered in strange, living cloth armor.
+3. __The Armored Henchmen:__ 
+* __[Carnage](https://en.wikipedia.org/wiki/Carnage_\(comics\)):__ One of the few Marvel villains who's widely recognizable, but hasn't appeared in the Marvel Cinematic Universe.
+  * __[Symbiote](https://en.wikipedia.org/wiki/Symbiote_\(comics\)):__ _Optional._ If your players easily defeat __Carnage__, you can extend the fight by having the __Symbiote__ attack them directly.
+  * __[
+
+
+[Carnage](https://en.wikipedia.org/wiki/Carnage_\(comics\)).
+
+I wanted a Marvel villain that's instantly recognizable, but hasn't been done in the Marvel Cinematic Universe, so I chose Carnage.
+
+* **Carnage** (Yochlol; MM p.65; CR 10; 5,900XP) Carnage is a yochlol in stats and abilities only. Any flavor text or visual descriptions of the yochlol should be changed to fit Carnage's description.
+* **[Symbiote](https://en.wikipedia.org/wiki/Symbiote_\(comics\))** (Black Pudding; MM p.241; CR 4; 1,100XP) The symbiote is only fought after Carnage is defeated. A surprise "part II" to the big bad boss fight. If the players have trouble beating carnage, the DM could lower the sybiote's starting hit points, or even omit this battle.
+* **Henchman** (Chain Devil; MM p.72; CR 8; 3,900XP) The main henchman--perhaps [Doppelganger](https://en.wikipedia.org/wiki/Doppelganger_\(comics\))--should be flavorfully altered on the fly... chains become webbing, for example.
+* **Minion** (Ghast; MM p.148; CR 2; 450XP) Thugs and thieves taken over by weaker offspring of the symbiote.
 
 
 
