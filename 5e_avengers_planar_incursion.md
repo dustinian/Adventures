@@ -8,7 +8,7 @@ _An Avengers one-shot using Tribality's [5E Avengers Builds](http://tribality.co
 Summary
 -------
 
-__Mission from god(s).__ Abbot _Nicholas the Furious_ of _The Holy Order of the Shield_ sends the _Avengers_, the order's most elite warriors, to investigate a planar incursion detected by the order's seers.
+Abbot _Nicholas the Furious_ of _The Holy Order of the Shield_ sends the _Avengers_, the order's most elite warriors, to investigate a planar incursion detected by the order's seers.
 
 
 
@@ -18,14 +18,14 @@ Setting
 Any city or town, including, but not limited to:
 
 * [Hammerfast](http://nentirvale.wikidot.com/hammerfast), in the [Nentir Vale](http://nentirvale.wikidot.com/setting)
-* [Waterdeep](), on the [Sword Coast]() of the [Forgotten Realms]().
+* [Waterdeep](https://en.wikipedia.org/wiki/Waterdeep), on the [Sword Coast](https://en.wikipedia.org/wiki/List_of_regions_in_Faer%C3%BBn#Sword_Coast) of the [Forgotten Realms](https://en.wikipedia.org/wiki/Forgotten_Realms).
 
 
 
 Outline/Antagonists
 -------------------
 
-1. __The Cult of Hydra:__ Like the second _[Avengers](https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron)_ movie, open in the middle of an action scene. This is an easy fight; a blowout to let players test-drive their high-level characters.
+1. __The Cult of Hydra:__ Like the second _[Avengers](https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron)_ movie, open in the middle of an action scene.
 2. __The Covered Minions:__ Find thugs and bandits covered in strange, living cloth armor.
 3. __The Armored Henchmen:__ 
 * __[Carnage](https://en.wikipedia.org/wiki/Carnage_\(comics\)):__ One of the few Marvel villains who's widely recognizable, but hasn't appeared in the Marvel Cinematic Universe.
@@ -47,35 +47,35 @@ I wanted a Marvel villain that's instantly recognizable, but hasn't been done in
 Background
 ----------
 
-In _Hammerfast_:
-
-* __Carnage:__ A bitter, antisocial warlock, _Kleitos Caiside_, briefly opened a portal during a ritual gone awry.
-  * A _Symbiote_ slipped through, joined with _Kleitos_, and turned his bitterness into homicidal rage. _Kleitos_ refers to his new "self" as _Carnage_.
+* __Five Days Ago:__ A bitter, antisocial warlock, _Kleitos Caiside_, briefly opened a portal during a ritual gone awry.
+  * __Carnage:__ A _Symbiote_ slipped through, joined with _Kleitos_, and turned his bitterness into homicidal rage. _Kleitos_ refers to his new "self" as _Carnage_.
   * Seers of _The Holy Order of the Shield_ detected the breach and alerted their abbot, _Nicholas the Furious_.
 * __Three Days Ago:__ The _Symbiote_ started using _Kleitos_ to create and spread offspring:
   * __Henchmen:__ The _Symbiote_ offspring that Kleitos implanted in his first victim&mdash;his former manservant&mdash;is near full maturity.
   * __Minions:__ Other, less mature, _Symbiote_ offspring are causing problems in _Hammerfast_ as well.
-* Are these _Symbiotes_ on a cheerful, bloody rampage, sewing terror throughout _Hammerfast_? Or is the parent _Symbiote_/_Kleitos_ playing it safe and keeping the minions under wraps (but with minor killings here and there), sewing more rumors than terror? __You decide!__
+* __Two Days Ago:__ Abbot _Nicholas the Furious_ asks the players' characters to track, contain, and/or destroy any planar incursionists.
+  * Are these _Symbiotes_ on a cheerful, bloody rampage, sewing terror throughout _Hammerfast_? Or is the parent _Symbiote_/_Kleitos_ playing it safe and keeping the minions under wraps (but with minor killings here and there), sewing more rumors than terror? __You decide!__
 
 
 
-Plot
-----
+Encounters
+----------
 
 __Search and destroy.__ The Players' Characters will follow the trail of bodies and/or follow their investigation to discover a group of __Minions__, then the main __Henchman__, then __Kleitos__ himself.
 
-1. Optional: Opening fight against the _Cult of Hydra_.
-2. Briefing by Abbot _Nicholas the Furious_.
-3. Discovering the __Minions__.
-4. Discovering the __Henchman__.
-5. Discovering __Carnage__.
+1. Combat Encounter: The _Cult of Hydra_.
+2. Social Encounter:  Abbot _Nicholas the Furious_.
+3. Exploration: Uncovering the trail.
+3. Combat Encounter: Fighting the __Minions__.
+3. Combat Encounter: Fighting the __Henchmen__.
+3. Combat Encounter: Fighting __Carnage__.
 
 
 
 Optional: Opening fight against the _Cult of Hydra_.
 ----------------------------------------------------
 
-
+This is an easy fight; a blowout to let players test-drive their high-level characters.
 
 
 
