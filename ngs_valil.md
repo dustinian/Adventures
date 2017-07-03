@@ -43,9 +43,7 @@ Contents
 Summary
 -------
 
-Explore the most common clichés in fantasy role-playing, from rats in a basement to skeletons in a dungeon; use these tropes to explore the flexibility of NGS, and the very non-cliché approaches you're free to take.
-
-This is a role-playing experiment, and the independent variable is the system. My hypothesis is that you'll appreciate NGS's simplicity, and your group will love getting right to the fun part: playing. I look forward to your conclusions!
+Leverage the most common clichés in fantasy role-playing, from rats in a basement to skeletons in a dungeon, to explore the flexibility of NGS and the very non-cliché approaches your group can take.
 
 
 
@@ -57,19 +55,19 @@ Setting
 
 ### Introduction
 
-* __Structure:__ Valil is a medium-sized, town of about 5,000 people. Surrounded by a low outer wall, it's relatively well-defended against beasts and monsters, but it would fall in less than a week to an organized "army."
-* __Guards:__ Valil is protected by 50 overworked "regular" guards, and 500 reserves. Many of the reserves only show up monthly training for their silver piece, but morale is high enough in Valil that a solid majority of the reserves see this training as their civic duty.
-* __Government:__ Valil is a feudal society. The guard regularly patrol the city and haphazardly dispense justice to the rabble, but most disputes between peasants are resolved by an appeal to the gentry (their employers). Gentry appeal to nobility (their lords). The highest authority in Valil is the Sherrif, who rules on behalf of a distant King.
-* __History:__ Valil sprang up alongside a river 400 years ago, so the structures by the river (docks, mills, warehouses) are the oldest. Moving away from the river, there are interspersed homes, merchants, and skilled laborers. Farthest away from the river are the silos, barns, corrals, and charnels that support the farms around Valil.
+* __Structure:__ Valil is a remote, medium-sized town of about 5,000 people. Surrounded by a low outer wall, it's relatively well-defended against beasts and monsters, but it would fall in less than a week to an organized "army."
+* __Guards:__ Valil is protected by 50 overworked "regular" guards, and 500 reserves. Many of the reserves only show up to monthly training for their silver piece, but morale is high, and a solid majority of the reserves see monthly training and occasional service as their civic duty.
+* __Government:__ Valil is a feudal town. The regular guards patrol the city and haphazardly dispense justice to the rabble, but most disputes are resolved by appealing up the social ladder: peasants to the gentry (their employers), gentry appeal to nobility (their lords), and the nobility appeal to the Sherrif, who rules on behalf of a distant King.
+* __Geography:__ Valil sprang up alongside a river 400 years ago, so the structures by the river (docks, mills, warehouses) are the oldest. Moving away from the river, there are interspersed homes, merchants, and skilled laborers. Farthest away from the river are the silos, barns, corrals, and charnels that support the farms around Valil.
 * __Map:__ No map of Valil is included in this supplement. Buildings, businesses, and residences are located where dramatically appropriate. You can improv geography with confidence, because this supplement will not contradict you.
 
 ### Big Events
 
 * __Tyranny, _100 years ago_:__ The thirteenth sherriff of Valil ruled with an iron fist while his son toyed with dark forces. Many peasants died. The Tyrant was assinated; his son was imprisoned. His regime is remembered with shivers and ghost stories to this day.
 * __Prosperity, _25 years ago_:__ The sixteenth sherriff of Valil raised taxes on the nobility and gentry, earning much emnity. But he used these funds to improve roads, fortify Valil, and double the standing guard to 100. Banditry all but stopped, and the security improved peasants' lives. After a few years, the sixteenth sherriff was beloved like a tough, but caring, father.
-* __Abdication, _5 years ago_:__ The beloved sixteenth sherriff stepped down after an abnormally long rule, sparing Valil from his mounting senility. He sequestered himself in a monestary, selecting the head of the merchant's guild as the seventeenth sherriff.
+* __Abdication, _5 years ago_:__ The beloved sixteenth sherriff stepped down after an abnormally long rule, sparing Valil from his mounting senility. He sequestered himself in a monestary and selected the head of the merchant's guild as the seventeenth sherriff.
 * __Assassination, _last year_:__ The seventeenth sherriff reversed the taxation... merchants and nobles grew wealthier, but Valil could no longer afford 100 full-time guardsmen. Banditry rose. Peasants protested. Some nobles advocated for the return of the taxes, but most nobles refused. The seventeenth sherriff was assasinated in his bed.
-* __Coronation, _last month_:__ The distant King appointed a new sherriff of Valil. The eighteenth sheriff, the first non-native sheriff of Valil in 400 years, arrived last month. Is he or she a good ruler in need of strong right hands to help set Valil right? A weak ruler to be manipulated? Another tyrant that must be overthrown? One of these masquerading as another? It's up to you!
+* __Coronation, _last month_:__ The distant King appointed a new sherriff of Valil. The eighteenth sheriff, the first non-native sheriff of Valil in 400 years, arrived last month. Is he or she a good ruler in need of strong right hands to help set Valil right? A weak ruler to be manipulated? Another tyrant that must be overthrown? One of these masquerading as another? You decide!
 
 ### Rumors
 
@@ -109,22 +107,21 @@ Characters should have:
 
 These abilities can be acquired from several sources:
 
-* __Mundane:__ Trained. Relatively common abilities... archery, fencing, riding... learned from relatively common mentors.
-* __Urbane:__ Cultivated. Uncommon abilities... passion, drama, manipulation... acquired through experience.
-* __Arcane:__ Discovered. Very uncommon abilities... spells, curses, rituals... learned from very uncommon mentors.
-* __Divine:__ God-given. Granted by a deity... who nearly always demands fealty, loyalty, or sacrifice in return.
+* __Mundane:__ Trained by mentors: archery, fencing, riding...
+* __Urbane:__ Cultivated from experience: passion, drama, manipulation...
+* __Arcane:__ Discovered through experimentation: spells, formulas, and rituals...
+* __Divine:__ Granted by a higher power... orisons, prayers, and curses...
 
 ### Health and Dying
 
 * __Damage Instances:__ 4
-  * __1-2:__ The first two damage instances a character receives are superficial:  bruises, strains, fatigue, etc.
+  * __1, 2:__ The first two damage instances a character receives are superficial:  bruises, strains, fatigue, etc.
   * __3:__ Only the third damage instance should be considered a "wound." Thus, any duels "to first blood" would actually be "to the third damage instance."
-  * __4:__ The fourth damage instance renders a PC unconscious. The GM should rule when death occurs based on the narrative and the type of wounds inflicted.
-    * _Note:_ When a PC is knocked unconscious in mortal combat, I like to ask the player to make a physicality roll... The character will die in that many "rounds" without treatment or healing (a character with a Physicality of d6+4 will die in d6+4 rounds).
-* __Recovery:__ Recover 2 instances after first long, restful sleep. Recover remaining instances one-per-rest.
-* __Healing:__ Characters who take appropriate narrative abilities can heal themselves or other charactes.
-  * __Major:__ Restore 2 instances.
-  * __Minor:__ Restore 1 instance.
+  * __4:__ After the fourth damage instance, the PC is unconscious and at risk of death.
+* __Death:__ The GM should rule when death occurs based on the narrative and the wounds.
+    * _Suggestion:_ When a PC is knocked unconscious in combat, ask the player to make a physicality roll... The character will die in that many "rounds" without treatment or healing. Therefore, a character with a Physicality of d6+4 will die in d6+4 rounds.
+* __Recovery:__ Recover 2 damage instances after first long, restful sleep. Recover remaining instances one-per-rest.
+* __Healing:__ Characters with appropriate narrative abilities can heal themselves or other characters; usually only one damage instance at a time.
 
 
 
@@ -654,7 +651,7 @@ Description
 Pre-Generated Characters
 ------------------------
 
-Rolling your own characters is fun and easy, and no pre-generated character will ever resonate as fully. But pre-generated characters are a great tool for a novice or first-time players. I named the characters from a list of [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and avoided gendered pronouns, so feel free to play any character as any gender.
+Rolling your own characters is fun and easy, but pre-generated characters are a great tool for a novice or first-time players. These characters have [Unisex Names](http://www.parenting.com/baby-names/lists/unisex-names) and no gendered pronouns, so feel free to play any character as any gender.
 
 
 
@@ -681,7 +678,7 @@ Strong, but slow&mdash;Brett values actions over words.
 
 * __Overwhelm:__ In the wild ecastacy of battle, Brett can overpower almost any adversary; spend a Narrative Accolade to deal damage to a foe despite a missed attack roll.
 * __By This Axe:__ Recognizing that social "power" is an illusion, Brett may substitude _Physicality_ for _Personality_ on rolls to intimidate or negotiate.
-* __Untamed:__ Brett's naturist, honest outlook cause some "civilized" people to romanticize him as a "noble savage." Brett can use this to win new friends and lovers.
+* __Untamed:__ Brett's naturist, honest outlook cause some "civilized" people to romanticize Brett as a "noble savage." Brett can use this to win new friends and lovers.
 
 ##### Goals
 
@@ -712,7 +709,7 @@ Devout, but abrasive&mdash;Casey values conviction over temperament.
 
 ###### Major
 
-* __Divine Favor:__ Clerics may call upon their Gods for Divine Favors. Clerics should make an _Extraordinary_ check every "morning" to see how many _Divine Favors_ they can use that day. Clerics may use divine favors or Narrative Accolades to:
+* __Divine Favor:__ Clerics may call upon their Gods for Divine Favors. Clerics should make an _Extraordinary_ check every "morning" to see how many _Divine Favors_ they can use that day. Clerics may use _Divine Favors_ or _Narrative Accolades_ to:
   * __Heal:__ Heal one damage instance.
   * __Bless:__ Add +2 to a roll.
   * __Smite:__ Call down the wrath of your God on an enemy that you can see... make opposed _Extraordinary_ checks and deal appropriate damage.
@@ -726,7 +723,7 @@ Devout, but abrasive&mdash;Casey values conviction over temperament.
 
 ##### Goals
 
-* __Resuscitate:__ Dead citizens cannot serve the greater good, whenever possible
+* __Resuscitate:__ Dead citizens cannot serve the greater good; whenever possible Casey heals the wounded. Casey cannot cure sickness; only wounds.
 * __Rehabilitate:__ Casey believes that no evil is absolute, and that many can be rehabilitated. Thus Casey kills only when directly defending innocent life.
 
 ##### Flaws
