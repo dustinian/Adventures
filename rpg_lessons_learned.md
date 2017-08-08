@@ -1,44 +1,68 @@
-Our Podcast: RPG Lessons Learned
-================================
+RPG Lessons Learned
+===================
 
-Premise
+_Podcast by Brian (/u/tfradio) and Dusty (/u/dustinian)._
+
+
+
+[Episode 012: Kobold Hall](https://www.tfradio.net/2017/07/23/rpg-lessons-learned-012-kobold-hall/)
+----------------------------
+
+Mike joins us to talk about running _Kobold Hall_ from the back of the fourth edition _Dungeon Master's Guide_. We share lessons we learned, including:
+
+* Former GMs/DMs are demanding players!
+* How we learned to think about Hit Points.
+* The value of a ruthless GM/DM in encounters.
+* Is first-level too early to take on a dragon?
+
+
+
+Purpose
 -------
 
-Brian and I share the lessons we've learned from our own games.
+We share the specific lessons we've learned from our own games.
 
-Our Thing
----------
+We want rising DMs/GMs to learn from our successes and failures. By talking about specific situations in real games, we make the lessons we've learned clear and applicable.
 
-There are fantastic actual play podcasts and streams (One Shot, Godsfall, Shadow of the Cabal). There are fantastic Q&amp;A podcasts (Happy Jacks).
 
-We wanted to do something a little different (we think), and talk about the lessons we've learned for ourselves as we've played.
 
-Format
-------
+Past Episodes
+-------------
 
-In each half-hour episode, we quickly re-cap a session, and discuss the lessons we learned.
+* [001: First Game](https://www.tfradio.net/2017/05/08/rpg-lessons-learned-001-you-dont-have-to-know-what-youre-doing/)
+* [002: Red Box](https://www.tfradio.net/2017/05/12/rpg-lessons-learned-002-if-its-fun-do-it-an-examination-of-the-red-box/)
+* [003: Prison Break](https://www.tfradio.net/2017/05/21/rpg-lessons-learned-003-the-prison-break/)
+* [004: Reavers of Harkenwold](https://www.tfradio.net/2017/05/28/rpg-lessons-learned-004-harkenwold-and-making-a-game-your-own/)
+* [005: Halloween Game](https://www.tfradio.net/2017/06/04/rpg-lessons-learned-005-the-halloween-game/)
+* [006: Dusk](https://www.tfradio.net/2017/06/11/rpg-lessons-learned-006-dusk-by-mike-krahulik/)
+* [007: Cairn of the Winter King](https://www.tfradio.net/2017/06/18/rpg-lessons-learned-007-cairn-of-the-winter-king/)
+* [008: Tomb of Horrors](https://www.tfradio.net/2017/06/25/rpg-lessons-learned-008-tomb-of-horrors/)
+* [009: Tower of Waiting](https://www.tfradio.net/2017/07/02/rpg-lessons-learned-009-tower-waiting-total-misstep/)
+* [010: Bulletin Board 1](https://www.tfradio.net/2017/07/09/rpg-lessons-learned-010-board-games-part-1/)
+* [011: Bulletin Board 2](https://www.tfradio.net/2017/07/16/rpg-lessons-learned-010-board-games-part-2/)
+* [012: Kobold Hall](https://www.tfradio.net/2017/07/23/rpg-lessons-learned-012-kobold-hall/)
 
-Value Proposition
------------------
-
-We hope rising DMs/GMs can learn from our successes and failures. We hope that by talking about specific situations in real games, we make the lessons we learned clear and applicable for our listeners.
-
-Episodes
---------
-
-* [001: First Game](http://tfpod.co/2017/05/08/rpg-lessons-learned-001-you-dont-have-to-know-what-youre-doing/)
-* [002: Red Box](http://tfpod.co/2017/05/12/rpg-lessons-learned-002-if-its-fun-do-it-an-examination-of-the-red-box/)
-* [003: Prison Break](http://tfpod.co/2017/05/21/rpg-lessons-learned-003-the-prison-break/)
 
 Subscribe
 ---------
 
-* [iTunes](https://itunes.apple.com/us/podcast/rpg-lessons-learned/id1236502816?mt=2&ls=1)
-* [Android](http://subscribeonandroid.com/tfpod.co/category/all/rpg-lessons-learned/feed/)
-* [Email](http://subscribebyemail.com/tfpod.co/category/all/rpg-lessons-learned/feed/)
-* [Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Isdwskxywr55bifrnfdng7kg5xy?t%3DRPG_Lessons_Learned%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
-* [RSS](http://tfpod.co/category/all/rpg-lessons-learned/feed/)
-* Or subscribe with your favorite app with this URL: http://tfpod.co/category/all/rpg-lessons-learned/feed/
+* [iTunes](https://itunes.apple.com/us/podcast/rpg-lessons-learned/id1236502816?mt=2&amp;ls=1#episodeGuid=http%3A%2F%2Fwww.tfradio.net%2F%3Fp%3D18077)
+* [Google Play](https://play.google.com/music/listen?t%3DRPG_Lessons_Learned%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16#/ps/Isdwskxywr55bifrnfdng7kg5xy)
+* [Stitcher](http://www.stitcher.com/podcast/radio-free-cybertron/rpg-lessons-learned?refid=stpr)
+* [Android](https://subscribeonandroid.com/www.tfradio.net/category/all/rpg-lessons-learned/feed/)
+* [E-mail](https://subscribebyemail.com/www.tfradio.net/category/all/rpg-lessons-learned/feed/)
+* [RSS](https://www.tfradio.net/category/all/rpg-lessons-learned/feed/)
+
+
+
+Mods
+----
+
+Posting this podcast pre-approved by /u/Iamfivebears on 7/26/2017.
+
+This is post attempt #3 (Automod keeps nixing it for the "subscribe" URLs)!
+
+
 
 Self-Promotion
 --------------
