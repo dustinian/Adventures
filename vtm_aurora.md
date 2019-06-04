@@ -89,13 +89,33 @@ Players’ Characters in the “Aurora” campaign “level up” through the fo
 
 _Get started._
 
-### Introduce Your Characters
+### Summary
+
+_The Embrace_ is meant to serve as session 0; establish the PCs and their situation, and hint at what's to come.
+
+### First Night
+
+Land the following:
+
+* Terror of sun.
+* Insatiable hunger.
 
 ### Take them on their first hunt...
 
+* Hunt rules.
+* Blood levels.
+
 ### Have them meet Jack...
 
+* Figure watching.
+* Post-it Note, Find Jack.
+* Traditions
+* Clans
+* Hint at their taste for Diablerie with a frenzy check.
+
 ### Hint at “Blood Hunt…”
+
+* Land that they are abandoned.
 
 
 
@@ -103,98 +123,136 @@ _Get started._
 
 
 ## Blood Hunt
-Fool the local Prince.
-	1
-	Consequences
-	2
-	
 
-	3
-	
+_Fool the local Prince._
 
-	4
-	
+### Summary
 
-	________________
+The abandoned fledglings must convince the Camarilla that they are neonates.
 
+Must appear before prince as a neonate to survive, not a fledgling.
 
-Errand
-Go along to get along.
-	1
-	Consequences
-	2
-	
+### Sanctuary
 
-	3
-	
+* Lots of black denim, concrete floors, exposed ductwork, and neon lights.
+* Jack gives first quest.
 
-	4
-	
+### Quest
 
-	________________
+Brujah fledgling went renegade. Prince has called a blood hunt. I know where he is...
+
+### Enemies
+
+Brujah Fledgling.
+Three Brujah Ghouls.
+
+### Themes
+
+* Land their taste for Diablerie.
 
 
-Diablerist(s)
-Secrets revealed.
-	1
-	Consequences
-	2
-	
-
-	3
-	
-
-	4
-	
-
-	________________
 
 
-Antediluvian
-The Prince finds out.
-	1
-	Consequences
-	2
-	
-
-	3
-	
-
-	4
-	
-
-	________________
 
 
-Gehenna
-How does this end?
-	Encounter Cain…
-When the characters wake, they discover cain in their midst. He’s come to speak with them.
+## Errand
+
+_Go along to get along._
+
+
+
+
+
+
+## Diablerist(s)
+
+_Secrets revealed._
+
+
+### Goal
+
+Reveal their Diablerie.
+
+### Summary
+
+Let them chase a Malkavian.
+
+### Notes
+
+* Start a blood hunt on them.
+* The Sanctuary; Jack’s.
+* Outed as Diablerists.
+* Possibly outed as childer of Caine.
+* The Sanctuary.
+* Charlotte Streets.
+* Malkavian 
+
+
+
+
+
+
+## Antediluvian
+
+_The Prince finds out._
+
+### Goal
+
+Reveal the Fledglings are Progeny of Caine.
+
+### Start
+
+All Kindred have been called to the NationsBank Corporate Center.
+
+### Location
+
+One floor under the parking deck. Black marble with red Carpet.
+
+### Events
+
+* Malkavian Primogen scanning kindred upon entry.
+* Reporting To Tirza and Prince.
+* Lengthy negotiation with prince… he reveals he knows what they are…
+* Jumped on the way out by Brujah.
+
+
+
+
+
+
+## Gehenna
+
+__How does this end?__
+
+### Encounter Cain...
+
+When the characters wake, they discover Cain in their midst. He’s come to speak with them.
+
 Who are you?
+
 * You know who I am.
 * I changed you.
 * A thousand names, But the first was Quayin. Remembered as Cain.
+
 If questioned on (or using) any specific vampire term (Sire, Kindred, Kine, Antediluvian)...
+
 * Meaningless words. I am gifted, and cursed. I have gifted and cursed others. I don’t care what my children’s children’s children call it.
+
 Why did you change us?
+
 * I haven’t passed on my gifts or curses in ten thousand years. I killed my children and my children’s children. I let my children’s children’s children live, play their games.
 * But the world is changing. One way or another, the game will end soon.
 * You are my gehenna. You will hasten the end.
-What do you want?
-* I want you to choose. What are we blessed and cursed in the new world? Humanity’s rulers, or its servants?
-	
 
-	Consequences
-	Cain’s Mission
+What do you want?
+
+* I want you to choose. What are we blessed and cursed in the new world? Humanity’s rulers, or its servants?
+
+### Cain’s Mission
+
 * Kill Aaron to become humanity’s rulers.
 * Kill Tirza to become humanity’s servants.
 	
+### Ending Narration
 
-	
-
-		
-
-	
-
-	Ending Narration
 Ask the players to narrate what happens.
