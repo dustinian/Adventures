@@ -8,6 +8,10 @@ By Dustinian Camburides
 
 based on White Wolf’s 1997 Vampire: The Masquerade Quick Start.
 
+Check us out at [rpgllpodcast.com](http://www.rpgllpodcast.com).
+
+Follow us at [@rpgllpodcast](http://www.twitter.com/rpgllpodcast).
+
 
 
 
@@ -47,13 +51,33 @@ _Summary and advice._
 
 ### Pitch
 
-The players’ characters wake as newly-turned thin-blooded Kindred abandoned by their sire. Now they must navigate un-life on their own.
+The players’ characters wake as newly-turned thin-blooded Kindred abandoned by their sire. Now they must navigate un-life on their own while learning who turned them... and why.
 	
 ### Secret
 
-Cain turned the Players’ Characters... they’re second-generation vampires… new antediluvians. They will become incredibly powerful. And, as they grow into their power, Caine trusts they’ll decimate the vampire population. Gehenna is here, and the neonates are it’s harbingers.
+Cain turned the Players’ Characters... they’re second-generation vampires… new antediluvians. They will become incredibly powerful. And, as they grow into their power, Cain trusts they’ll leave vampire society entirely changed... or destroyed.
 
-### How to Use this Document
+Gehenna is here, and the neonates are it’s harbingers.
+
+### Theme
+
+This campaign explores what I see as a totally unsustainable mythology: vampires existing alongside modern technology.
+
+Facial recognition, infrared cameras, incindiary ammunition... these technologies (and many others) would present insurmountable problems for a population of vampires. My favorite part of various vampire mythologies is how they overcome these...
+
+...but what if they couldn't?
+
+### Background
+
+In my campaign, Cain sees the conflict... and he believes it's inevitable that either humans will wipe out all vampires, or vampires will subjugate all humans. But Cain doesn't trust himself to choose. He's been a silent observer to vampire and human history alike for millenia. And, while he's gained wisdom, he's lost perspective.
+
+He's decided to create new vampires...
+
+### This Document
+
+These are my notes for a 5-session campaign that I ran. I outlined each session _after_ I had already ran the previous session. I was able to tailor each new session to fit the story my players wanted to tell.
+
+I hope these notes help you run 
 
 ### Advice for the Storyteller
 
