@@ -55,7 +55,9 @@ The players’ characters wake as newly-turned thin-blooded Kindred abandoned by
 	
 ### Secret
 
-Cain turned the Players’ Characters... they’re second-generation vampires… new antediluvians. They will become incredibly powerful. And, as they grow into their power, Cain trusts they’ll leave vampire society entirely changed... or destroyed.
+Cain sired them...
+
+The players' characters are second-generation vampires… new antediluvians. They will become incredibly powerful. And, as they grow into their power, Cain trusts they’ll leave vampire society entirely changed... or entirely estroyed.
 
 Gehenna is here, and the neonates are it’s harbingers.
 
@@ -73,7 +75,11 @@ In my campaign, Cain sees the conflict... and he believes it's inevitable that e
 
 He's decided to create new vampires...
 
-### This Document
+### Warning
+
+These sessions are pretty linear...
+
+I wrote each new session after I'd already run the previous session...
 
 These are my notes for a 5-session campaign that I ran. I outlined each session _after_ I had already ran the previous session. I was able to tailor each new session to fit the story my players wanted to tell.
 
